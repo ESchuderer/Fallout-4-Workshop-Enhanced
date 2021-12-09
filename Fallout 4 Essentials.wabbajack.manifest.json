@@ -1,0 +1,2655 @@
+{
+  "$type": "Manifest, Wabbajack.Lib",
+  "Name": "Fallout 4 Essentials",
+  "Version": "1.0.0",
+  "Author": "CrowsBane",
+  "Description": "Fallout 4 Essentials with optional Sim Settlements 2 support.",
+  "GameType": "Fallout4",
+  "GameName": "Fallout4",
+  "ModManager": 0,
+  "ModManagerName": "MO2",
+  "DownloadSize": 5547706912,
+  "InstallSize": 9530202724,
+  "IsNSFW": false,
+  "Archives": [
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "PfX6zen7m2M=",
+      "Meta": null,
+      "Name": "Mod.Organizer-2.4.2.7z",
+      "Size": 89503525,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "nM5pw1sWMH8=",
+      "Meta": null,
+      "Name": "enbseries_fallout4_v0461.zip",
+      "Size": 2905746,
+      "State": {
+        "$type": "WabbajackCDNDownloader+State, Wabbajack.Lib",
+        "Url": "https://authored-files.wabbajack.org/enbseries_fallout4_v0461.zip_3bcdac63-d745-4f3a-be11-9e3bf89294e3",
+        "PrimaryKeyString": "WabbajackCDNDownloader+State|https://authored-files.wabbajack.org/enbseries_fallout4_v0461.zip_3bcdac63-d745-4f3a-be11-9e3bf89294e3"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "eRB40doNMPc=",
+      "Meta": null,
+      "Name": "FallOpt ENB-55662-2-1-1638907201.rar",
+      "Size": 357216,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "FallOpt - Lightweight ENB for Vanilla weather",
+        "Author": "SpringHeelJon",
+        "Version": "0.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55662/55662-1636664361-491599115.jpeg",
+        "IsNSFW": false,
+        "Description": "Featured in the Welcome to Paradise Wabbajack modlist by Phoenix, FallOpt is an optimized ENB for the vanilla weather system.",
+        "GameName": "Fallout4",
+        "ModID": 55662,
+        "FileID": 222290,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|55662|222290"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "KjhKrrH61jo=",
+      "Meta": null,
+      "Name": "f4se_0_06_21.7z",
+      "Size": 598435,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://f4se.silverlock.org/beta/f4se_0_06_21.7z",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://f4se.silverlock.org/beta/f4se_0_06_21.7z"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "5lnqwWvOd70=",
+      "Meta": null,
+      "Name": "xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip",
+      "Size": 2253885,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "xSE PluginPreloader F4",
+        "Author": "Karandra",
+        "Version": "0.2.5.1",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
+        "IsNSFW": false,
+        "Description": "This mod allows preload F4SE plugins before the game initializes.",
+        "GameName": "Fallout4",
+        "ModID": 33946,
+        "FileID": 221778,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|33946|221778"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "V0lum1pzN50=",
+      "Meta": null,
+      "Name": "TBB Redistributables-47359-2021-3-1629845425.zip",
+      "Size": 57312,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Buffout 4",
+        "Author": "Ryan",
+        "Version": "2021.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
+        "IsNSFW": false,
+        "Description": "It's like buffout but for the engine",
+        "GameName": "Fallout4",
+        "ModID": 47359,
+        "FileID": 215452,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47359|215452"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "MPsT3fqmlSA=",
+      "Meta": null,
+      "Name": "Better Companions - No Conflicts v.1.3-24233-1-3.rar",
+      "Size": 1117,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Better Companions - No Conflicts",
+        "Author": "Recluse",
+        "Version": "1.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24233-0-1494885294.jpg",
+        "IsNSFW": false,
+        "Description": "Combines the effects of Companion Infinite Ammo, No Companion Power Armor Damage, Companions Can Sneak, and No Companion Fall Damage, for vanilla, DLC, and Mod Companions, WITHOUT making any edits to vanilla records and WITHOUT scripts. No overwrites, no conflicts. Now with Increased Companion Accuracy option.",
+        "GameName": "Fallout4",
+        "ModID": 24233,
+        "FileID": 101169,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|24233|101169"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "yrq4r0SM5QM=",
+      "Meta": null,
+      "Name": "Binary Speech Checks V.4 (Normal Edition)-2100-V-4.7z",
+      "Size": 985,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Binary Speech Checks",
+        "Author": "Henke",
+        "Version": ".4",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2100-0-1448203620.jpg",
+        "IsNSFW": false,
+        "Description": "Makes the speech checks binary like in New Vegas. Removing the random element from them. Made in FO4Edit!",
+        "GameName": "Fallout4",
+        "ModID": 2100,
+        "FileID": 8310,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|2100|8310"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "MVEQ7MQrTAo=",
+      "Meta": null,
+      "Name": "BS Defence V2.3-20137-2-3-1637370832.7z",
+      "Size": 7132,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "BS Defence - This Settlement Does Not Need Your Help",
+        "Author": "Rcoll",
+        "Version": "2.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20137/20137-1635802892-218118846.jpeg",
+        "IsNSFW": false,
+        "Description": "Better Settlement Defence - Makes those hundreds of turrets actually do something when you're not around by taking away the random aspect of settlement attacks.",
+        "GameName": "Fallout4",
+        "ModID": 20137,
+        "FileID": 221806,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|20137|221806"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "UAy0oaV99sw=",
+      "Meta": null,
+      "Name": "Canary v 1.0.0-44949-1-0-0-1588955837.7z",
+      "Size": 8237,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Canary Save File Monitor",
+        "Author": "kinggath",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44949/44949-1588955403-808920514.png",
+        "IsNSFW": false,
+        "Description": "Monitors your save file for data loss and warns you when you load the game, so you can avoid wasting time playing on a busted save and roll back immediately.",
+        "GameName": "Fallout4",
+        "ModID": 44949,
+        "FileID": 181383,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|44949|181383"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "ZVz64qjrU2I=",
+      "Meta": null,
+      "Name": "Choochoo1's workshop Framework stuff Ver 2.0-47904-2-0-1627133246.zip",
+      "Size": 46220362,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Choochoo1's Workshop Framework displays",
+        "Author": "Choochoo1",
+        "Version": "2.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47904/47904-1606740503-737722489.jpeg",
+        "IsNSFW": false,
+        "Description": "This mod adds several displays for your items as well as a few random clutter items for your settlments. Allowing you show off your favorite weapon, store all that Nuka Cola you have been carrying around  or place your magazines on a more space efficient wall shelf.",
+        "GameName": "Fallout4",
+        "ModID": 47904,
+        "FileID": 213232,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47904|213232"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "SvEwCOl2Tgs=",
+      "Meta": null,
+      "Name": "Clarity 4.3 BETA-31991-4-3-1595653144.7z",
+      "Size": 1840264,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Clarity - A Visual Overhaul",
+        "Author": "Bretton",
+        "Version": "4.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31991/31991-1563365134-144911152.png",
+        "IsNSFW": false,
+        "Description": "A zero performance loss, very subtle visual overhaul. Removes many annoying visuals in the game.",
+        "GameName": "Fallout4",
+        "ModID": 31991,
+        "FileID": 187621,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|31991|187621"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "w7RjwrrnjgQ=",
+      "Meta": null,
+      "Name": "Commonwealth Climate-55025-1-3-1636594192.7z",
+      "Size": 6394,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Commonwealth Climate - A Vanilla Plus Weather Mod",
+        "Author": "Qolore7",
+        "Version": "1.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55025/55025-1634072197-1310231843.png",
+        "IsNSFW": false,
+        "Description": "Makes Fallout 4 a little more bleak/post-apocalyptic without completely changing the game's aesthetics",
+        "GameName": "Fallout4",
+        "ModID": 55025,
+        "FileID": 221145,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|55025|221145"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "IO7uVLid0SI=",
+      "Meta": null,
+      "Name": "Follower Stealth Distance Fix (No Free Hugs) - ESL-tagged-15823-7-0-1620077127.7z",
+      "Size": 6038,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Companion Stealth Distance Fix (No Free Hugs) - Now with No Dogmeat in Crosshairs",
+        "Author": "spacefiddle",
+        "Version": "7.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/15823-0-1467588748.png",
+        "IsNSFW": false,
+        "Description": "A simple change that prevents your companion from charging up your posterior at full speed whenever you enter stealth. Also slightly increases their follow distance. Now also prevents Dogmeat from entering player crosshairs every damn time you stop!",
+        "GameName": "Fallout4",
+        "ModID": 15823,
+        "FileID": 207200,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|15823|207200"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Q3CPdH7G/PE=",
+      "Meta": null,
+      "Name": "Configurable Hotkeys-46419-5-1595679936.7z",
+      "Size": 3010,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Configurable Hotkeys",
+        "Author": "Dank Rafft",
+        "Version": "5.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46419/46419-1595286345-434109350.png",
+        "IsNSFW": false,
+        "Description": "Configure several hotkeys via MCM that allow you to create standard saves, use items, wait anywhere, execute console commands or custom functions.",
+        "GameName": "Fallout4",
+        "ModID": 46419,
+        "FileID": 187638,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46419|187638"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Ona3Q83/Vyw=",
+      "Meta": null,
+      "Name": "Craftable Turret Stands-21342-1-0.zip",
+      "Size": 6183,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Craftable Turret Stands",
+        "Author": "Daedragon",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21342-0-1484555959.jpg",
+        "IsNSFW": false,
+        "Description": "Lets you craft the wooden turret stands found in Covenant. A must-have for those who like to go heavy on the turrets!",
+        "GameName": "Fallout4",
+        "ModID": 21342,
+        "FileID": 87094,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|21342|87094"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "CBW7BkGiP5I=",
+      "Meta": null,
+      "Name": "Better Military BackPack Distribution-26534-1-02a-1540042679.rar",
+      "Size": 6078,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Creation Club - Better Military Backpack Distribution",
+        "Author": "Hackfield",
+        "Version": "f1.02a",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26534-0-1504466726.jpg",
+        "IsNSFW": false,
+        "Description": "A backpack won't magically appear in your inventory when installing the mod, instead, a blue Vault-Tec backpack is placed in Vault 111. Also, world distributed backpacks will now have random colors and modifications.",
+        "GameName": "Fallout4",
+        "ModID": 26534,
+        "FileID": 143984,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|26534|143984"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Ssl09rvEafA=",
+      "Meta": null,
+      "Name": "Easy Lockpicking and Hacking ESL-31527-2-0.7z",
+      "Size": 371,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Easy Lockpicking and Hacking",
+        "Author": "Dank Rafft",
+        "Version": "2.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31527/31527-1525430607-99493805.jpeg",
+        "IsNSFW": false,
+        "Description": "Since the original mod has some flaws (missing master, form and a wild edit) which could lead to an automatically deactivating mod or unnecessary mod conflicts I decided to recreate it. V2 also includes easy hacking.",
+        "GameName": "Fallout4",
+        "ModID": 31527,
+        "FileID": 132200,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|31527|132200"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "epKo0NAOlhA=",
+      "Meta": null,
+      "Name": "Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip",
+      "Size": 266498,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Extended Dialogue Interface",
+        "Author": "reg2k and Neanka",
+        "Version": "1.3.6.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27216-0-1507513151.png",
+        "IsNSFW": false,
+        "Description": "The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.",
+        "GameName": "Fallout4",
+        "ModID": 27216,
+        "FileID": 172181,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|27216|172181"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "8xXu+9KKOsM=",
+      "Meta": null,
+      "Name": "FallUI - Inventory-48758-1-13-3-1624033008.rar",
+      "Size": 5291305,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "FallUI - Inventory",
+        "Author": "m8r98a4f2",
+        "Version": "1.13.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png",
+        "IsNSFW": false,
+        "Description": "This is FallUI - Inventory. A optimized Fallout 4 inventory interface for PC.",
+        "GameName": "Fallout4",
+        "ModID": 48758,
+        "FileID": 210547,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|48758|210547"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "sSHC4gqOTBc=",
+      "Meta": null,
+      "Name": "Fallout 4 Vanilla incl. All DLCs (All languages)-49656-1-13-1623855803.rar",
+      "Size": 2633652,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "FallUI - Item Sorter Mod",
+        "Author": "m8r98a4f2",
+        "Version": "1.13.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49656/49656-1611586158-1520110642.jpeg",
+        "IsNSFW": false,
+        "Description": "The official Item Sorter Mod for FallUI. Available for all languages.",
+        "GameName": "Fallout4",
+        "ModID": 49656,
+        "FileID": 210424,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|49656|210424"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "0sKFmwLKp+o=",
+      "Meta": null,
+      "Name": "FallUI - Map-49920-1-0-3-1612765697.rar",
+      "Size": 648463,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "FallUI - Map",
+        "Author": "m8r98a4f2",
+        "Version": "1.0.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49920/49920-1612647012-1670663081.png",
+        "IsNSFW": false,
+        "Description": "Overhaul of the Fallout 4 map. Added list of locations and workshops including text search. Add favorite locations to fast travel with one click. Many Quality-Of-Life features like disabling the popup on empty map space click, better map zoom steps, travel and arrival time. Colored marker support. Including high-res map texture support.",
+        "GameName": "Fallout4",
+        "ModID": 49920,
+        "FileID": 201056,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|49920|201056"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "pxHR5mZYiSg=",
+      "Meta": null,
+      "Name": "FallUI - Sleep And Wait-49070-1-3-1621691397.rar",
+      "Size": 287385,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "FallUI - Sleep and Wait",
+        "Author": "m8r98a4f2",
+        "Version": "1.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49070/49070-1621691660-2041324943.png",
+        "IsNSFW": false,
+        "Description": "Overhaul of the sleeping and waiting menu for Fallout 4. \n\nDirectly click on your desired wake-up time with target time buttons. See the daylight level at target time in the daytime graph and more. Interface available in all languages.",
+        "GameName": "Fallout4",
+        "ModID": 49070,
+        "FileID": 208446,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|49070|208446"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Qp0D/Q1oOYY=",
+      "Meta": null,
+      "Name": "FallUI Workbench-49300-1-2-4-1619238510.rar",
+      "Size": 674399,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "FallUI - Workbench",
+        "Author": "m8r98a4f2",
+        "Version": "1.2.4.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49300/49300-1610042654-1439715988.png",
+        "IsNSFW": false,
+        "Description": "Better workbench interface optimized for PC. Bigger display size. Data columns. Comparision columns for mods. Item icon tag support. Icon menu for choosing your icon tag. Item subtitles. Autobuilding modules with zero cost. All languages included.",
+        "GameName": "Fallout4",
+        "ModID": 49300,
+        "FileID": 206554,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|49300|206554"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "cb2l6hsjSA0=",
+      "Meta": null,
+      "Name": "FAR - Default Resolution-20713-1-2-1586238996.7z",
+      "Size": 509297763,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "FAR - Faraway Area Reform",
+        "Author": "SparrowPrince",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20713/20713-1586236118-574831082.jpeg",
+        "IsNSFW": false,
+        "Description": "FAR optimises and improves over six thousand distant land textures, which means more perfomance and less stutter.",
+        "GameName": "Fallout4",
+        "ModID": 20713,
+        "FileID": 178924,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|20713|178924"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "qETXdSZXJcM=",
+      "Meta": null,
+      "Name": "Flicker Fixer ESL v5.6-35720-5-6-1596410377.7z",
+      "Size": 1330079,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Flicker Fixer",
+        "Author": "Glass",
+        "Version": "5.6.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35720/35720-1542118478-502390894.png",
+        "IsNSFW": false,
+        "Description": "Fixes most of the exterior flickering aka z fighting in the game, particularly in the Boston and Cambridge areas.",
+        "GameName": "Fallout4",
+        "ModID": 35720,
+        "FileID": 188251,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35720|188251"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "KdEYURIYna4=",
+      "Meta": null,
+      "Name": "Fortune Finder 4 Fix - Basic Bottlecap Mine-43740-1-1-1583316002.7z",
+      "Size": 2994,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Fortune Finder 4 Fix",
+        "Author": "Whisper",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43740/43740-1583235431-1814045276.jpeg",
+        "IsNSFW": false,
+        "Description": "An intense firefight, several opponents have exploded into caps. Money! Yay! Now that you're done, night's coming on and you've got to find the piles of caps spread all over...in the coming darkness...\n\n\n\n...yeah screw that. Put those caps in my pocket, since you're that immersive and all. Same for them there Bottlecap Mines.",
+        "GameName": "Fallout4",
+        "ModID": 43740,
+        "FileID": 176993,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|43740|176993"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "+XvLB2zYUJA=",
+      "Meta": null,
+      "Name": "Gear Grinder-31457-2-0-0b-1608174206.7z",
+      "Size": 1238573,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Gear Grinder",
+        "Author": "IDontEvenKnow",
+        "Version": "2.0.0.0b",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31457/31457-1525293638-1518912412.png",
+        "IsNSFW": false,
+        "Description": "Think stripping things down for parts is as tedious as I do? Here's a machine to automate the process.",
+        "GameName": "Fallout4",
+        "ModID": 31457,
+        "FileID": 197191,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|31457|197191"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "drBAYMBsBkU=",
+      "Meta": null,
+      "Name": "Graf's Security Fences-39252-1-5-1-1636982335.7z",
+      "Size": 167497,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Graf's Security Fences",
+        "Author": "GrafPanzer",
+        "Version": "1.5.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/39252/39252-1560623794-546490831.jpeg",
+        "IsNSFW": false,
+        "Description": "Adds buildable, snappable barbed-wire topped security fences to the Workshop Fences menu.  Variants have sheet metal screening or concrete block reinforcement.  Script-added menu plays nicely with other mods.  Now with pre-war variants and auto-closing gates.  Versión en español disponible.",
+        "GameName": "Fallout4",
+        "ModID": 39252,
+        "FileID": 221490,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|39252|221490"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "PK0TsJNp+kg=",
+      "Meta": null,
+      "Name": "HUDFramework 1.0f-20309-1-0f.zip",
+      "Size": 287655,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "HUDFramework",
+        "Author": "registrator2000",
+        "Version": "1.0.0.0f",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20309-0-1495318464.png",
+        "IsNSFW": false,
+        "Description": "HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.",
+        "GameName": "Fallout4",
+        "ModID": 20309,
+        "FileID": 93183,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|20309|93183"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "CzaydyQmzxQ=",
+      "Meta": null,
+      "Name": "IDEK's Logistics Station 2-48389-2-1-3-1633667475.7z",
+      "Size": 2673917,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "IDEK's Logistics Station 2",
+        "Author": "IDontEvenKnow",
+        "Version": "2.1.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48389/48389-1606535109-768341305.jpeg",
+        "IsNSFW": false,
+        "Description": "Now with support for SimSettlements 1 and 2, or no SS at all!\n\nAdds a system to automatically manage supply lines, improve the efficiency of inter-settlement resource sharing, and adds a handful of minor convenience features.",
+        "GameName": "Fallout4",
+        "ModID": 48389,
+        "FileID": 218736,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|48389|218736"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "lJxDRxWZkK0=",
+      "Meta": null,
+      "Name": "Immersive HUD - iHUD-20830-3-0.rar",
+      "Size": 20716,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Immersive HUD - iHUD",
+        "Author": "Gopher",
+        "Version": "3.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20830-0-1486726099.jpg",
+        "IsNSFW": false,
+        "Description": "HUD when you need. Hide when you don't.",
+        "GameName": "Fallout4",
+        "ModID": 20830,
+        "FileID": 112759,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|20830|112759"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "liNcIcv8bO4=",
+      "Meta": null,
+      "Name": "Institute and standard lasers-23102-1-5-1638284574.7z",
+      "Size": 1539753,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Laser weapons 1st person reposition",
+        "Author": "akir4 and Wardaddy",
+        "Version": "1.5.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23102-1-1490701493.jpg",
+        "IsNSFW": false,
+        "Description": "Makes the institute and standard laser weapons smaller in the 1st person.",
+        "GameName": "Fallout4",
+        "ModID": 23102,
+        "FileID": 222642,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|23102|222642"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Ur66qaB9xWI=",
+      "Meta": null,
+      "Name": "MCM Settings Manager-56195-1-0-2-1638901743.rar",
+      "Size": 134349,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "MCM Settings Manager",
+        "Author": "m8r98a4f2",
+        "Version": "1.0.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56195/56195-1638374233-408174017.png",
+        "IsNSFW": false,
+        "Description": "Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user!",
+        "GameName": "Fallout4",
+        "ModID": 56195,
+        "FileID": 223308,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|56195|223308"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "J7a+FZo0HLU=",
+      "Meta": null,
+      "Name": "Main File-38872-1-2-1567328854.zip",
+      "Size": 426221049,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "NeuraLOD - Higher detail LOD",
+        "Author": "payl0ad",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38872/38872-1557667062-358911241.png",
+        "IsNSFW": false,
+        "Description": "New higher detail LOD Object Textures upscaled by Neural Networks",
+        "GameName": "Fallout4",
+        "ModID": 38872,
+        "FileID": 165639,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|38872|165639"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "kE4SZzZs8PU=",
+      "Meta": null,
+      "Name": "No Aggro Impact Landing-9019-1-0.zip",
+      "Size": 458,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "No Aggro Impact Landing (Power Armor)",
+        "Author": "mm137",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9019-0-1453788862.jpg",
+        "IsNSFW": false,
+        "Description": "Just makes the Impact Landing not turn friendly NPCs hostile",
+        "GameName": "Fallout4",
+        "ModID": 9019,
+        "FileID": 34271,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|9019|34271"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "m2IWAioXWsQ=",
+      "Meta": null,
+      "Name": "NNA NAC - NMM Installer - v1.6-3276-1-6.rar",
+      "Size": 59252,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "No Negative Affinity and No Affinity Cooldown",
+        "Author": "ricky horror",
+        "Version": "1.6.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/3276-0-1448685598.jpg",
+        "IsNSFW": false,
+        "Description": "Removes negative affinity effects from gameplay, as well as a few other options available. And has the option to remove affinity cooldown timers, as well as a few other options for that as well.",
+        "GameName": "Fallout4",
+        "ModID": 3276,
+        "FileID": 14109,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|3276|14109"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "iVVU9bQtrhU=",
+      "Meta": null,
+      "Name": "PCDug Pretty Triangles and Pretty Circles v2-23821-1-1.rar",
+      "Size": 54508,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PCDug's Pretty Triangles and Pretty Circles",
+        "Author": "PCDug",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23821-0-1493489551.jpg",
+        "IsNSFW": false,
+        "Description": "This mod adds triangular foundation/floor/upper floor pieces for you to build circular designs with.",
+        "GameName": "Fallout4",
+        "ModID": 23821,
+        "FileID": 97271,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|23821|97271"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "bt0Ww35mZGI=",
+      "Meta": null,
+      "Name": "PAMAP_NMM-4619-2-21.zip",
+      "Size": 44855,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Power Armor Materials AND Paints (PAMAP)",
+        "Author": "Mcgan",
+        "Version": "2.21.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4619-1-1449415370.jpg",
+        "IsNSFW": false,
+        "Description": "A simple mod that allows both materials and paints to be applied to the T-45, T-51, T-60 and X-01 power armor.",
+        "GameName": "Fallout4",
+        "ModID": 4619,
+        "FileID": 109554,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|4619|109554"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "merhSL35gXU=",
+      "Meta": null,
+      "Name": "PRP-46403-0-53-12012021-1638390747.7z",
+      "Size": 1551467935,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Previsibines Repair Pack",
+        "Author": "BenRierimanu",
+        "Version": "0.53.12012021.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
+        "IsNSFW": false,
+        "Description": "Basically BostonFPSFix but more up to date, but covers the entire game. Your one stop previsibines replacement shop.",
+        "GameName": "Fallout4",
+        "ModID": 46403,
+        "FileID": 222782,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46403|222782"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "9ejWN0K7lfQ=",
+      "Meta": null,
+      "Name": "PRP Compat Grabbag-46403-0-53-11192021-1637346534.7z",
+      "Size": 8770674,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Previsibines Repair Pack",
+        "Author": "BenRierimanu",
+        "Version": "0.53.11192021.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
+        "IsNSFW": false,
+        "Description": "Basically BostonFPSFix but more up to date, but covers the entire game. Your one stop previsibines replacement shop.",
+        "GameName": "Fallout4",
+        "ModID": 46403,
+        "FileID": 221775,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46403|221775"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "z9DFyoUbhbA=",
+      "Meta": null,
+      "Name": "Cola Cars Overboss Fix-46403-1-1-1635175588.7z",
+      "Size": 15536,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Previsibines Repair Pack",
+        "Author": "BenRierimanu",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
+        "IsNSFW": false,
+        "Description": "Basically BostonFPSFix but more up to date, but covers the entire game. Your one stop previsibines replacement shop.",
+        "GameName": "Fallout4",
+        "ModID": 46403,
+        "FileID": 219912,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46403|219912"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "HcZRIP8ylLY=",
+      "Meta": null,
+      "Name": "RAW INPUT - NMM Installer-27019-2-4.zip",
+      "Size": 120396,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "RAW INPUT - The Ultimate Mouse Sensitivity Fix",
+        "Author": "IceKK",
+        "Version": "2.4.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27019-1-1506399199.jpg",
+        "IsNSFW": false,
+        "Description": "Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier, Normalized Sensitivity",
+        "GameName": "Fallout4",
+        "ModID": 27019,
+        "FileID": 139155,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|27019|139155"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "yMlvYRHpLwc=",
+      "Meta": null,
+      "Name": "Raze My Settlement-39948-3-8-1637481572.7z",
+      "Size": 56097,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Raze My Settlement",
+        "Author": "Whisper",
+        "Version": "3.8.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/39948/39948-1562769276-1357215446.jpeg",
+        "IsNSFW": false,
+        "Description": "Are you sick of scrapping your settlements to the ground so you can build on them? Me too.\n\n\n\nOne click of a button in a holotape - gone in sixty seconds! (Depending upon the power of your gaming rig.)",
+        "GameName": "Fallout4",
+        "ModID": 39948,
+        "FileID": 221888,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|39948|221888"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "kSNeVANR5SQ=",
+      "Meta": null,
+      "Name": "Rusty Face Fix-31028-1-2-1a.zip",
+      "Size": 42057,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Rusty Face Fix",
+        "Author": "Seb263",
+        "Version": "1.2.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31028/31028-1538773728-194826155.jpeg",
+        "IsNSFW": false,
+        "Description": "This mod fixes this annoying bug that makes the player's and NPCs faces turn brown when reloading a savegame. It is completely transparent, autonomous, has no impact on performance and is compatible with any mods.",
+        "GameName": "Fallout4",
+        "ModID": 31028,
+        "FileID": 142837,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|31028|142837"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "/MSLfoNMN/E=",
+      "Meta": null,
+      "Name": "SettlementMenuManagerMainFile-24204-0-1-7-1593282850.7z",
+      "Size": 8288,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Settlement Menu Manager",
+        "Author": "cadpnq",
+        "Version": "0.1.7.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24204-0-1495769907.png",
+        "IsNSFW": false,
+        "Description": "SMM provides an easy way to add custom menus and makes said menus automatically disappear on uninstall (without breaking your build menu!)",
+        "GameName": "Fallout4",
+        "ModID": 24204,
+        "FileID": 185417,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|24204|185417"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "kmOSyODaaPQ=",
+      "Meta": null,
+      "Name": "Settler Sandbox Overhaul 4.0 3x Radius-20442-4-0.7z",
+      "Size": 2280,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Settler Sandbox Expansion",
+        "Author": "Axle356258",
+        "Version": "4.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20442-5-1481002022.jpg",
+        "IsNSFW": false,
+        "Description": "Settler Sandbox Expansion [ALL DLC Compatible]",
+        "GameName": "Fallout4",
+        "ModID": 20442,
+        "FileID": 135269,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|20442|135269"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "cdLJGdMHozk=",
+      "Meta": null,
+      "Name": "Sim Settlements 2-47976-1-0-0b-1628543074.7z",
+      "Size": 969274846,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sim Settlements 2",
+        "Author": "Sim Settlements Team",
+        "Version": "1.1.0.0b",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47976/47976-1603507384-1823802441.png",
+        "IsNSFW": false,
+        "Description": "Sequel to the Fallout 4 city-building simulator.",
+        "GameName": "Fallout4",
+        "ModID": 47976,
+        "FileID": 214437,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47976|214437"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Yf0gmTlTC3M=",
+      "Meta": null,
+      "Name": "Sim Settlements 2 - FallUI Item Sorter patch-55894-1-0-1637420397.rar",
+      "Size": 199733,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sim Settlements 2 - FallUI Item Sorter patch",
+        "Author": "m8r98a4f2",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55894/55894-1637417665-1445343167.png",
+        "IsNSFW": false,
+        "Description": "FallUI Item Sorter patch for Sim Settlements 2.",
+        "GameName": "Fallout4",
+        "ModID": 55894,
+        "FileID": 221842,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|55894|221842"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "QOFjE4kNsQ4=",
+      "Meta": null,
+      "Name": "SS2RobotMod-50277-1-0-1613942077.7z",
+      "Size": 10885,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sim Settlements 2 Automatron Mod",
+        "Author": "pra",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50277/50277-1614443562-931309870.jpeg",
+        "IsNSFW": false,
+        "Description": "Makes automatron modifications affect their SPECIAL stats for Sim Settlements 2 plots.",
+        "GameName": "Fallout4",
+        "ModID": 50277,
+        "FileID": 202063,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|50277|202063"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "aerSsBzm17w=",
+      "Meta": null,
+      "Name": "Wasteland Reconstruction Kit-48960-0-1g-1619801487.7z",
+      "Size": 23989199,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sim Settlements 2 Wasteland Reconstruction Kit",
+        "Author": "Sim Settlements Team",
+        "Version": "0.1.0.0g",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48960/48960-1608343167-1575901887.png",
+        "IsNSFW": false,
+        "Description": "Over 10,000 buildable items provided through Sim Settlements 2, including dozens of prefab building models!",
+        "GameName": "Fallout4",
+        "ModID": 48960,
+        "FileID": 206951,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|48960|206951"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "cZb+IyTvi8c=",
+      "Meta": null,
+      "Name": "Better Junk Fences-9000-1-3.zip",
+      "Size": 728061,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Snappable Junk Fences",
+        "Author": "DarthWayne",
+        "Version": "1.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9000-0-1453756152.jpg",
+        "IsNSFW": false,
+        "Description": "This mod solves the old problem of useless fences with large gaps between them by adding snap points to the junk fences and guard towers. This enables you to snap them gapless together. Furthermore you can snap floors as walkways to some of the fences.",
+        "GameName": "Fallout4",
+        "ModID": 9000,
+        "FileID": 90975,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|9000|90975"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "sOYFWfd2TJI=",
+      "Meta": null,
+      "Name": "SS2 Extended-47976-1-0-12a-1619901788.7z",
+      "Size": 976987633,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sim Settlements 2",
+        "Author": "Sim Settlements Team",
+        "Version": "1.0.12.0a",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47976/47976-1603507384-1823802441.png",
+        "IsNSFW": false,
+        "Description": "Sequel to the Fallout 4 city-building simulator.",
+        "GameName": "Fallout4",
+        "ModID": 47976,
+        "FileID": 207036,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47976|207036"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "gElW1QKdsH0=",
+      "Meta": null,
+      "Name": "SS2_XDI Compatability Patch-48254-v1-3-0-1637192117.7z",
+      "Size": 78059,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "SS2 - XDI Compatibility Patch",
+        "Author": "msalaba",
+        "Version": "1.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48254/48254-1614256783-849915181.jpeg",
+        "IsNSFW": false,
+        "Description": "Extended Dialog Interface compatibility patch for Sim Settlements 2",
+        "GameName": "Fallout4",
+        "ModID": 48254,
+        "FileID": 221680,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|48254|221680"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "HBqT3tp+VFg=",
+      "Meta": null,
+      "Name": "There It Is x Perfectionist x No PA-50927-1-0-1616364827.7z",
+      "Size": 55614189,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "There It Is - Satellite Maps For Collectors",
+        "Author": "SaiSei",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50927/50927-1616369496-1106981506.png",
+        "IsNSFW": false,
+        "Description": "Comprehensive collectors edition of the satellite world maps.",
+        "GameName": "Fallout4",
+        "ModID": 50927,
+        "FileID": 204222,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|50927|204222"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "P021WAjyvgg=",
+      "Meta": null,
+      "Name": "Un-Randomized Workshop Turrets-11096-1-0.7z",
+      "Size": 487,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Un-Randomized Workshop Turrets",
+        "Author": "Yukichigai",
+        "Version": "1.0.0.0",
+        "ImageURL": null,
+        "IsNSFW": false,
+        "Description": "Removes the random distribution on workshop (and all other) turrets so that you always get the same &#34;Mk. I&#34;/&#34;Mk. VII&#34;/etc. turret on deploy, instead of a randomized one.",
+        "GameName": "Fallout4",
+        "ModID": 11096,
+        "FileID": 43630,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|11096|43630"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "dGrRfuWXsjk=",
+      "Meta": null,
+      "Name": "Unofficial Fallout 4 Patch-4598-2-1-3-1622921619.7z",
+      "Size": 28076240,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Unofficial Fallout 4 Patch",
+        "Author": "Unofficial Patch Project Team",
+        "Version": "2.1.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
+        "IsNSFW": false,
+        "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
+        "GameName": "Fallout4",
+        "ModID": 4598,
+        "FileID": 209596,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|4598|209596"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "TeDdHklcFDo=",
+      "Meta": null,
+      "Name": "Vault 88 - Essentials-52121-1-1-1627147780.rar",
+      "Size": 37630169,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vault 88 Essentials",
+        "Author": "SethNorris",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52121/52121-1621380781-1248287674.png",
+        "IsNSFW": false,
+        "Description": "Combination, improvement and bug fixing for several popular Vault 88 Kit mods plus a small set of additions. The bare essentials for a proper Vault building experience.",
+        "GameName": "Fallout4",
+        "ModID": 52121,
+        "FileID": 213255,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52121|213255"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Nwb/s9GLEdE=",
+      "Meta": null,
+      "Name": "Vault 88 Template - Optimised-31192-1-25.7z",
+      "Size": 76464,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vault 88 Template - Optimised",
+        "Author": "RyReZar",
+        "Version": "1.25.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31192/31192-1524211987-544315272.jpeg",
+        "IsNSFW": false,
+        "Description": "This mod adds Room Bounds and Portals to a custom template of Vault 88 which gives greater optimisation and allows a bigger vault to be built, essentially increasing the build limit.",
+        "GameName": "Fallout4",
+        "ModID": 31192,
+        "FileID": 130929,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|31192|130929"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "8tye8iB0xUk=",
+      "Meta": null,
+      "Name": "Vault-Tec Workshop Overhaul Redux-43643-2-2-2-1594208708.7z",
+      "Size": 2830811,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vault-Tec Workshop Overhaul Redux (VTWOR)",
+        "Author": "litbeep",
+        "Version": "2.2.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43643/43643-1585043293-418598107.jpeg",
+        "IsNSFW": false,
+        "Description": "A non-intrusive mod that aims to fix inconsistencies within the Vault-Tec Workshop DLC. This version addresses lighting and texture issues, adds light snapping to walls and ceilings, adds sign snapping to doors, enables crate stacking, and makes some minor quality-of-life changes.",
+        "GameName": "Fallout4",
+        "ModID": 43643,
+        "FileID": 186298,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|43643|186298"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "2F3ob6GY+5E=",
+      "Meta": null,
+      "Name": "Visible Idle Markers-46453-3a-1637546943.7z",
+      "Size": 6851237,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Visible Idle Markers",
+        "Author": "Whisper",
+        "Version": "3.0.0.0a",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46453/46453-1595407014-946849820.jpeg",
+        "IsNSFW": false,
+        "Description": "So you built something in your settlement - only to find that your settlers \"phase in\" to it, because there's an idle marker there. No more - now you can see the base game idle markers while in workshop mode.",
+        "GameName": "Fallout4",
+        "ModID": 46453,
+        "FileID": 221937,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46453|221937"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "pssDrzvCCXo=",
+      "Meta": null,
+      "Name": "Vivid Fallout - All in One - Best Choice-25714-1-3.7z",
+      "Size": 677963287,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vivid Fallout - All in One",
+        "Author": "Hein84",
+        "Version": "1.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/25714-0-1501027059.jpg",
+        "IsNSFW": false,
+        "Description": "all Vivid Fallout textures combined in one ba2",
+        "GameName": "Fallout4",
+        "ModID": 25714,
+        "FileID": 134715,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|25714|134715"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "qUwScZ2wGnk=",
+      "Meta": null,
+      "Name": "WAVE-41568-1-2-1586794752.7z",
+      "Size": 5757063,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "WAVE - Wave Animation Vanilla Enhanced",
+        "Author": "SparrowPrince",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41568/41568-1586242866-1712013754.jpeg",
+        "IsNSFW": false,
+        "Description": "No more elastic waves in the Commonwealth. Brand new effects and textures with a more realistic motion.",
+        "GameName": "Fallout4",
+        "ModID": 41568,
+        "FileID": 179403,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|41568|179403"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "y0RiG4yW3oY=",
+      "Meta": null,
+      "Name": "WET - Water Enhancement Textures-20775-2-0-4-1632721677.7z",
+      "Size": 56885004,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "WET - Water Enhancement Textures",
+        "Author": "SparrowPrince",
+        "Version": "2.0.4.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20775/20775-1632728587-1064049647.jpeg",
+        "IsNSFW": false,
+        "Description": "WET enhances all water and most water-related effects in the game. From one of the creators of the popular Realistic Water Two mod for Skyrim.",
+        "GameName": "Fallout4",
+        "ModID": 20775,
+        "FileID": 217851,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|20775|217851"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "4QTXYtmn8FA=",
+      "Meta": null,
+      "Name": "Whisper's Extra Pieces and Snaps-49570-1m-1632910648.7z",
+      "Size": 2585399,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Whisper's Extra Pieces and Snaps",
+        "Author": "Whisper and Karvoc and Others",
+        "Version": "1.0.0.0m",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49570/49570-1611308125-2062567353.jpeg",
+        "IsNSFW": false,
+        "Description": "Some extra kitbashed floors and ceilings, and extra snap-points upon many vanilla wood/metal build-items.",
+        "GameName": "Fallout4",
+        "ModID": 49570,
+        "FileID": 217996,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|49570|217996"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Ac5vshs88bQ=",
+      "Meta": null,
+      "Name": "Workshop Framework-35004-2-0-16-1628350788.7z",
+      "Size": 870712,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Workshop Framework",
+        "Author": "kinggath",
+        "Version": "2.0.16.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35004/35004-1538179488-326730582.png",
+        "IsNSFW": false,
+        "Description": "Framework to open up the settlement system to editing by the community.\n\n\n\nFor Players: New controls and faster, more stable workshop scripts.\n\n\n\nFor Modders: Add new resource types, override settings, and generally change the way settlements work dynamically.",
+        "GameName": "Fallout4",
+        "ModID": 35004,
+        "FileID": 214290,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35004|214290"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "wj84oSRNt7o=",
+      "Meta": null,
+      "Name": "Workshop Plus-35005-1-1-10b-1622216535.7z",
+      "Size": 317081,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Workshop Plus",
+        "Author": "kinggath",
+        "Version": "1.1.10.0b",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35005/35005-1538179519-1847896109.png",
+        "IsNSFW": false,
+        "Description": "Transforms Workshop mode into a God simulator - giving you all of the tools you need to create amazing settlements. \n\n\n\nFlight, Undo Buttons, Layers, Cloning Tools, Free Build Mode, and more!",
+        "GameName": "Fallout4",
+        "ModID": 35005,
+        "FileID": 208927,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35005|208927"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "qKqUZQ9dfS0=",
+      "Meta": null,
+      "Name": "Power Boxes Standalone-49505-0-1-1611035093.zip",
+      "Size": 23000896,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Workshop Power Pack",
+        "Author": "Spiffyskytrooper",
+        "Version": "0.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49505/49505-1611034766-1827383637.png",
+        "IsNSFW": false,
+        "Description": "A small collection of craftable power sources for your settlement.",
+        "GameName": "Fallout4",
+        "ModID": 49505,
+        "FileID": 199380,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|49505|199380"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "DA70ALt6XyI=",
+      "Meta": null,
+      "Name": "BCR- Lever Action Rifle v1.02-41178-1-02-1569349299.zip",
+      "Size": 58173,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Bullet Counted Reload System (BCR)",
+        "Author": "shavkacagarikia",
+        "Version": "f1.02",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
+        "IsNSFW": false,
+        "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
+        "GameName": "Fallout4",
+        "ModID": 41178,
+        "FileID": 167402,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|41178|167402"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Ba8gpxkxUjE=",
+      "Meta": null,
+      "Name": "Better Console-26582-v1-4-0.7z",
+      "Size": 196118,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Better Console - F4SE",
+        "Author": "Kassent",
+        "Version": "1.4.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
+        "IsNSFW": false,
+        "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target's name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor's all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
+        "GameName": "Fallout4",
+        "ModID": 26582,
+        "FileID": 120757,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|26582|120757"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "eRaBcpxid4Y=",
+      "Meta": null,
+      "Name": "Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip",
+      "Size": 240029,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Bullet Counted Reload System (BCR)",
+        "Author": "shavkacagarikia",
+        "Version": "f2.00",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
+        "IsNSFW": false,
+        "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
+        "GameName": "Fallout4",
+        "ModID": 41178,
+        "FileID": 209407,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|41178|209407"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "kfLvdynuIYk=",
+      "Meta": null,
+      "Name": "DEF_UI Iconlibs Rescaled and Fixed - Colored-31088-1-6-1575705975.7z",
+      "Size": 94599,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "DEF_UI Iconlibs Rescaled and Fixed",
+        "Author": "Phlunder",
+        "Version": "1.6.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31088/31088-1540041078-2134724658.jpeg",
+        "IsNSFW": false,
+        "Description": "Aims to bring consistency in design and coloring to the icon library. Also fixes various issues with icon sizes, bounding boxes, and scaling.",
+        "GameName": "Fallout4",
+        "ModID": 31088,
+        "FileID": 172178,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|31088|172178"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "LJnyN0MT7vE=",
+      "Meta": null,
+      "Name": "FallUI - Confirm Boxes-48958-2-1-1621730697.rar",
+      "Size": 1447722,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "FallUI - Confirm Boxes (incl. Yes Im Sure)",
+        "Author": "m8r98a4f2",
+        "Version": "2.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48958/48958-1619017899-322981148.png",
+        "IsNSFW": false,
+        "Description": "Overhaul of all confirm box interfaces. Including different designs and styles for many box types (configurable). You can also choose to disable confirms, so it automatically accept without confirmation (like \"Yes Im Sure\"). Interface covers all languages.",
+        "GameName": "Fallout4",
+        "ModID": 48958,
+        "FileID": 208484,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|48958|208484"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "RMRVGFIVQDY=",
+      "Meta": null,
+      "Name": "FallUI - HUD-51813-1-4-1624093162.rar",
+      "Size": 2330140,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "FallUI - HUD",
+        "Author": "m8r98a4f2",
+        "Version": "1.4.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51813/51813-1619914903-70759095.png",
+        "IsNSFW": false,
+        "Description": "A highly configurable HUD. Every widget can be positioned and configured. Configure your design in the in-game layout manager in MCM. Layouts can be shared and imported too.",
+        "GameName": "Fallout4",
+        "ModID": 51813,
+        "FileID": 210598,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|51813|210598"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "I+Tg+bKVsRM=",
+      "Meta": null,
+      "Name": "Mod Configuration Menu 1.39-21497-1-39-1575706632.zip",
+      "Size": 371675,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Mod Configuration Menu",
+        "Author": "reg2k - Neanka - shadowslasher410",
+        "Version": "1.39.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21497-0-1504319702.png",
+        "IsNSFW": false,
+        "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
+        "GameName": "Fallout4",
+        "ModID": 21497,
+        "FileID": 172180,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|21497|172180"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "fBym78ppD2w=",
+      "Meta": null,
+      "Name": "Place (Fallout4 1.10.163 - latest release)-9424-1-18-0-1163-1575581603.7z",
+      "Size": 627762,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Place Everywhere",
+        "Author": "TheLich",
+        "Version": "1.18.0.1163",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9424-0-1456178323.jpg",
+        "IsNSFW": false,
+        "Description": "Place/build objects in settlements everywhere you want, change objects whatever you like. No more RED!",
+        "GameName": "Fallout4",
+        "ModID": 9424,
+        "FileID": 172081,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|9424|172081"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "wvfNBePIyHY=",
+      "Meta": null,
+      "Name": "Addres Library-47327-1-10-163-0-1599728753.zip",
+      "Size": 9554761,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Address Library for F4SE Plugins",
+        "Author": "Ryan",
+        "Version": "1.10.163.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
+        "IsNSFW": false,
+        "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
+        "GameName": "Fallout4",
+        "ModID": 47327,
+        "FileID": 191018,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47327|191018"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "RtFkCUKoZ1Y=",
+      "Meta": null,
+      "Name": "Buffout 4-47359-1-24-5-1631055640.zip",
+      "Size": 640464,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Buffout 4",
+        "Author": "Ryan",
+        "Version": "1.24.5.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
+        "IsNSFW": false,
+        "Description": "It's like buffout but for the engine",
+        "GameName": "Fallout4",
+        "ModID": 47359,
+        "FileID": 216415,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47359|216415"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "TnKq4++yi5Y=",
+      "Meta": null,
+      "Name": "Classic Holstered Weapons - v1.04c-46101-1-04c-1601278850.zip",
+      "Size": 241709,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Classic Holstered Weapons System (CHW)",
+        "Author": "shavkacagarikia",
+        "Version": "f1.04c",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46101/46101-1594217479-1210733348.png",
+        "IsNSFW": false,
+        "Description": "Finally, a proper engine-level system for showing holstered weapons on characters, with various customization options.",
+        "GameName": "Fallout4",
+        "ModID": 46101,
+        "FileID": 192125,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46101|192125"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "GYsKX2pVbuE=",
+      "Meta": null,
+      "Name": "Console Commands Extender-47328-1-2-0-1623433336.zip",
+      "Size": 155958,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Console Commands Extender",
+        "Author": "Ryan",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47328/47328-1599730497-1544020672.png",
+        "IsNSFW": false,
+        "Description": "This mod adds new commands and overhauls existing commands within the console.",
+        "GameName": "Fallout4",
+        "ModID": 47328,
+        "FileID": 210053,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47328|210053"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "WJFqBuJRGks=",
+      "Meta": null,
+      "Name": "Encounter Zone Recalculation-45674-1-0-1592086483.zip",
+      "Size": 61527,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Encounter Zone Recalculation (Continuous Level Scaling)",
+        "Author": "Ea6t",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45674/45674-1592085691-594991857.png",
+        "IsNSFW": false,
+        "Description": "Allows encounter zone levels to be recalculated after initial entry.",
+        "GameName": "Fallout4",
+        "ModID": 45674,
+        "FileID": 184238,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|45674|184238"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "oLVE7pRGbnc=",
+      "Meta": null,
+      "Name": "Fallout Priority 3.0.0-52515-3-0-0-1624187291.zip",
+      "Size": 59401,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Fallout Priority - f4se plugin",
+        "Author": "boring3",
+        "Version": "3.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52515/52515-1623153863-1059849445.png",
+        "IsNSFW": false,
+        "Description": "Make Fallout 4 always take most of CPU usage\n\nIncrease FPS and Prevent suddenly lag caused by other processes",
+        "GameName": "Fallout4",
+        "ModID": 52515,
+        "FileID": 210692,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52515|210692"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "RhMKBioeCrs=",
+      "Meta": null,
+      "Name": "Faster Workshop 1.1-35382-1-1-1539871573.zip",
+      "Size": 146993,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Faster Workshop (Workshop Lag Fix)",
+        "Author": "reg2k",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35382/35382-1539788257-692463014.png",
+        "IsNSFW": false,
+        "Description": "Faster Workshop is an F4SE plugin that optimizes workshop loading times by replacing some of the most expensive and inefficient regions of workshop loading code with far more efficient versions. Also provides a hotkey to instantly enter Workshop mode and fixes workshop icon load lag.",
+        "GameName": "Fallout4",
+        "ModID": 35382,
+        "FileID": 143840,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35382|143840"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "WFBz1NOmCes=",
+      "Meta": null,
+      "Name": "High FPS Physics Fix-44798-0-8-4-5-1633293504.zip",
+      "Size": 165353,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "High FPS Physics Fix",
+        "Author": "Antonix35",
+        "Version": "0.8.4.0-5",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
+        "IsNSFW": false,
+        "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
+        "GameName": "Fallout4",
+        "ModID": 44798,
+        "FileID": 218372,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|44798|218372"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "9pow/a79Q9w=",
+      "Meta": null,
+      "Name": "PA HoloHUD-29969-1-1-1551627811.7z",
+      "Size": 167819,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Power Armor HoloHUD",
+        "Author": "mluppov",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29969/29969-1519068282-1096690881.jpeg",
+        "IsNSFW": false,
+        "Description": "This will replace ridiculous half transparent... whatever it is with something much nicer.",
+        "GameName": "Fallout4",
+        "ModID": 29969,
+        "FileID": 153467,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|29969|153467"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "o6oWTouG2sA=",
+      "Meta": null,
+      "Name": "Weapon Debris Crash Fix-48078-1-2-1605028967.zip",
+      "Size": 48488,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Weapon Debris Crash Fix",
+        "Author": "Antonix35",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48078/48078-1604258720-935354418.jpeg",
+        "IsNSFW": false,
+        "Description": "Fixed crashes caused by Weapon Debris setting\n\n\n\nИсправление вылетов при включенной настройке \"Осколки от выстрелов\"",
+        "GameName": "Fallout4",
+        "ModID": 48078,
+        "FileID": 194684,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|48078|194684"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "YDad6GFIAtU=",
+      "Meta": null,
+      "Name": "Whose Quest Is It Anyway-51979-1-0-0-1620621492.zip",
+      "Size": 133593,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Whose Quest Is It Anyway",
+        "Author": "Ryan",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51979/51979-1620678710-543280501.png",
+        "IsNSFW": false,
+        "Description": "Swap the \"quest items can't be removed\" message with something a little more informative.",
+        "GameName": "Fallout4",
+        "ModID": 51979,
+        "FileID": 207575,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|51979|207575"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "YrF/GAUNAvk=",
+      "Meta": null,
+      "Name": "Better Dials for Power Armor - Institute WHITE-10937-1-4.zip",
+      "Size": 445248,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Better Dials for Power Armor - Fallout 4",
+        "Author": "User_32144350",
+        "Version": "1.4.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/10937-1-1458843003.jpg",
+        "IsNSFW": false,
+        "Description": "Power armor dials that are more clear, cleaner, and less distracting. Comes in 4 colors. Hand crafted for improved aesthetics and performance. Install this if the blocky user interface when inside power armor annoys you.",
+        "GameName": "Fallout4",
+        "ModID": 10937,
+        "FileID": 44302,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|10937|44302"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "1fZOH7wg5Ks=",
+      "Meta": null,
+      "Name": "No Holotape Tease - Texture Replacement-6731-.7z",
+      "Size": 2779574,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "No Holotape Tease - Texture Replacement",
+        "Author": "Kattiana",
+        "Version": "",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/6731-0-1450830638.png",
+        "IsNSFW": false,
+        "Description": "Edits the little yellow cigarette box textures that look just like a holotape.",
+        "GameName": "Fallout4",
+        "ModID": 6731,
+        "FileID": 23634,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|6731|23634"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "M1NlQO8kC2Y=",
+      "Meta": null,
+      "Name": "Better Junk Fences-13744-1-2.rar",
+      "Size": 502480,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "No more gaps under junk fences",
+        "Author": "vigge42",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13744-0-1463694158.gif",
+        "IsNSFW": false,
+        "Description": "This mod extends the vanilla mesh of junk fences so that they will stick into the ground. The result is fewer gaps and holes between the ground and the bottom of the wall in slopes and uneven ground and adds a more realistic look.",
+        "GameName": "Fallout4",
+        "ModID": 13744,
+        "FileID": 55851,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|13744|55851"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "4ecILRL/58E=",
+      "Meta": null,
+      "Name": "Simple Wait Anywhere-55597-1-0-1636359972.rar",
+      "Size": 840,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Simple Wait Anywhere (Lightweight)",
+        "Author": "m8r98a4f2",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55597/55597-1636364839-1066745586.png",
+        "IsNSFW": false,
+        "Description": "Simple wait anywhere via hotkey (Lightweight mod)",
+        "GameName": "Fallout4",
+        "ModID": 55597,
+        "FileID": 220923,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|55597|220923"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "tYmFNr6e1Dg=",
+      "Meta": null,
+      "Name": "Ultimate Colored Vault Boy Animations Overhaul v0.1.4 - All-In-One-38658-0-1-4-1556998929.7z",
+      "Size": 368358,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Ultimate Colored Vault Boy Animations Overhaul",
+        "Author": "talamoana",
+        "Version": "0.1.4.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38658/38658-1556592934-1783809681.jpeg",
+        "IsNSFW": false,
+        "Description": "The one and only mod that brings you true-to-source Vault Boy colors to the monochrome vault boy animations. No esps, archives, and scripts. Zero effect on performance. Set HUD color close to white for maximum effect. This ongoing project will eventually overhaul most vault boy animations by hand-editing frame-by-frame, optimizing, and coloring.",
+        "GameName": "Fallout4",
+        "ModID": 38658,
+        "FileID": 157328,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|38658|157328"
+      }
+    }
+  ],
+  "InlinedFiles": [
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4fdd51a8-3394-4acb-9734-69427a802941",
+      "Hash": "hGwfMvkWrkI=",
+      "Size": 49,
+      "To": "dump_running_process.bat"
+    },
+    {
+      "$type": "RemappedInlineFile, Wabbajack.Lib",
+      "SourceDataID": "1ec9ae78-2005-4cd4-a148-4de0038d4950",
+      "Hash": "OfcP8AGXolw=",
+      "Size": 11102,
+      "To": "ModOrganizer.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "69098ec1-a5ca-4ec4-a0f9-0dd7d127ddb1",
+      "Hash": "v1nlpQu4GP4=",
+      "Size": 55711,
+      "To": "splash.png"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2d05e6d4-543a-44d6-b524-fad489e39405",
+      "Hash": "GmPF96DX1bk=",
+      "Size": 703,
+      "To": "mods\\Address Library for F4SE Plugins\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "9cb2e64e-abec-49a2-871e-f55a6a9995ab",
+      "Hash": "kjH5WjXLvuc=",
+      "Size": 540,
+      "To": "mods\\BCR- Lever Action Rifle\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e795dad1-a1ad-4133-84fe-786218b9e79e",
+      "Hash": "3Q7kxK2f7Mo=",
+      "Size": 542,
+      "To": "mods\\Better Companions - No Conflicts\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c9128ffd-e307-4c74-98f4-ebfe39e63860",
+      "Hash": "OxwomrWSBg8=",
+      "Size": 2990,
+      "To": "mods\\Better Console - F4SE\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2c81e4d1-4fe2-4f2a-ae49-d1dcd1f9c741",
+      "Hash": "KNRfAcY+oKI=",
+      "Size": 548,
+      "To": "mods\\Better Dials for Power Armor - Fallout 4\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "044cb066-3e53-4c2f-a3db-b27848c93d38",
+      "Hash": "RSWLaOPIoec=",
+      "Size": 528,
+      "To": "mods\\Binary Speech Checks\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2b1c5489-0b4a-4eb1-b67a-658800fdc306",
+      "Hash": "UM9CmtA1YLU=",
+      "Size": 529,
+      "To": "mods\\BS Defence - This Settlement Does Not Need Your Help\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e4b923aa-de61-4c04-b62b-4dba45edb9d2",
+      "Hash": "pSpIrQjAAxY=",
+      "Size": 529,
+      "To": "mods\\Buffout 4\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "726c701d-db4d-47e3-8fcc-fb7ae8b306a6",
+      "Hash": "8S07RTk0ER8=",
+      "Size": 541,
+      "To": "mods\\Bullet Counted Reload System (BCR)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0a737795-07b9-4dcf-b311-2fc277485e96",
+      "Hash": "j8Y8yudtFf8=",
+      "Size": 5512,
+      "To": "mods\\Canary Save File Monitor\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "68001ae5-3a0f-4f56-9722-7ec7b5c9df9b",
+      "Hash": "TMjWZr0t3xM=",
+      "Size": 6313,
+      "To": "mods\\Choochoo1's Workshop Framework displays\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "787ae48e-f31d-49ec-9683-cf0e1c60af8c",
+      "Hash": "sA+LYO/0ASY=",
+      "Size": 9545,
+      "To": "mods\\Clarity - A Visual Overhaul\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d23053bc-3f57-4dd8-ab93-67924e0f8c48",
+      "Hash": "5kYk7pMxTgI=",
+      "Size": 548,
+      "To": "mods\\Classic Holstered Weapons System (CHW)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0960cac1-15a3-4ae9-a9ad-c060db0b456e",
+      "Hash": "RlAHYW9zHPI=",
+      "Size": 534,
+      "To": "mods\\Commonwealth Climate - A Vanilla Plus Weather Mod\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d343686b-6040-4616-9c45-042c4aa6966b",
+      "Hash": "y1yw01eZ66Q=",
+      "Size": 571,
+      "To": "mods\\Companion Stealth Distance Fix (No Free Hugs) - Now with No Dogmeat in Crosshairs\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b6c80bc5-fbba-4a25-96cf-ef382e133d8a",
+      "Hash": "Yb/Tc2eF5io=",
+      "Size": 532,
+      "To": "mods\\Configurable Hotkeys\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8c9f1cdd-6b93-440a-ac02-e06dc2f23cf0",
+      "Hash": "vzP0uYT4fHQ=",
+      "Size": 542,
+      "To": "mods\\Console Commands Extender\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4cda7db2-9a71-4fc8-9d4b-49a9c783e356",
+      "Hash": "vQI+FFrW30I=",
+      "Size": 1648,
+      "To": "mods\\Craftable Turret Stands\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "19a13a04-dd47-4009-a5d2-418b451a7f7e",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Creation Club (OPTIONAL)_separator\\meta.ini"
+    },
+    {
+      "$type": "RemappedInlineFile, Wabbajack.Lib",
+      "SourceDataID": "ddf86347-5e60-4281-a4fb-c48920f54213",
+      "Hash": "czDvJa1/oZM=",
+      "Size": 2053,
+      "To": "mods\\Creation Club - Better Military Backpack Distribution\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "3bd863cb-884c-499d-acc6-d5db7e831b8b",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Custom_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c46be793-dee5-4ccd-a37a-ece3d66eec22",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Debug_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f91aa6a5-c403-4ef1-9be5-e5028fa7e94c",
+      "Hash": "x4ILNG/S0GU=",
+      "Size": 5952,
+      "To": "mods\\DEF_UI Iconlibs Rescaled and Fixed\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8f8bd597-4254-4ce8-b3e1-d0a4e679cecb",
+      "Hash": "fyS8v7zuHFc=",
+      "Size": 2106,
+      "To": "mods\\Easy Lockpicking and Hacking\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "fea5020c-abe9-4926-a39e-f4b477404dcf",
+      "Hash": "AhpuFgJiyfs=",
+      "Size": 4409,
+      "To": "mods\\Encounter Zone Recalculation (Continuous Level Scaling)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "81faddba-1636-43ad-bd26-ed59a1003865",
+      "Hash": "ou6XOV4Jqhg=",
+      "Size": 550,
+      "To": "mods\\Extended Dialogue Interface\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a06e8312-f1d2-4c65-bb7d-33a926a0d14c",
+      "Hash": "TegVaJRe5LM=",
+      "Size": 952,
+      "To": "mods\\F4E - Creation Club - Modular Military Backpack\\Crow_ccfsvfo4001-modularmilitarybackpack.esp"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "664c3e9a-0e0e-47eb-b470-11a54da97bef",
+      "Hash": "rspK+fVfYxY=",
+      "Size": 962,
+      "To": "mods\\F4E - Creation Club - Modular Military Backpack\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c8a25bda-b02c-420b-81b1-0d4795b905a3",
+      "Hash": "MrGaQMSNnrU=",
+      "Size": 1243,
+      "To": "mods\\F4E - Creation Club - TransDOGrifier\\Crow_ccbgsfo4036-trnsdg.esp"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "422cf679-e8b2-41dd-a685-0ce507f9b8d4",
+      "Hash": "rspK+fVfYxY=",
+      "Size": 962,
+      "To": "mods\\F4E - Creation Club - TransDOGrifier\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "aeb04b63-c8c4-4ea5-8205-1a2555cab6f7",
+      "Hash": "oGse7+EWY34=",
+      "Size": 361,
+      "To": "mods\\F4E - Raze My Settlement\\Crow_Raze My Settlement.esp"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1ec62e59-aa24-473e-8dd1-7bf475d92c49",
+      "Hash": "jO6/civq/FM=",
+      "Size": 961,
+      "To": "mods\\F4E - Raze My Settlement\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1bc8d486-cf3a-4ffa-8e07-dca238ddb5ea",
+      "Hash": "0/Z3JpdWCEI=",
+      "Size": 911,
+      "To": "mods\\F4SE Scripts\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e4055318-e60c-405b-9d6d-cba2dd1b4bd1",
+      "Hash": "XS6oAi29Ong=",
+      "Size": 539,
+      "To": "mods\\Fallout Priority - f4se plugin\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "326cb278-331c-4a66-ad47-6463ae415307",
+      "Hash": "t11Kjo3Pf9Y=",
+      "Size": 583,
+      "To": "mods\\FallUI\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d150eb83-55f7-49fb-92be-1a6618c23abd",
+      "Hash": "9BbsF+6DHFQ=",
+      "Size": 582,
+      "To": "mods\\FallUI - Confirm Boxes\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "6a489dc0-0a4a-4702-a1cb-feb9655ca9f4",
+      "Hash": "M9N0MevwQv0=",
+      "Size": 572,
+      "To": "mods\\FallUI - HUD\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "fd677c87-2e0d-480e-b9f2-eb8414cd527e",
+      "Hash": "YN1DKt4sOJY=",
+      "Size": 529,
+      "To": "mods\\FallUI - Map\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "31d4b5db-d6b9-4ec6-8275-c9e5d4243c90",
+      "Hash": "aFx4Geo3p6c=",
+      "Size": 538,
+      "To": "mods\\FallUI - Sleep and Wait\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1e6b1885-2c4d-4465-88ae-ecd51821801c",
+      "Hash": "cSkQHD1s7YA=",
+      "Size": 533,
+      "To": "mods\\FallUI - Workbench\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d22de0b6-29ba-4f55-975f-922ff72710ab",
+      "Hash": "BrPbFPpmLMk=",
+      "Size": 611,
+      "To": "mods\\FallUI Item Sorter Mod (Standard)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "7b9fefa8-55a3-496c-bb8f-4be6ec54e615",
+      "Hash": "RnJNmXYMY3I=",
+      "Size": 538,
+      "To": "mods\\FAR - Faraway Area Reform\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b54ef5b0-6f0e-452d-b897-c8bb0ff6291c",
+      "Hash": "1HJer5+/OZg=",
+      "Size": 534,
+      "To": "mods\\Faster Workshop (Workshop Lag Fix)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "76a79be0-bcc4-437d-a61c-7d4c0835d3c7",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Fixes_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "383a9721-2b54-4c21-87d5-d7b13a7c2587",
+      "Hash": "ksUV5fwchRA=",
+      "Size": 580,
+      "To": "mods\\Flicker Fixer ESL v5.6\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "aca1c7ee-232e-45f4-949f-eab58e42b8a7",
+      "Hash": "xokmk4mA1SI=",
+      "Size": 4346,
+      "To": "mods\\Fortune Finder 4 Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ef3e1c90-a44c-4c0e-8547-0d0d31b443bb",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Gameplay_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f463abc0-b1dd-4b6c-a2d7-e8bb514d7926",
+      "Hash": "whmYdUuLqwI=",
+      "Size": 531,
+      "To": "mods\\Gear Grinder\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "43b10de9-4ad2-4007-997b-f5391d3d3090",
+      "Hash": "UcaDsyNG1NQ=",
+      "Size": 582,
+      "To": "mods\\Graf's Security Fences\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a90aa3ec-c1f8-485b-a2e0-711105b2300e",
+      "Hash": "aDRO/DgdIoY=",
+      "Size": 543,
+      "To": "mods\\High FPS Physics Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "bbe7692f-f794-4e2f-9d1c-37dc3d152432",
+      "Hash": "u9m7I9ZF8gI=",
+      "Size": 523,
+      "To": "mods\\HUDFramework\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e6c77a8b-8d5d-4fb5-ad9e-a3f8bfbc6b18",
+      "Hash": "Jq2OHfK8n/c=",
+      "Size": 586,
+      "To": "mods\\IDEK's Logistics Station 2\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "223b6efa-1e59-4767-a0f1-e7525576e2e6",
+      "Hash": "BR4CFnNtp30=",
+      "Size": 524,
+      "To": "mods\\Immersive HUD - iHUD\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "7714783f-fd5c-4628-86b8-e3d8e3e50c9a",
+      "Hash": "IC/zXicuwqY=",
+      "Size": 542,
+      "To": "mods\\Laser weapons 1st person reposition\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c50b14de-b93d-45f3-86f2-47716f78bd7c",
+      "Hash": "qDOxzqDcoVM=",
+      "Size": 537,
+      "To": "mods\\MCM Settings Manager\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "40d2ce0c-6454-44c5-b68b-d3f472fc253f",
+      "Hash": "jksRJVYctaI=",
+      "Size": 545,
+      "To": "mods\\Mod Configuration Menu\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "81ffd6ac-57ca-4721-8ea0-d2b8aea76b0e",
+      "Hash": "DxKqb86rHHk=",
+      "Size": 524,
+      "To": "mods\\NeuraLOD - Higher detail LOD\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "29038c9b-0365-41c4-81f8-8e3e89e67c67",
+      "Hash": "vhoX33t0zH0=",
+      "Size": 3310,
+      "To": "mods\\No Aggro Impact Landing (Power Armor)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e085bde5-c933-44a2-9729-971b4dd43ba5",
+      "Hash": "kRtP3bARkBs=",
+      "Size": 1077,
+      "To": "mods\\No Holotape Tease - Texture Replacement\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a2a38188-d0db-4371-ac13-8e62b08765e4",
+      "Hash": "akU/EXBjzew=",
+      "Size": 521,
+      "To": "mods\\No more gaps under junk fences\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ff007b1a-a226-487d-a744-b127877f71c9",
+      "Hash": "6G3upBEpn7Q=",
+      "Size": 571,
+      "To": "mods\\No Negative Affinity and No Affinity Cooldown\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0ac418bf-a1c2-44e4-88b1-98d70ba34977",
+      "Hash": "nM7UmeBjlGg=",
+      "Size": 547,
+      "To": "mods\\PCDug's Pretty Triangles and Pretty Circles\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b9b92d31-ece2-41e7-8f47-741455ed90db",
+      "Hash": "ZxusmQ8Rd2s=",
+      "Size": 569,
+      "To": "mods\\Place Everywhere\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "21c0d010-687f-4398-bbd4-4145d3199eb5",
+      "Hash": "WlkesBy8JgU=",
+      "Size": 523,
+      "To": "mods\\Power Armor HoloHUD\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0dcd8a4a-6b95-4064-975b-928c3b70a109",
+      "Hash": "fINOqPZSwLo=",
+      "Size": 554,
+      "To": "mods\\Power Armor Materials AND Paints (PAMAP)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "929a67e9-1a7f-4b6f-852c-3dca56795b13",
+      "Hash": "NI2e4UsjgE8=",
+      "Size": 5749,
+      "To": "mods\\Previsibines Repair Pack\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a3b76886-7569-4719-adc6-d4fa0f405fe9",
+      "Hash": "a0w0Q3Ct7lk=",
+      "Size": 5762,
+      "To": "mods\\Previsibines Repair Pack - Clarity Patch\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "024ac250-5b50-4c86-befc-c912df92182d",
+      "Hash": "L5Uyp3VP7/M=",
+      "Size": 5740,
+      "To": "mods\\Previsibines Repair Pack - Overboss Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "262357ac-2520-4a36-ad2c-a259d9757da8",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Quality of Life_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "fe3e191f-0af5-472e-a160-87ada2be462d",
+      "Hash": "vEIeQJvrA9U=",
+      "Size": 572,
+      "To": "mods\\RAW INPUT - The Ultimate Mouse Sensitivity Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "085d36a5-392f-4887-b3fc-315fe504dba3",
+      "Hash": "TEAP22BMEhQ=",
+      "Size": 532,
+      "To": "mods\\Raze My Settlement\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "7848153f-9de1-4f55-abe4-951f348bc364",
+      "Hash": "XXxpquS4CAs=",
+      "Size": 565,
+      "To": "mods\\Rusty Face Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b0015a49-e967-4c9d-a7fb-09d78b83bd42",
+      "Hash": "YzIu5e+hZmM=",
+      "Size": 545,
+      "To": "mods\\Settlement Menu Manager\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e34eafbd-1e88-456f-8b31-fe4076f60ebd",
+      "Hash": "bCxpDAe6TS0=",
+      "Size": 541,
+      "To": "mods\\Settler Sandbox Expansion\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4a2c98d4-d9b6-41ea-bfca-b7c82ac88fab",
+      "Hash": "ya6lYBhUX+k=",
+      "Size": 536,
+      "To": "mods\\Sim Settlements 2\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "3097e35f-e886-49b5-b21a-757b0ac198ca",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Sim Settlements 2 (Optional)_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8b1b1289-7da9-4847-8ac3-37993c8089ea",
+      "Hash": "kTAUix6kVFY=",
+      "Size": 559,
+      "To": "mods\\Sim Settlements 2 - FallUI Item Sorter patch\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ee0151a8-f500-4005-98eb-767b6c3114d0",
+      "Hash": "EIN9+ojops0=",
+      "Size": 2301,
+      "To": "mods\\Sim Settlements 2 Automatron Mod\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "30419f2e-c2c6-4d1c-befb-4d621d5cfa5c",
+      "Hash": "Q527VmzRY0M=",
+      "Size": 545,
+      "To": "mods\\Sim Settlements 2 Wasteland Reconstruction Kit\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d059c449-7b10-4c1c-8a8b-4a2582db9177",
+      "Hash": "yx44USIn2RE=",
+      "Size": 1989,
+      "To": "mods\\Simple Wait Anywhere (Lightweight)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "cbbfd1b5-7be3-4ee1-aa05-cc838d9a76ef",
+      "Hash": "yN2+ArfXjhU=",
+      "Size": 518,
+      "To": "mods\\Snappable Junk Fences\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "68660605-761e-4a98-afdc-6b48ec0a2e03",
+      "Hash": "oJVpmbNZzUQ=",
+      "Size": 534,
+      "To": "mods\\SS2 Extended\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d5c91227-9534-427c-ab7c-084539c42b50",
+      "Hash": "q3c70CZD23w=",
+      "Size": 588,
+      "To": "mods\\SS2_XDI Compatibility Patch\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1e219c70-af5b-4a9b-bfbc-8787590dfb0e",
+      "Hash": "5OPuqG3qEAY=",
+      "Size": 9548,
+      "To": "mods\\There It Is - Satellite Maps For Collectors\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "6a937c22-018d-4528-a50f-d4d6acfc52b4",
+      "Hash": "NUsgqADBirM=",
+      "Size": 582,
+      "To": "mods\\Ultimate Colored Vault Boy Animations Overhaul\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "832beb06-dac5-49bc-af0b-135cdde27a16",
+      "Hash": "rTqV43Rz7ZY=",
+      "Size": 1957,
+      "To": "mods\\Un-Randomized Workshop Turrets\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4e16957e-6a09-431f-93dc-e2202a9e6d39",
+      "Hash": "n9h0m3PqJdA=",
+      "Size": 539,
+      "To": "mods\\Unofficial Fallout 4 Patch\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "129084b6-00de-466a-8eb9-31d79a8e65de",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\User Interface_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d8c32018-9a3c-4a3b-b7ea-c0bd9e087589",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Utility_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a41fc2db-6a38-4840-8ed8-57126b2fd500",
+      "Hash": "++cUoYbHYVE=",
+      "Size": 536,
+      "To": "mods\\Vault 88 Essentials\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "943a23cb-3fde-4389-bbab-90b859c247db",
+      "Hash": "bcN9o3W8G00=",
+      "Size": 535,
+      "To": "mods\\Vault 88 Template - Optimised\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4f720a3f-7279-4107-9173-7fdb71d3cdea",
+      "Hash": "xFhoFjU1QcE=",
+      "Size": 549,
+      "To": "mods\\Vault-Tec Workshop Overhaul Redux (VTWOR)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e188dd63-06a3-42e7-8737-397bd772bfd0",
+      "Hash": "gSfZLs0mJN8=",
+      "Size": 535,
+      "To": "mods\\Visible Idle Markers\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "64e1026b-b0b3-45d1-af35-bc8357897771",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Visual_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "797242ef-915f-4dea-b8c7-a84cefdbdf16",
+      "Hash": "9+MQBbDoTL4=",
+      "Size": 543,
+      "To": "mods\\Vivid Fallout - All in One\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0eb3ba1c-5db3-4a71-ab26-4cc273a87097",
+      "Hash": "z2oHb1Hfw7w=",
+      "Size": 518,
+      "To": "mods\\WAVE - Wave Animation Vanilla Enhanced\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "7bfee665-8638-45bb-9da9-b9e1dd148b10",
+      "Hash": "1IGI54+/NUg=",
+      "Size": 538,
+      "To": "mods\\Weapon Debris Crash Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "3b86ced7-8b22-4898-97a8-df5c1bb0b6e4",
+      "Hash": "8xZR1aX96H0=",
+      "Size": 592,
+      "To": "mods\\WET\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a046ce27-a809-46f7-890f-d6b63bfbfefe",
+      "Hash": "RBRaYFek6Ps=",
+      "Size": 547,
+      "To": "mods\\Whisper's Extra Pieces and Snaps\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "17cf71ab-9cf0-48d8-996a-6672fcd74543",
+      "Hash": "3y3ucdT9uKw=",
+      "Size": 684,
+      "To": "mods\\Whose Quest Is It Anyway\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1ac3dc5c-dd19-4be0-8cb4-0eaa3997d29b",
+      "Hash": "o/M0Qt1sEOE=",
+      "Size": 537,
+      "To": "mods\\Workshop Framework\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "3d7a3b4c-b146-4753-ab90-c7edb91636e2",
+      "Hash": "SrIES9n1VIc=",
+      "Size": 535,
+      "To": "mods\\Workshop Plus\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "42ab3c7b-215e-430a-a651-012e7bd8ae52",
+      "Hash": "i+ZyS6artF4=",
+      "Size": 3333,
+      "To": "mods\\Workshop Power Pack\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2e3c1570-3db4-4d79-b9e6-0105f633b0e8",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Workshop_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d52cfef2-f09f-4e95-a86e-986c2bf36a10",
+      "Hash": "X3fwpahPezk=",
+      "Size": 3362,
+      "To": "profiles\\F4E\\archives.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0af110ba-dc73-4953-801f-bcb90c90cba0",
+      "Hash": "Ls07Pu94W3o=",
+      "Size": 2501,
+      "To": "profiles\\F4E\\fallout4.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d3294ab4-88d4-4520-86a5-0ead49f42fad",
+      "Hash": "QcuS5K++ESA=",
+      "Size": 136,
+      "To": "profiles\\F4E\\fallout4custom.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4a5fde45-eb12-4cc3-ad1c-d13701ee3f61",
+      "Hash": "x3HYx2SpKEM=",
+      "Size": 3879,
+      "To": "profiles\\F4E\\fallout4prefs.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "fe7ba1ba-18a5-4894-a044-758ad000ebcb",
+      "Hash": "zH3GSffbvsA=",
+      "Size": 36,
+      "To": "profiles\\F4E\\initweaks.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8662ea84-dcde-4d1e-a29d-a8a6d5e942bd",
+      "Hash": "fHKoY+X5HLM=",
+      "Size": 2188,
+      "To": "profiles\\F4E\\loadorder.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a27050d7-13cc-48bb-840d-997a0d1463bd",
+      "Hash": "CcflEOKPT3E=",
+      "Size": 59,
+      "To": "profiles\\F4E\\lockedorder.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1f72de0f-5d3e-4475-bbc1-26cb6df04730",
+      "Hash": "D1td7HKAvmk=",
+      "Size": 3410,
+      "To": "profiles\\F4E\\modlist.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b15f773c-3cda-477f-a0a7-c34d3ce4f143",
+      "Hash": "aaredICUEZU=",
+      "Size": 1756,
+      "To": "profiles\\F4E\\plugins.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "9b8e82bd-cb80-4c3e-ae8b-157cb260a447",
+      "Hash": "PJSlt3GWPzA=",
+      "Size": 85,
+      "To": "profiles\\F4E\\settings.ini"
+    }
+  ]
+}
