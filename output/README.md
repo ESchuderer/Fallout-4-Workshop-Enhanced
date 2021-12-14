@@ -1,2 +1,2 @@
 # Fallout 4 Workshop Enhanced
-F4WE is a Workshop focused Sim Settlements 2 modlist which otherwise stays close to vanilla + QoL improvements and fixes.
+F4WE is a Sim Settlements 2 focused modlist staying close to vanilla with some Quality of Life seasoning.
