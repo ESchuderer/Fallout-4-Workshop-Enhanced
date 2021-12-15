@@ -15,7 +15,6 @@ more mod details coming soon
 - Easy lockpicking
 - Unrandomized speech checks with guaranteed success at 4, 6, 8 Charisma
 - Named NPCs are now protected if they weren't (unless they are essential, UFO4P changes respected)
--
 
 # Installation
 
@@ -46,3 +45,6 @@ I recommend to load the F4WE configuration preset once you left the Cryopod in V
 - Press ESC and open the `Mod Configuration Menu`
 - Select the `-= MCM Settings Manager =-`
 - Click apply besides the `F4WE Preset`
+
+# Issues
+If you didn't modify the list and face some issues feel free to contact me on Discord: CrowsBane#4254
