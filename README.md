@@ -3,7 +3,7 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
 
 * [Goals](#goals)
   * [This list is not about](#this-list-is-not-about)
-* [Notable Mods](#noteable-mods)
+* [Notable Modifications](#noteable-modifications)
   * [F4WE Changes](#f4we-changes)
 * [Installation](#installation)
   * [Known Issues](#known-issues)
@@ -25,7 +25,7 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
 * Changing combat
 * Hardcore Survival Experience
 
-# Notable Mods
+# Noteable Modifications
 
 * [Sim Settlements 2 (Chapter 1 & 2)](https://simsettlements2.com/)
 
