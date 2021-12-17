@@ -21,7 +21,7 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
 * Quality of Life
 * Nice Settlements
 
-## This list is not about
+### This list is not about
 * New weapons & armors
 * New locations & quests
 * Changing combat
@@ -32,7 +32,7 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
 * [Sim Settlements 2 (Chapter 1 & 2)](https://simsettlements2.com/)
 * [Everyone's Best Friend](https://www.nexusmods.com/fallout4/mods/13459/)
 
-## F4WE changes
+### F4WE changes
 
 * Easy hacking
 * Easy lockpicking
@@ -40,7 +40,7 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
 * Named NPCs are now protected if they weren't (unless they are essential, UFO4P changes respected)
 * Valuable Scrap is not scrapable anymore (Uniques & Pre-War Money)
 
-## Supported Creation Club Content
+### Supported Creation Club Content
 
 * Modular Military Backpack
 * TransDOGrifier
@@ -63,7 +63,7 @@ If you want to restore a clean setup follow these steps:
 * Download and install [Wabbjack](https://www.wabbajack.org/#/)
 * Download and execute [Fallout 4 Workshop Extended.wabbajack](output/Fallout%204%20Workshop%20Extended.wabbajack)
 
-## Known Issues
+### Known Issues
 
 * FallOpt doesn't download
   * Download FallOpt manually and put it in the Wabbajack downloads folder: https://www.nexusmods.com/fallout4/mods/55662
@@ -88,7 +88,7 @@ To start the game you need to use the Mod Organizer as follows:
 * Ensure "Start F4WE" is selected in the dropdown on the top right (left of the run button)
 * Hit that run button
 
-## MCM Preset
+### MCM Preset
 I recommend to load the F4WE configuration preset once you left the Cryopod in Vault 111 by following these steps:
 * Press ESC and open the `Mod Configuration Menu`
 * Select the `-= MCM Settings Manager =-`
