@@ -1,0 +1,12 @@
+BoS302DanseHoloTag
+BoSM01_DistressPulser
+BoSM01_HolotagBrandis
+BoSM01_HolotagFaris
+BoSM01_HolotagRylan
+BoSM01_HolotagVarham
+ChargeCard
+DN021_AnnikasLocket
+DN102_HalluciGenGasCanister
+HighPoweredMagnet
+MS07bGildedGrasshopper01
+PrewarMoney
