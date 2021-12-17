@@ -1,6 +1,7 @@
 # Fallout 4 Workshop Enhanced
 F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](https://github.com/wabbajack-tools/wabbajack) mod list staying close to vanilla with some Quality of Life seasoning.
 
+* [Recommended System Specs](#recommended-system-specs)
 * [Goals](#goals)
   * [This list is not about](#this-list-is-not-about)
 * [Notable Modifications](#noteable-modifications)
@@ -15,6 +16,14 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
 * [Starting a new Game](#starting-a-new-game)
   * [MCM Preset](#mcm-preset)
 * [Issues & Support](issues---support)
+
+# Recommended System Specs
+
+* **Game**      Fallout 4: Game of the Year Edition
+* **Processor** Intel Core i5-7600 / AMD Ryzen 5 2600
+* **Memory**    16 GB
+* **Graphics**  8GB VRAM
+* **Storage**   120 GB
 
 # Goals
 * Stable Experience
