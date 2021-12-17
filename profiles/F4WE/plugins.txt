@@ -11,8 +11,13 @@
 *MTM-GardenTerraceCeilingFixedByMonorail.esl
 *MTM-NukaTownEastArchwayFix.esl
 *IDEKsLogisticsStation2.esl
-*ColterFix.esp
 *Flicker Fixer.esp
+*ColterFix.esp
+*Keep Radiants In Commonwealth.esp
+*PrestonNoRadiant.esp
+*PAMAP.esp
+*R88_SimpleSorter.esp
+*4estGimp - FallUI_R88_PA_INNR.esp
 *FAR.esp
 *Fortune Finder 4 Fix.esp
 *InstitWeapPosit.esp
@@ -28,6 +33,7 @@
 *Commonwealth Climate.esp
 *WET.esp
 *Screen Flicker Killer.esp
+*BetterJunkFences.esp
 *Screen Flicker Killer_emit.esp
 *Fixed Gobo Effects.esp
 *AutomatronLoadScreenFix.esp
@@ -46,13 +52,11 @@
 *SS2AOP_VaultTecTools.esp
 *cVc Dead Wasteland 6 DLC2.esp
 *cVc Dead Wasteland 6 DLC3.esp
-*dcc-palock.esp
 *SettlementMenuManager.esp
 *Visible Idle Markers.esp
-*WorkshopPlus.esp
-*PAMAP.esp
 *GearGrinder2.esp
 *IDEKsLogisticsStation2_SS2_Patch.esp
+*Keep Radiants in Commonwealth - UF4P Patch.esp
 *No Aggro Impact Landing.esp
 *NoAffinityCooldown.esp
 *NoNegativeAffinity.esp
@@ -66,14 +70,21 @@
 *Vault88 - Essentials.esp
 *WeaponWallRacks.esp
 *whisperExtraPieces.esp
+*MilitaryBackpackDistribution.esp
+*WorkshopPlus.esp
 *GrafsSecurityFences.esp
 *Better_Settlement_Defence.esp
-*R88_SimpleSorter.esp
-*MilitaryBackpackDistribution.esp
+*PoolRackFix.esp
 *SandboxRadiusOverhaul2x.esp
+*EveryonesBestFriend.esp
+*PD_LowerWeapon.esp
 *M8r Complex Sorter.esp
+*F4WE - Radiant Patch.esp
 *F4WE - Assorted Sorting Patch.esp
-*F4WE - ccbgsfo4036-trnsdg.esp
-*F4WE - ccfsvfo4001-modularmilitarybackpack.esp
+*F4WE - Globals.esp
+*F4WE - NPC Protection.esp
+*F4WE - NoScrap.esp
+*F4WE - CC - Modular Military Backpack.esp
+*F4WE - CC - TransDOGrifier.esp
 *PRP.esp
 *PRP-Compat-Clarity-43.esp
