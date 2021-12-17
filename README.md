@@ -87,7 +87,7 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
   |[Kyle](https://fallout.fandom.com/wiki/Kyle_(dog))|`POIMR01_LvlRaiderDog01`|
   |[Kate](https://fallout.fandom.com/wiki/Kate_(dog))|`POIMR01_LvlRaiderDog02`|
   |[Alissa](https://fallout.fandom.com/wiki/Alissa)|`POIMR01_LvlRaiderDog03`|
-  |[Leonard Moore](https://fallout.fandom.com/wiki/Leonard_Moore|`POIRJ11_Leonard`|
+  |[Leonard Moore](https://fallout.fandom.com/wiki/Leonard_Moore)|`POIRJ11_Leonard`|
   |[Teddy](https://fallout.fandom.com/wiki/Teddy)|`POISC21_EleanorDog`|
   |[Eleanor](https://fallout.fandom.com/wiki/Eleanor)|`POSC06_Eleanor`|
   |[Clements](https://fallout.fandom.com/wiki/Clements)|`PastorClements`|
@@ -119,6 +119,8 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
 <details>
   <summary>Editor IDs of removed scrap</summary>
 
+  | NPC        | Editor ID           |
+  | -------------: |-------------|
   |[Danse's holotags ](https://fallout.fandom.com/wiki/Danse%27s_holotags)|`BoS302DanseHoloTag`|
   |[Distress Pulser](https://fallout.fandom.com/wiki/Distress_pulser)|`BoSM01_DistressPulser`|
   |[Paladin Brandis' holotag](https://fallout.fandom.com/wiki/Paladin_Brandis%27_holotag)|`BoSM01_HolotagBrandis`|
@@ -131,7 +133,7 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
   |[High-powered magnet](https://fallout.fandom.com/wiki/High-powered_magnet_(Fallout_4))|`HighPoweredMagnet`|
   |[Gilded grasshopper](https://fallout.fandom.com/wiki/Gilded_grasshopper)|`MS07bGildedGrasshopper01`|
   |[Pre-War money](https://fallout.fandom.com/wiki/Pre-War_money_(Fallout_4))|`PrewarMoney`|
-  
+
 </details>
 
 ### Supported Creation Club Content
