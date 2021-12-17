@@ -40,6 +40,7 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
 
 * [Sim Settlements 2 (Chapter 1 & 2)](https://simsettlements2.com/)
 * [Everyone's Best Friend](https://www.nexusmods.com/fallout4/mods/13459/)
+* [Fallout 4 HD Overhaul](https://www.nexusmods.com/fallout4/mods/52423)
 
 ### F4WE changes
 
