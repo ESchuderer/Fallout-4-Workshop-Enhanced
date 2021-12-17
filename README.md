@@ -171,8 +171,11 @@ If you want to restore a clean setup follow these steps:
 
 ### Known Issues
 
-* FallOpt doesn't download
-  * Download FallOpt manually and put it in the Wabbajack downloads folder: https://www.nexusmods.com/fallout4/mods/55662
+#### Wabbajack fails to download a file
+Manually download the file and put it in your Wabbajack downloads folder, ensure the file name does match:
+* [FallOpt](https://www.nexusmods.com/fallout4/mods/55662)
+* [FO4LODGen-Resources](https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4)
+* [F4WE - LODGen](https://mega.nz/file/2iIxUSaa#r99MJjk0Uz3Hfma5AP4OVOGkHdKGCRBdp7o1-yCfNtM)
 
 # Post Installation
 
