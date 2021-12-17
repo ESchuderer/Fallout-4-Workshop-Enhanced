@@ -5,11 +5,13 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
   * [This list is not about](#this-list-is-not-about)
 * [Notable Modifications](#noteable-modifications)
   * [F4WE Changes](#f4we-changes)
+  * [Supported Creation Club Content](#supported-creation-club-content)
+* [Pre Installation](#pre-installation)
 * [Installation](#installation)
   * [Known Issues](#known-issues)
-  * [Post Installation](#post-installation)
-    * [Game Folder Files](#game-folder-files)
-    * [Endorse Mods](#endorse-mods)
+* [Post Installation](#post-installation)
+  * [Game Folder Files](#game-folder-files)
+  * [Endorse Mods](#endorse-mods)
 * [Starting a new Game](#starting-a-new-game)
   * [MCM Preset](#mcm-preset)
 * [Issues & Support](issues---support)
@@ -28,6 +30,7 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
 # Noteable Modifications
 
 * [Sim Settlements 2 (Chapter 1 & 2)](https://simsettlements2.com/)
+* [Everyone's Best Friend](https://www.nexusmods.com/fallout4/mods/13459/)
 
 ## F4WE changes
 
@@ -37,16 +40,35 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
 * Named NPCs are now protected if they weren't (unless they are essential, UFO4P changes respected)
 * Valuable Scrap is not scrapable anymore (Uniques & Pre-War Money)
 
+## Supported Creation Club Content
+
+* Modular Military Backpack
+* TransDOGrifier
+* Dog Rescue (No patch required so far)
+
+# Pre Installation
+
+Please ensure you're on a fresh and clean Fallout 4 installation without any mods or other changes.
+If you want to restore a clean setup follow these steps:
+
+* Uninstall Fallout 4 through Steam
+* Open your Fallout 4 directory `*\Steam\steamapps\common\Fallout 4` 
+* Delete all files in this folder
+* Install Fallout 4 trough Steam
+* Open the Game once
+* Ensure to download all Creation Club content youd like to use, see [Supported Creation Club Content](#supported-creation-club-content)
+
 # Installation
 
 * Download and install [Wabbjack](https://www.wabbajack.org/#/)
 * Download and execute [Fallout 4 Workshop Extended.wabbajack](output/Fallout%204%20Workshop%20Extended.wabbajack)
 
 ## Known Issues
+
 * FallOpt doesn't download
   * Download FallOpt manually and put it in the Wabbajack downloads folder: https://www.nexusmods.com/fallout4/mods/55662
 
-## Post Installation
+# Post Installation
 
 ### Game Folder Files
 * Open the `Game Folder Files` directory in your Wabbajack installation directory
