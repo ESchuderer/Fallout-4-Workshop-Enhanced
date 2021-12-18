@@ -110,14 +110,11 @@ JTC.esp
 GearGrinder2.esp
 InstituteBuildPieces.esp
 Wireless Workshop Items.esp
-Crimsomrider's Accessories.esp
-WestTekTacticalOptics.esp
 W.A.T.Minutemen.esp
-Far West Minutemen.esp
-MinutemenMerged.esp
 MilitarizedMinutemen.esp
 MilitarisedMinutemen_PatchesAddon.esp
-4estGimp - WATFWMMM.esp
+WATM-MM-MMUPAIA_CustomPatch.esp
+M8r Complex Sorter.esp
 F4WE - Assorted Sorting Patch.esp
 F4WE - CC - Modular Military Backpack.esp
 F4WE - CC - TransDOGrifier.esp
@@ -127,6 +124,7 @@ F4WE - LODPatch.esp
 F4WE - NoScrap.esp
 F4WE - NPC Protection.esp
 F4WE - Radiant Patch.esp
-M8r Complex Sorter.esp
-PRP-Compat-Clarity-43.esp
+F4WE - WATM-MM-MMUPAIA - Assorted.esp
+F4WE - WATM-MM-MMUPAIA.esp
 PRP.esp
+PRP-Compat-Clarity-43.esp
