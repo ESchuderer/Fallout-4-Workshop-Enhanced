@@ -9,29 +9,14 @@ Fallout4 - Interface.ba2
 Fallout4 - Nvflex.ba2
 Fallout4 - Shaders.ba2
 Fallout4 - Startup.ba2
-Fallout4 - Textures1.ba2
-Fallout4 - Textures2.ba2
-Fallout4 - Textures3.ba2
-Fallout4 - Textures9.ba2
-Fallout4 - Textures8.ba2
-Fallout4 - Textures7.ba2
-Fallout4 - Textures6.ba2
-Fallout4 - Textures5.ba2
-Fallout4 - Textures4.ba2
-DLCworkshop01 - Textures.ba2
 DLCworkshop01 - Main.ba2
 DLCworkshop03 - Voices_en.ba2
 DLCworkshop03 - Main.ba2
-DLCworkshop03 - Textures.ba2
-DLCNukaWorld - Textures.ba2
 DLCNukaWorld - Main.ba2
 DLCNukaWorld - Voices_en.ba2
 DLCCoast - Main.ba2
 DLCCoast - Voices_en.ba2
-DLCCoast - Textures.ba2
-DLCworkshop02 - Textures.ba2
 DLCworkshop02 - Main.ba2
-DLCRobot - Textures.ba2
 DLCRobot - Voices_en.ba2
 DLCRobot - Main.ba2
 CanarySaveFileMonitor - Main.ba2
@@ -61,8 +46,23 @@ WET - Textures.ba2
 WET - Main.ba2
 WAVE - Main.ba2
 WAVE - Textures.ba2
-NeuraLOD - Main.ba2
-NeuraLOD - Textures.ba2
+Fallout4 - Textures1.ba2
+Fallout4 - Textures2.ba2
+Fallout4 - Textures3.ba2
+Fallout4 - Textures4.ba2
+Fallout4 - Textures5.ba2
+Fallout4 - Textures6.ba2
+Fallout4 - Textures7.ba2
+Fallout4 - Textures8.ba2
+Fallout4 - Textures9.ba2
+DLCRobot - Textures.ba2
+DLCworkshop01 - Textures.ba2
+DLCCoast - Textures.ba2
+DLCworkshop02 - Textures.ba2
+DLCworkshop03 - Textures.ba2
+DLCNukaWorld - Textures.ba2
+NeuraLOD_Resources - Textures.ba2
+FO4LODGen - Main.ba2
 PD_LowerWeapon - Main.ba2
 SettlementMenuManager - Main.ba2
 WorkshopFramework - Main.ba2
@@ -86,7 +86,13 @@ WeaponWallRacks - Textures.BA2
 WeaponWallRacks - Main.BA2
 IDEKsLogisticsStation2 - Main.ba2
 GearGrinder2 - Main.ba2
+JTC - Main.ba2
 Better_Settlement_Defence - Main.ba2
+Wireless Workshop Items - Main.ba2
+InstituteBuildPieces - Textures.ba2
+InstituteBuildPieces - Main.ba2
+Wallmageddon - Main.ba2
+Wallmageddon - Textures.ba2
 ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
 ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
 cckgjfo4001-bastion - main.ba2
@@ -127,3 +133,15 @@ SS2_XPAC_Chapter2 - Main.ba2
 SS2_RobotMod - Main.ba2
 SS2AOP_VaultTecTools - Textures.BA2
 SS2AOP_VaultTecTools - Main.BA2
+F4WE - LODGen - Textures.ba2
+F4WE - LODGen - Main.ba2
+W.A.T.Minutemen - Textures.BA2
+W.A.T.Minutemen - Main.BA2
+Far West Minutemen - Textures.ba2
+Far West Minutemen - Main.ba2
+MilitarizedMinutemen - Main.ba2
+MilitarizedMinutemen - Textures.ba2
+MilitarisedMinutemen_PatchesAddon - Textures.ba2
+MilitarisedMinutemen_PatchesAddon - Main.ba2
+WestTekTacticalOptics - Main.ba2
+WestTekTacticalOptics - Textures.ba2

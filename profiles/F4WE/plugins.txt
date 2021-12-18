@@ -11,6 +11,7 @@
 *MTM-GardenTerraceCeilingFixedByMonorail.esl
 *MTM-NukaTownEastArchwayFix.esl
 *IDEKsLogisticsStation2.esl
+*Wallmageddon.esl
 *Flicker Fixer.esp
 *ColterFix.esp
 *Keep Radiants In Commonwealth.esp
@@ -26,7 +27,6 @@
 *spacefiddle_Follower-Stealth-Distance-Fixes.esp
 *There It Is x Perfectionist x No PA.esp
 *Immersive HUD.esp
-*NeuraLOD.esp
 *WAVE.esp
 *Vault 88 Template - Optimised.esp
 *Clarity.esp
@@ -54,7 +54,6 @@
 *cVc Dead Wasteland 6 DLC3.esp
 *SettlementMenuManager.esp
 *Visible Idle Markers.esp
-*GearGrinder2.esp
 *IDEKsLogisticsStation2_SS2_Patch.esp
 *Keep Radiants in Commonwealth - UF4P Patch.esp
 *No Aggro Impact Landing.esp
@@ -78,13 +77,34 @@
 *SandboxRadiusOverhaul2x.esp
 *EveryonesBestFriend.esp
 *PD_LowerWeapon.esp
-*M8r Complex Sorter.esp
-*F4WE - Radiant Patch.esp
+*FO4LODGen-DLCCoast.esp
+*FO4LODGen-DLCCoast-WindTurbines.esp
+*FO4LODGen-DLCNukaWorld.esp
+*FO4LODGen-DLCWorkshop03.esp
+*FO4LODGen-FullModelLOD.esp
+*FO4LODGen.esp
+*NeuraLOD_Resources.esp
+*JTC.esp
+*GearGrinder2.esp
+*InstituteBuildPieces.esp
+*Wireless Workshop Items.esp
+*Crimsomrider's Accessories.esp
+*WestTekTacticalOptics.esp
+*W.A.T.Minutemen.esp
+*Far West Minutemen.esp
+*MinutemenMerged.esp
+*MilitarizedMinutemen.esp
+*MilitarisedMinutemen_PatchesAddon.esp
+*4estGimp - WATFWMMM.esp
 *F4WE - Assorted Sorting Patch.esp
-*F4WE - Globals.esp
-*F4WE - NPC Protection.esp
-*F4WE - NoScrap.esp
 *F4WE - CC - Modular Military Backpack.esp
 *F4WE - CC - TransDOGrifier.esp
-*PRP.esp
+*F4WE - Globals.esp
+*F4WE - LODGen.esp
+*F4WE - LODPatch.esp
+*F4WE - NoScrap.esp
+*F4WE - NPC Protection.esp
+*F4WE - Radiant Patch.esp
+*M8r Complex Sorter.esp
 *PRP-Compat-Clarity-43.esp
+*PRP.esp
