@@ -1,3 +1,11 @@
+## 1.1.1
+
+### Updated
+* [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)
+* [Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)
+* [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)
+* [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195)
+
 ## 1.1.0 NEW Save Required!
 
 ### Added
@@ -22,7 +30,7 @@
 
 ### Feat
 * feat: Removed some irrelevant generic NPCs from the protection list
-* feat: Less annoying Radiant Quests 
+* feat: Less annoying Radiant Quests
 
 ### Chore
 - chore: Improved readme for protected npcs and scrap
