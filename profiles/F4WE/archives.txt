@@ -84,8 +84,6 @@ Cho1-Workshop-Framework-stuff - textures.BA2
 Cho1-Workshop-Framework-stuff - Main.BA2
 WeaponWallRacks - Textures.BA2
 WeaponWallRacks - Main.BA2
-IDEKsLogisticsStation2 - Main.ba2
-GearGrinder2 - Main.ba2
 JTC - Main.ba2
 Better_Settlement_Defence - Main.ba2
 Wireless Workshop Items - Main.ba2
@@ -133,11 +131,11 @@ SS2_XPAC_Chapter2 - Main.ba2
 SS2_RobotMod - Main.ba2
 SS2AOP_VaultTecTools - Textures.BA2
 SS2AOP_VaultTecTools - Main.BA2
-F4WE - LODGen - Textures.ba2
-F4WE - LODGen - Main.ba2
 W.A.T.Minutemen - Main.BA2
 W.A.T.Minutemen - Textures.BA2
 MilitarizedMinutemen - Main.ba2
 MilitarizedMinutemen - Textures.ba2
 MilitarisedMinutemen_PatchesAddon - Main.ba2
 MilitarisedMinutemen_PatchesAddon - Textures.ba2
+F4WE - LODGen - Textures.ba2
+F4WE - LODGen - Main.ba2

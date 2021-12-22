@@ -32,7 +32,6 @@ NWTransCenLOD.esl
 StarlightLOD.esl
 MTM-GardenTerraceCeilingFixedByMonorail.esl
 MTM-NukaTownEastArchwayFix.esl
-IDEKsLogisticsStation2.esl
 Wallmageddon.esl
 Flicker Fixer.esp
 ColterFix.esp
@@ -76,7 +75,6 @@ cVc Dead Wasteland 6 DLC2.esp
 cVc Dead Wasteland 6 DLC3.esp
 SettlementMenuManager.esp
 Visible Idle Markers.esp
-IDEKsLogisticsStation2_SS2_Patch.esp
 Keep Radiants in Commonwealth - UF4P Patch.esp
 No Aggro Impact Landing.esp
 NoAffinityCooldown.esp
@@ -107,7 +105,6 @@ FO4LODGen-FullModelLOD.esp
 FO4LODGen.esp
 NeuraLOD_Resources.esp
 JTC.esp
-GearGrinder2.esp
 InstituteBuildPieces.esp
 Wireless Workshop Items.esp
 W.A.T.Minutemen.esp
