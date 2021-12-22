@@ -41,6 +41,9 @@ F4WE is a [Sim Settlements 2](https://simsettlements2.com/) focused [Wabbajack](
 * [Sim Settlements 2 (Chapter 1 & 2)](https://simsettlements2.com/)
 * [Everyone's Best Friend](https://www.nexusmods.com/fallout4/mods/13459/)
 * [Fallout 4 HD Overhaul](https://www.nexusmods.com/fallout4/mods/52423)
+* [We are the Minutemen](https://www.nexusmods.com/fallout4/mods/6443)
+* [Militarized Minutemen](https://www.nexusmods.com/fallout4/mods/29853)
+* [Militarized Minutemen - Uniforms Patches and Insignia Addon](https://www.nexusmods.com/fallout4/mods/32369)
 
 ### F4WE changes
 
