@@ -15,9 +15,22 @@
 +Militarized Minutemen
 +We Are The Minutemen
 -Factions_separator
++Sim Settlements 2 - Recruitable Settlers Leaders Pack 2
++SS2 Nobody's Leaders 2
++Recruitable Settlers FH
++Recruitable Settlers
++Sim Settlements 2 Scrappers
++SS2 Superstructures - A Sim Settlements 2 Addon Pack
++SS2 Addon Pack - Walled Gardens and More
++Sim Settlements 2 - Pra's Random Addon 2
++Sim Settlements 2 - Ruined Homes and Gardens 2.0
++Sim Settlements 2 - Tiny Living
 +Vault-Tec Tools - Sim Settlements 2 Addon Pack
-+Rise of the Commonwealth for Sim Settlements 2
 +Sim Settlements 2 Automatron Mod
++Wasteland Venturers Sim Settlements 2 Addon Pack
+-Sim Settlements 2 Addons_separator
++PRP Compat for Sim Settlements 2
++Rise of the Commonwealth for Sim Settlements 2
 +Sim Settlements 2 - Chapter 2
 +Sim Settlements 2
 +SS2 Extended
@@ -31,12 +44,15 @@
 +CC - Backpacks
 -[NoDelete] Creation Club Content
 -Creation Club_separator
++Sandbag Fortifications
++Capital Wasteland Workshop Pack II
++Capital Wasteland Workshop Pack
 +Wallmageddon
 +Whisper's Institute Build Kit
 +Wireless Workshop Items
-+BS Defence - This Settlement Does Not Need Your Help
 +Junk to Components
 +Weapon Wall Racks (WWR)
++Magazine Rack Extended
 +Choochoo1's Workshop Framework displays
 +Visible Idle Markers
 +cVc Dead Wasteland 6 - DLC3
@@ -57,6 +73,8 @@
 +Settlement Menu Manager
 +Place Everywhere
 -Workshop_separator
++BS Defence - This Settlement Does Not Need Your Help
++Better Vertibird - A Vertibird Overhaul
 +Preston Garvey No Radiant Settlement Quests
 +Keep Radiants in Commonwealth - UF4P Patch
 +Keep Radiants in the Commonwealth
@@ -81,24 +99,6 @@
 +NeuraLOD Resource file
 -NeuraLOD - Higher detail LOD
 -LOD_separator
-+Enhanced Vanilla Bodies
-+Cubemaps Fix loose Files Version
-+DLCNukaWorld - Textures
-+DLCworkshop03 - Textures
-+DLCworkshop02 - Textures
-+DLCCoast - Textures
-+DLCworkshop01 - Textures
-+DLCRobot - Textures
-+Fallout4 - Textures9
-+Fallout4 - Textures8
-+Fallout4 - Textures7
-+Fallout4 - Textures6
-+Fallout4 - Textures5
-+Fallout4 - Textures4
-+Fallout4 - Textures3
-+Fallout4 - Textures2
-+Fallout4 - Textures1
-+Textures_separator
 +Visible Galaxy - Stars Sold Seperately
 +Clarity - A Visual Overhaul
 +WAVE - Wave Animation Vanilla Enhanced
@@ -132,6 +132,7 @@
 +EBF UFO4P compatibility fix
 +Everyone's Best Friend (Dogmeat and Companion At Same Time - No Console - No Hack)
 -Companions_separator
++F4SE - Garbage Collector Fix
 +Previsibines Repair Pack - Clarity Patch
 +Previsibines Repair Pack - Overboss Fix
 +Previsibines Repair Pack
@@ -168,6 +169,7 @@
 +R2K's Gameplay Mods - Fast PipBoy
 +Configurable Hotkeys
 +Console Commands Extender
++MCM Booster
 +MCM Settings Manager
 +Mod Configuration Menu
 +Canary Save File Monitor
@@ -178,6 +180,24 @@
 +Buffout 4
 +F4SE Scripts
 -Utility_separator
++Enhanced Vanilla Bodies
++Cubemaps Fix loose Files Version
++DLCNukaWorld - Textures
++DLCworkshop03 - Textures
++DLCworkshop02 - Textures
++DLCCoast - Textures
++DLCworkshop01 - Textures
++DLCRobot - Textures
++Fallout4 - Textures9
++Fallout4 - Textures8
++Fallout4 - Textures7
++Fallout4 - Textures6
++Fallout4 - Textures5
++Fallout4 - Textures4
++Fallout4 - Textures3
++Fallout4 - Textures2
++Fallout4 - Textures1
++Textures_separator
 -SKK Fast Start new game
 -DavesMods - In Game ESP Explorer Maintenance
 *DLC: Automatron

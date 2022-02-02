@@ -11,10 +11,14 @@
 *MTM-GardenTerraceCeilingFixedByMonorail.esl
 *MTM-NukaTownEastArchwayFix.esl
 *Wallmageddon.esl
+*CWWorkshopMaster.esm
+*CWWorkshopPackPart2.esl
+*SS2_NobodysLeaders2.esl
+*SS2_NobodysLeaders2_Automatron.esl
+*SS2_NobodysLeaders2_NukaWorld.esl
+*SS2_NobodysLeaders2_VaultTecWorkshop.esl
 *Flicker Fixer.esp
 *ColterFix.esp
-*Keep Radiants In Commonwealth.esp
-*PrestonNoRadiant.esp
 *PAMAP.esp
 *R88_SimpleSorter.esp
 *4estGimp - FallUI_R88_PA_INNR.esp
@@ -29,6 +33,9 @@
 *WAVE.esp
 *Vault 88 Template - Optimised.esp
 *Clarity.esp
+*RecruitableSettlers.esp
+*Keep Radiants In Commonwealth.esp
+*PrestonNoRadiant.esp
 *Commonwealth Climate.esp
 *WET.esp
 *Screen Flicker Killer.esp
@@ -38,6 +45,8 @@
 *AutomatronLoadScreenFix.esp
 *Fixed Alpha Map.esp
 *Fixed Creature Death Drops.esp
+*SS2_FDK_TinyLiving.esp
+*RecruitableSettlersFH.esp
 *cVc Dead Wasteland 6.esp
 *WestonWaterLOD.esp
 *JP_Extra_Nav_Fix.esp
@@ -46,6 +55,10 @@
 *PerceptionBugFix.esp
 *Wetness Shader Fix.esp
 *AA Better Companions - No Conflicts.esp
+*SS2WastelandVenturers.esp
+*[SS2 Addon] SimSettlements SuperStructures.esp
+*ohSIM_Sim2_Settlements_Scrappers_Addon.esp
+*SS2_ruined_simsettlement_addonpack.esp
 *Cho1-Workshop-Framework-stuff.esp
 *Raze My Settlement.esp
 *SS2AOP_VaultTecTools.esp
@@ -85,6 +98,12 @@
 *JTC.esp
 *InstituteBuildPieces.esp
 *Wireless Workshop Items.esp
+*SS2-PraRandomAddon.esp
+*SS2WalledGardensAndMore.esp
+*RecruitableSettlersLeaders2.esp
+*MagazineExt.esp
+*Sandbag Fortifications - Version 2C.esp
+*Better Vertibird.esp
 *W.A.T.Minutemen.esp
 *MilitarizedMinutemen.esp
 *MilitarisedMinutemen_PatchesAddon.esp
@@ -103,3 +122,4 @@
 *F4WE - WATM-MM-MMUPAIA.esp
 *PRP.esp
 *PRP-Compat-Clarity-43.esp
+*PRP-SS2.esp
