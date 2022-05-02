@@ -1,15 +1,15 @@
 {
   "$type": "Manifest, Wabbajack.Lib",
   "Name": "Fallout 4 Workshop Extended",
-  "Version": "1.2.0",
+  "Version": "1.3.0",
   "Author": "CrowsBane",
   "Description": "F4WE is a Sim Settlements 2 focused list staying close to vanilla with some Quality of Life seasoning.",
   "GameType": "Fallout4",
   "GameName": "Fallout4",
   "ModManager": 0,
   "ModManagerName": "MO2",
-  "DownloadSize": 64239186621,
-  "InstallSize": 67155650851,
+  "DownloadSize": 77311339096,
+  "InstallSize": 78982998770,
   "IsNSFW": false,
   "Archives": [
     {
@@ -27,22 +27,23 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "nM5pw1sWMH8=",
+      "Hash": "goXwR+d4M5M=",
       "Meta": null,
-      "Name": "enbseries_fallout4_v0461.zip",
-      "Size": 2905746,
+      "Name": "enbseries_fallout4_v0468.zip",
+      "Size": 2911577,
       "State": {
-        "$type": "WabbajackCDNDownloader+State, Wabbajack.Lib",
-        "Url": "https://authored-files.wabbajack.org/enbseries_fallout4_v0461.zip_3bcdac63-d745-4f3a-be11-9e3bf89294e3",
-        "PrimaryKeyString": "WabbajackCDNDownloader+State|https://authored-files.wabbajack.org/enbseries_fallout4_v0461.zip_3bcdac63-d745-4f3a-be11-9e3bf89294e3"
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "http://enbdev.com/enbseries_fallout4_v0468.zip",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|http://enbdev.com/enbseries_fallout4_v0468.zip"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "DOAlOZWbsY8=",
+      "Hash": "tNNVGil5+58=",
       "Meta": null,
-      "Name": "FallOpt ENB-55662-2-2-1639683178.rar",
-      "Size": 357171,
+      "Name": "FallOpt ENB-55662-2-3-1641079132.rar",
+      "Size": 357173,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "FallOpt - Lightweight ENB for Vanilla weather",
@@ -120,7 +121,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "4estGimp - M8r98a4f2's Complex Item Sorter Enhancements",
         "Author": "4estGimp",
-        "Version": "1.6.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51307/51307-1618032771-317695554.jpeg",
         "IsNSFW": false,
         "Description": "*Intended for a No-AWKCR build*\n\nThis mod is a collection of Quality of Life additions for M8r98a4f2's Complex Item Sorter.  It expands Icons, Item Sorting, and Rule-sets.  The Mod Manager download includes the 3 main Complex Sorter .ini files and 3 Inventory Sorting .xml files.  It works great alone or along with my other FallUI mods.",
@@ -200,7 +201,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Better Vertibird - A Vertibird Overhaul",
         "Author": "Rylasasin",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41919/41919-1572834441-1257412927.png",
         "IsNSFW": false,
         "Description": "Based off of Better Power Armor - A Power Armor Overhaul, but for Vertibirds. Vertibirds won't go down so easily anymore.",
@@ -260,7 +261,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Capital Wasteland Workshop Pack",
         "Author": "HcGxGrill - TheFriedTurkey",
-        "Version": "1.1.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43068/43068-1579286639-588687567.jpeg",
         "IsNSFW": false,
         "Description": "This is a full new workshop pack containing tons of new furniture, workshop items and two brand new building kits.\n\nThe pack contains around 200 new placeable items!",
@@ -280,7 +281,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Capital Wasteland Workshop Pack II",
         "Author": "TheFriedturkey - HcGxGrill",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50626/50626-1615214546-1319347703.jpeg",
         "IsNSFW": false,
         "Description": "Part 2 of the Capital Wasteland workshop pack, includes 100+ brand new custom placeable objects, the theme is really just a mixed bag of stuff from Fallout 3 and a few things from New Vegas.",
@@ -372,10 +373,10 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "Q3CPdH7G/PE=",
+      "Hash": "W8iBIgW8HN0=",
       "Meta": null,
-      "Name": "Configurable Hotkeys-46419-5-1595679936.7z",
-      "Size": 3010,
+      "Name": "Configurable Hotkeys-46419-6-1650906542.7z",
+      "Size": 3705,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Configurable Hotkeys",
@@ -386,8 +387,8 @@
         "Description": "Configure several hotkeys via MCM that allow you to create standard saves, use items, wait anywhere, execute console commands or custom functions.",
         "GameName": "Fallout4",
         "ModID": 46419,
-        "FileID": 187638,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46419|187638"
+        "FileID": 235916,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46419|235916"
       }
     },
     {
@@ -492,122 +493,122 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "QKL0WBBpkxc=",
+      "Hash": "kmBkPwuRmDM=",
       "Meta": null,
-      "Name": "DLCCoast - Textures-52423-1-0-1622744002.zip",
-      "Size": 3546256768,
+      "Name": "DLCCoast - Textures-52423-1-03-1650747325.zip",
+      "Size": 3821691537,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 209434,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|209434"
+        "FileID": 235759,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235759"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "Uhm4tTNC8cA=",
+      "Hash": "lGy9Okk06ds=",
       "Meta": null,
-      "Name": "DLCNukaWorld - Textures-52423-1-0-1622748509.zip",
-      "Size": 4807347342,
+      "Name": "DLCNukaWorld - Textures-52423-1-03-1650754957.zip",
+      "Size": 6069236588,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 209438,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|209438"
+        "FileID": 235769,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235769"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "uzhMhAezdzk=",
+      "Hash": "5IhoxAggeAM=",
       "Meta": null,
-      "Name": "DLCRobot - Textures-52423-1-0-1622749175.zip",
-      "Size": 686240870,
+      "Name": "DLCRobot - Textures-52423-1-03-1650756648.zip",
+      "Size": 815060034,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 209439,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|209439"
+        "FileID": 235772,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235772"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "vK/RfhwoqyY=",
+      "Hash": "Ea1sh1Yid6c=",
       "Meta": null,
-      "Name": "DLCworkshop01 - Textures-52423-1-0-1622749273.zip",
-      "Size": 81940486,
+      "Name": "DLCworkshop01 - Textures-52423-1-03-1650756866.zip",
+      "Size": 87653575,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 209440,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|209440"
+        "FileID": 235775,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235775"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "UGu6UlYblPI=",
+      "Hash": "80jka+W6JwQ=",
       "Meta": null,
-      "Name": "DLCworkshop02 - Textures-52423-1-0-1622749951.zip",
-      "Size": 433995037,
+      "Name": "DLCworkshop02 - Textures-52423-1-03-1650758796.zip",
+      "Size": 485695557,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 209441,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|209441"
+        "FileID": 235777,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235777"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "TVQvzJVf76o=",
+      "Hash": "z3cB9HChqdM=",
       "Meta": null,
-      "Name": "DLCworkshop03 - Textures-52423-1-0-1622751045.zip",
-      "Size": 513208632,
+      "Name": "DLCworkshop03 - Textures-52423-1-03-1650759600.zip",
+      "Size": 513277179,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 209442,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|209442"
+        "FileID": 235778,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235778"
       }
     },
     {
@@ -644,122 +645,122 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "ewHttleRwns=",
+      "Hash": "hprabMcsNpE=",
       "Meta": null,
-      "Name": "Fallout4 - Textures1-52423-1-02-1629450459.zip",
-      "Size": 8659534128,
+      "Name": "Fallout4 - Textures1-52423-1-03-1650769603.zip",
+      "Size": 9894760512,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "f1.02",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 215097,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|215097"
+        "FileID": 235787,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235787"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "L1xxBHKJAgU=",
+      "Hash": "QTlfo9O5HH4=",
       "Meta": null,
-      "Name": "Fallout4 - Textures2-52423-1-01-1624285224.zip",
-      "Size": 9435477568,
+      "Name": "Fallout4 - Textures2-52423-1-03-1650786049.zip",
+      "Size": 11926638330,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "f1.01",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 210818,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|210818"
+        "FileID": 235797,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235797"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "EXMxXVwTVtw=",
+      "Hash": "sdJrkOnYvIM=",
       "Meta": null,
-      "Name": "Fallout4 - Textures3-52423-1-02-1625612251.zip",
-      "Size": 7033468327,
+      "Name": "Fallout4 - Textures3-52423-1-03-1650793662.zip",
+      "Size": 9244588030,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "f1.02",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 212005,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|212005"
+        "FileID": 235807,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235807"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "tTYgJ9n/Glc=",
+      "Hash": "NrozRJv4F9Q=",
       "Meta": null,
-      "Name": "Fallout4 - Textures4-52423-1-0-1622799025.zip",
-      "Size": 6133153678,
+      "Name": "Fallout4 - Textures4-52423-1-03-1650810371.zip",
+      "Size": 8305872242,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 209477,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|209477"
+        "FileID": 235834,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235834"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "eCgW1k6dVkw=",
+      "Hash": "pXING3XkFNw=",
       "Meta": null,
-      "Name": "Fallout4 - Textures5-52423-1-0-1622803756.zip",
-      "Size": 4912834601,
+      "Name": "Fallout4 - Textures5-52423-1-03-1650829348.zip",
+      "Size": 5416551589,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 209480,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|209480"
+        "FileID": 235855,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235855"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "q4BXgiCyTSA=",
+      "Hash": "1h2hx7ZhWBo=",
       "Meta": null,
-      "Name": "Fallout4 - Textures6-52423-1-0-1622806624.zip",
-      "Size": 3044213485,
+      "Name": "Fallout4 - Textures6-52423-1-03-1650837447.zip",
+      "Size": 3663222805,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 209487,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|209487"
+        "FileID": 235868,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235868"
       }
     },
     {
@@ -772,7 +773,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
@@ -792,7 +793,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
@@ -804,22 +805,22 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "kjaeN92iBV4=",
+      "Hash": "Ebc9dFR8zyM=",
       "Meta": null,
-      "Name": "Fallout4 - Textures9-52423-1-0-1622810128.zip",
-      "Size": 995999147,
+      "Name": "Fallout4 - Textures9-52423-1-03-1650844107.zip",
+      "Size": 2814256399,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
         "GameName": "Fallout4",
         "ModID": 52423,
-        "FileID": 209490,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|209490"
+        "FileID": 235881,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|52423|235881"
       }
     },
     {
@@ -972,7 +973,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Flicker Fixer",
         "Author": "Glass",
-        "Version": "5.7.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35720/35720-1542118478-502390894.png",
         "IsNSFW": false,
         "Description": "Fixes most of the exterior flickering aka z fighting in the game, particularly in the Boston and Cambridge areas. (Modders Resource)",
@@ -1105,7 +1106,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Junk to Components",
         "Author": "Whisper",
-        "Version": "2.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47267/47267-1599393398-1631513331.png",
         "IsNSFW": false,
         "Description": "Go up to any workbench and scrap most junk in your inventory down to its base components.",
@@ -1125,7 +1126,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Keep Radiants in Commonwealth Patches",
         "Author": "Destynova99",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46146/46146-1594196142-1430736834.png",
         "IsNSFW": false,
         "Description": "Patches for Keep Radiants in the Commonwealth by AlpineYJ for UF4P and various other mods",
@@ -1145,7 +1146,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Keep Radiants in the Commonwealth",
         "Author": "AlpineYJ",
-        "Version": "1.2.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/25934-0-1501970658.jpg",
         "IsNSFW": false,
         "Description": "This mod intends to keep all radiant quests assigned within the commonwealth - in the commonwealth. This means that Scribe Haylen won't be sending you to Far Harbor to retrieve the elusive BoogerTron device, and Mr. Tims won't be sending you to Nuka World to clear out raiders.  The real goal? You don't have to start any DLCs before you ",
@@ -1157,10 +1158,10 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "liNcIcv8bO4=",
+      "Hash": "TqFwFE1j1+g=",
       "Meta": null,
-      "Name": "Institute and standard lasers-23102-1-5-1638284574.7z",
-      "Size": 1539753,
+      "Name": "Institute and standard lasers-23102-1-5-2-1649963564.7z",
+      "Size": 6090907,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Laser weapons 1st person reposition",
@@ -1171,8 +1172,8 @@
         "Description": "Makes the institute and standard laser weapons smaller in the 1st person.",
         "GameName": "Fallout4",
         "ModID": 23102,
-        "FileID": 222642,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|23102|222642"
+        "FileID": 234845,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|23102|234845"
       }
     },
     {
@@ -1205,7 +1206,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Magazine Rack Extended",
         "Author": "LUDWIG",
-        "Version": "1.1.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52840/52840-1642638768-1784306184.png",
         "IsNSFW": false,
         "Description": "Store and display more magazines on new snappable magazine shelves. \n\n+New wooden options.  +Bobblehead shelves that snap to the top.",
@@ -1225,7 +1226,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "MCM Booster",
         "Author": "m8r98a4f2",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56997/56997-1641059008-1632666704.png",
         "IsNSFW": false,
         "Description": "Reduces MCM loading time to nearly instant loading",
@@ -1245,7 +1246,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "MCM Settings Manager",
         "Author": "m8r98a4f2",
-        "Version": "1.0.3.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56195/56195-1638374233-408174017.png",
         "IsNSFW": false,
         "Description": "Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user!",
@@ -1265,7 +1266,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Militarized Minutemen",
         "Author": "Corvalho",
-        "Version": "1.1.2.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29853/29853-1518703862-1129512347.jpeg",
         "IsNSFW": false,
         "Description": "Adds over 15 modular military themed items for the minutemen, overhauling the factions with different classes and combat styles.",
@@ -1285,7 +1286,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Militarized Minutemen - Uniforms Patches and Insignia Addon",
         "Author": "Zachtan1234",
-        "Version": "2.3.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32369/32369-1629014569-1950023612.png",
         "IsNSFW": false,
         "Description": "Brings a substantial, yet grounded expansion to Militarized Minutemen by Corvalho1, adding new features such as new camouflage patterns, insignia badges, ranks, tactical accessories, headgear and outfits. Also adds many QOL improvements such as making the outfits  craftable, removing leather/combat armour from NPC Minutemen and various bug fixes.",
@@ -1325,7 +1326,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "NeuraLOD - Higher detail LOD",
         "Author": "payl0ad",
-        "Version": "1.1.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38872/38872-1557667062-358911241.png",
         "IsNSFW": false,
         "Description": "New higher detail LOD Object Textures upscaled by Neural Networks",
@@ -1437,6 +1438,46 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "z9DFyoUbhbA=",
+      "Meta": null,
+      "Name": "Cola Cars Overboss Fix-46403-1-1-1635175588.7z",
+      "Size": 15536,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Previsibines Repair Pack",
+        "Author": "BenRierimanu",
+        "Version": "0.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
+        "IsNSFW": false,
+        "Description": "Previsibines performance upgrade package for Fallout 4, covering the entire game. Depending on location, could give from 2 FPS to 30+ FPS increase, also includes any relevant bug fixes I can find and fix not already covered by UF4OP. Requires Season Pass / All main DLC.",
+        "GameName": "Fallout4",
+        "ModID": 46403,
+        "FileID": 219912,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46403|219912"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "0e2tyXe33g8=",
+      "Meta": null,
+      "Name": "Cola Cars Overboss Fix-59323-1-2-1650126011.7z",
+      "Size": 15471,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Overboss Colter Fix",
+        "Author": "BenRierimanu",
+        "Version": "0.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59323/59323-1648928927-1184794795.jpeg",
+        "IsNSFW": false,
+        "Description": "Fixes UF4OP Bug 28142, known as the regenerating shield bug in the Nuka World Overboss Fight.",
+        "GameName": "Fallout4",
+        "ModID": 59323,
+        "FileID": 235068,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|59323|235068"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "iVVU9bQtrhU=",
       "Meta": null,
       "Name": "PCDug Pretty Triangles and Pretty Circles v2-23821-1-1.rar",
@@ -1525,7 +1566,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Preston Garvey No Radiant Settlement Quests",
         "Author": "Wild1234",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24940-1-1497683124.jpg",
         "IsNSFW": false,
         "Description": "Prevents Preston from giving you standard radiant quests after capturing the castle.",
@@ -1537,10 +1578,50 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "merhSL35gXU=",
+      "Hash": "QKBPyrBsOcY=",
       "Meta": null,
-      "Name": "PRP-46403-0-53-12012021-1638390747.7z",
-      "Size": 1551467935,
+      "Name": "PRP SS2 Upgrade-57947-0-59-2-1651267525.7z",
+      "Size": 53396373,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Previsibines Repair Pack (PRP) - Sim Settlements 2 Upgrade Kit - English",
+        "Author": "BenRierimanu",
+        "Version": "0.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57947/57947-1644310619-48365618.jpeg",
+        "IsNSFW": false,
+        "Description": "Interior Previsibines improvement pack for Sim Settlements 2, may or may not improve framerate and loading times in the larger cells of Chapter 2 depending on hardware.",
+        "GameName": "Fallout4",
+        "ModID": 57947,
+        "FileID": 236263,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|57947|236263"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "g7nUejQ4uPg=",
+      "Meta": null,
+      "Name": "PRP SS2 Upgrade Fixes-57947-0-59-2-1651267453.7z",
+      "Size": 13336,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Previsibines Repair Pack (PRP) - Sim Settlements 2 Upgrade Kit - English",
+        "Author": "BenRierimanu",
+        "Version": "0.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57947/57947-1644310619-48365618.jpeg",
+        "IsNSFW": false,
+        "Description": "Interior Previsibines improvement pack for Sim Settlements 2, may or may not improve framerate and loading times in the larger cells of Chapter 2 depending on hardware.",
+        "GameName": "Fallout4",
+        "ModID": 57947,
+        "FileID": 236262,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|57947|236262"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "9ViSVZvNFBA=",
+      "Meta": null,
+      "Name": "PRP Full Stable-46403-0-59-5-1651043258.7z",
+      "Size": 1605247585,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Previsibines Repair Pack",
@@ -1551,68 +1632,8 @@
         "Description": "Previsibines performance upgrade package for Fallout 4, covering the entire game. Depending on location, could give from 2 FPS to 30+ FPS increase, also includes any relevant bug fixes I can find and fix not already covered by UF4OP. Requires Season Pass / All main DLC.",
         "GameName": "Fallout4",
         "ModID": 46403,
-        "FileID": 222782,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46403|222782"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "9ejWN0K7lfQ=",
-      "Meta": null,
-      "Name": "PRP Compat Grabbag-46403-0-53-11192021-1637346534.7z",
-      "Size": 8770674,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Previsibines Repair Pack",
-        "Author": "BenRierimanu",
-        "Version": "0.0.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
-        "IsNSFW": false,
-        "Description": "Previsibines performance upgrade package for Fallout 4, covering the entire game. Depending on location, could give from 2 FPS to 30+ FPS increase, also includes any relevant bug fixes I can find and fix not already covered by UF4OP. Requires Season Pass / All main DLC.",
-        "GameName": "Fallout4",
-        "ModID": 46403,
-        "FileID": 221775,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46403|221775"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "z9DFyoUbhbA=",
-      "Meta": null,
-      "Name": "Cola Cars Overboss Fix-46403-1-1-1635175588.7z",
-      "Size": 15536,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Previsibines Repair Pack",
-        "Author": "BenRierimanu",
-        "Version": "0.0.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
-        "IsNSFW": false,
-        "Description": "Previsibines performance upgrade package for Fallout 4, covering the entire game. Depending on location, could give from 2 FPS to 30+ FPS increase, also includes any relevant bug fixes I can find and fix not already covered by UF4OP. Requires Season Pass / All main DLC.",
-        "GameName": "Fallout4",
-        "ModID": 46403,
-        "FileID": 219912,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46403|219912"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "Ni6K0MC3y0U=",
-      "Meta": null,
-      "Name": "PRP Compat for Sim Settlements 2-46403-0-53-2-1641604857.7z",
-      "Size": 73992968,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Previsibines Repair Pack",
-        "Author": "BenRierimanu",
-        "Version": "0.53.2.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
-        "IsNSFW": false,
-        "Description": "Previsibines performance upgrade package for Fallout 4, covering the entire game. Depending on location, could give from 2 FPS to 30+ FPS increase, also includes any relevant bug fixes I can find and fix not already covered by UF4OP. Requires Season Pass / All main DLC.",
-        "GameName": "Fallout4",
-        "ModID": 46403,
-        "FileID": 225849,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46403|225849"
+        "FileID": 236042,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46403|236042"
       }
     },
     {
@@ -1637,10 +1658,10 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "yMlvYRHpLwc=",
+      "Hash": "oWQuxvgwXBc=",
       "Meta": null,
-      "Name": "Raze My Settlement-39948-3-8-1637481572.7z",
-      "Size": 56097,
+      "Name": "Raze My Settlement-39948-4-0-1646992397.7z",
+      "Size": 48653,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Raze My Settlement",
@@ -1651,8 +1672,8 @@
         "Description": "Are you sick of scrapping your settlements to the ground so you can build on them? Me too.\n\n\n\nOne click of a button in a holotape - gone in sixty seconds! (Depending upon the power of your gaming rig.)",
         "GameName": "Fallout4",
         "ModID": 39948,
-        "FileID": 221888,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|39948|221888"
+        "FileID": 231764,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|39948|231764"
       }
     },
     {
@@ -1665,7 +1686,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Recruitable Settlers",
         "Author": "Socharis",
-        "Version": "3.0.3.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16304-0-1479349791.jpg",
         "IsNSFW": false,
         "Description": "Currently adds 50 recruitable named NPCs to the Commonwealth, Nuka-World, and Far Harbor that can be added to settlements simply by walking up and talking to them. Includes 16 settlers with passive settlement bonuses and 14 level 4 merchants.  If you wanted more named settlers like Sheffield or level 4 merchants without all the hassle, then this is",
@@ -1685,7 +1706,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Recruitable Settlers",
         "Author": "Socharis",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16304-0-1479349791.jpg",
         "IsNSFW": false,
         "Description": "Currently adds 50 recruitable named NPCs to the Commonwealth, Nuka-World, and Far Harbor that can be added to settlements simply by walking up and talking to them. Includes 16 settlers with passive settlement bonuses and 14 level 4 merchants.  If you wanted more named settlers like Sheffield or level 4 merchants without all the hassle, then this is",
@@ -1765,7 +1786,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Sandbag Fortifications",
         "Author": "Nutulator and Ethreon",
-        "Version": "4.1.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21358-0-1487838754.jpeg",
         "IsNSFW": false,
         "Description": "We're like the Terminator--we just keep coming back; now with version 4.0. Time to bunker up. Constructible military themed structures. Trenches, bunkers, Dragon's Teeth, Sandbag posts, barbed wire fences and barricades, camouflage nets, barriers and more.",
@@ -1837,62 +1858,62 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "UGeV250ZK7Y=",
+      "Hash": "yBA0UirhurI=",
       "Meta": null,
-      "Name": "Sim Settlements 2-47976-2-0-0m-1643775166.7z",
-      "Size": 981229196,
+      "Name": "Sim Settlements 2-47976-2-1-2-1651246551.7z",
+      "Size": 2044470349,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Sim Settlements 2",
         "Author": "Sim Settlements Team",
-        "Version": "2.0.0.0m",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47976/47976-1603507384-1823802441.png",
         "IsNSFW": false,
         "Description": "Sequel to the Fallout 4 city-building simulator.",
         "GameName": "Fallout4",
         "ModID": 47976,
-        "FileID": 228426,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47976|228426"
+        "FileID": 236238,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47976|236238"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "GYh2reE7PcE=",
+      "Hash": "gSbenxxCig0=",
       "Meta": null,
-      "Name": "SS2 Chapter 2-55817-2-0-0m-1643775171.7z",
-      "Size": 694625191,
+      "Name": "SS2 Chapter 2-55817-2-1-2-1651246553.7z",
+      "Size": 702847299,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Sim Settlements 2 - Chapter 2",
         "Author": "Sim Settlements Team",
-        "Version": "2.0.0.0m",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55817/55817-1639165863-1339094350.jpeg",
         "IsNSFW": false,
         "Description": "Fight off settler disease, repopulate the world outside of your settlements, battle the Gunners, and establish your own faction headquarters to rule the Commonwealth!\n\n\n\nChapter 2 continues the story of SS2, adds in 3 new side questlines, and adds tons of new features to enjoy outside of the story content.",
         "GameName": "Fallout4",
         "ModID": 55817,
-        "FileID": 228427,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|55817|228427"
+        "FileID": 236239,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|55817|236239"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "WMf2NenkKV0=",
+      "Hash": "nDHEbk4OVsM=",
       "Meta": null,
-      "Name": "PraRandomAddon2-48042-9-0-0-1640921477.7z",
-      "Size": 42315227,
+      "Name": "PraRandomAddon2-48042-12-0-0-1650836020.7z",
+      "Size": 43236797,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Sim Settlements 2 - Pra's Random Addon 2",
         "Author": "pra",
-        "Version": "9.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48042/48042-1604604626-1330145218.jpeg",
         "IsNSFW": false,
         "Description": "The SimSettlements 2 version of my addon",
         "GameName": "Fallout4",
         "ModID": 48042,
-        "FileID": 225173,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|48042|225173"
+        "FileID": 235862,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|48042|235862"
       }
     },
     {
@@ -1905,7 +1926,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Sim Settlements 2 - Recruitable Settlers Leaders Pack 2",
         "Author": "LawBringer55",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49622/49622-1612321908-1428705528.png",
         "IsNSFW": false,
         "Description": "Converts nearly all of the settlers added by the excellent Recruitable Settlers to be used as city leaders with Sim Settlements 2",
@@ -1925,7 +1946,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Sim Settlements 2 - Ruined Homes and Gardens 2.0",
         "Author": "Ruinedworld",
-        "Version": "1.0.3.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48067/48067-1603513617-1815155146.png",
         "IsNSFW": false,
         "Description": "Adds 30+ plots including six raised bed gardens, six shack homes, basic power windmill, basic water outhouse and three specialized scrap scavvers.. More to come!",
@@ -1945,7 +1966,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Sim Settlements 2 - Tiny Living",
         "Author": "Freddrick",
-        "Version": "3.1.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49424/49424-1610577948-242045510.png",
         "IsNSFW": false,
         "Description": "SS2 Addon: Now 24 new 1x1 Plots for Sim Settlements 2! Includes 8 municipal, 6 agricultural, 4 industrial, 4 commercial &amp; 2 recreational plots suitable for interior &amp; exterior usage &amp; 7 new residential plots. All lore friendly!",
@@ -1985,7 +2006,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Sim Settlements 2 Scrappers",
         "Author": "Ohnno",
-        "Version": "5.1.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48846/48846-1607456414-732544217.png",
         "IsNSFW": false,
         "Description": "Sim Settlements 2 Addon by Ohnno.\n\nadd's 41 plots to the SS2 plot library.\n\n24 internal plots\n\n17 2x2 exsternal plots. \n\nstyle much of everything, ( from Institute type farms to scrappy power supplies )",
@@ -2045,7 +2066,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "SS2 Addon Pack - Walled Gardens and More",
         "Author": "Whisper",
-        "Version": "1.3.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47906/47906-1603880025-1649545517.jpeg",
         "IsNSFW": false,
         "Description": "Adds a large number of new agricultural plots to your Sim Settlements 2 game. More are planned.",
@@ -2057,22 +2078,22 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "E0EETy8eA50=",
+      "Hash": "MwhzkrcSa+s=",
       "Meta": null,
-      "Name": "SS2 Extended-47976-2-0-0-1639166050.7z",
-      "Size": 1040091158,
+      "Name": "SS2 - Nobody's Leaders 2 (flagged esl)-57783-1-0-1b-1646352543.zip",
+      "Size": 1414023,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Sim Settlements 2",
-        "Author": "Sim Settlements Team",
+        "Name": "SS2 - Nobody's Leaders 2",
+        "Author": "NOBODY",
         "Version": "0.0.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47976/47976-1603507384-1823802441.png",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57783/57783-1643770890-1077785768.jpeg",
         "IsNSFW": false,
-        "Description": "Sequel to the Fallout 4 city-building simulator.",
+        "Description": "Sim Settlements 2 Leader Pack, featuring 60+ vanilla &amp; SS2 NPCs available to be city leaders",
         "GameName": "Fallout4",
-        "ModID": 47976,
-        "FileID": 223537,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47976|223537"
+        "ModID": 57783,
+        "FileID": 231206,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|57783|231206"
       }
     },
     {
@@ -2085,7 +2106,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "SS2 - Nobody's Leaders 2",
         "Author": "NOBODY",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57783/57783-1643770890-1077785768.jpeg",
         "IsNSFW": false,
         "Description": "Sim Settlements 2 Leader Pack, featuring 60+ vanilla &amp; SS2 NPCs available to be city leaders",
@@ -2093,26 +2114,6 @@
         "ModID": 57783,
         "FileID": 228420,
         "PrimaryKeyString": "NexusDownloader+State|Fallout4|57783|228420"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "mXzDd40M7qU=",
-      "Meta": null,
-      "Name": "SS2 Superstructures - A Sim Settlements 2 Addon Pack 2.0-47848-2-0-1639168776.7z",
-      "Size": 945877254,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "SS2 Superstructures - A Sim Settlements 2 Addon Pack",
-        "Author": "VFX",
-        "Version": "2.0.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47848/47848-1603687694-1957293316.png",
-        "IsNSFW": false,
-        "Description": "SS2 Addon: Additional New Plots for Sim Settlements 2 with more to come later. Including the new Municipal type &amp; various 1x1 &amp; 3x3 sized plots + foundations. A variety of themes &amp; some with simple designs, others with complex designs. Now also includes conversions of AltairP Animal Farm, Another Brick in the Wall &amp; VaultLand for SS",
-        "GameName": "Fallout4",
-        "ModID": 47848,
-        "FileID": 223539,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47848|223539"
       }
     },
     {
@@ -2145,7 +2146,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "There It Is - Satellite Maps For Collectors",
         "Author": "SaiSei",
-        "Version": "2.1.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50927/50927-1616369496-1106981506.png",
         "IsNSFW": false,
         "Description": "Satellite world maps for the collectors out there.",
@@ -2225,7 +2226,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Vault-Tec Tools - Sim Settlements 2 Addon Pack",
         "Author": "Samutz and Wulfharth",
-        "Version": "1.0.4.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48700/48700-1606748808-18536833.png",
         "IsNSFW": false,
         "Description": "A Sim Settlements 2 Addon Pack containing 22 vault-themed interior plot plans, 2 city planner desks, 4 flags, and several vault-specific features.",
@@ -2233,6 +2234,26 @@
         "ModID": 48700,
         "FileID": 228230,
         "PrimaryKeyString": "NexusDownloader+State|Fallout4|48700|228230"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "oa7AeqUGox8=",
+      "Meta": null,
+      "Name": "Vault-Tec Tools-48700-1-0-5a-1650723760.zip",
+      "Size": 46069869,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Vault-Tec Tools - Sim Settlements 2 Addon Pack",
+        "Author": "Samutz and Wulfharth",
+        "Version": "0.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48700/48700-1606748808-18536833.png",
+        "IsNSFW": false,
+        "Description": "A Sim Settlements 2 Addon Pack containing 22 vault-themed interior plot plans, 2 city planner desks, 4 flags, and several vault-specific features.",
+        "GameName": "Fallout4",
+        "ModID": 48700,
+        "FileID": 235731,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|48700|235731"
       }
     },
     {
@@ -2285,7 +2306,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Wallmageddon",
         "Author": "Rudy",
-        "Version": "2.2.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43303/43303-1580665408-515417497.png",
         "IsNSFW": false,
         "Description": "A little mod that adds some large Junk Walls and many other wall-items to your Workshop menu.",
@@ -2305,7 +2326,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Wasteland Venturers Sim Settlements 2 Addon Pack",
         "Author": "Tinuvia and Myrmarachne",
-        "Version": "1.4.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48060/48060-1603472747-816704745.jpeg",
         "IsNSFW": false,
         "Description": "Adds 150 building plans to Sim Settlements 2. Scrappy, lived-in, detailed homes, farms, shops, scrap yards, toilets and bookstores. Kick off your muddy boots, take a swig of rum from a dirty cup. Bloat yourself on Pizza and Raider Burgers. Top it off with Wasteland Ice Cream, Coffee and Cinnamon Buns. Welcome back, welcome home!",
@@ -2345,7 +2366,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "We Are The Minutemen",
         "Author": "TheFirstEnD",
-        "Version": "7.6.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/6443-0-1455082038.jpg",
         "IsNSFW": false,
         "Description": "The Minutemen are supposed to be the best alternative for rebuilding the Commonwealth because : More settlements = More resources = Better materials = Better fire power and a larger presence in all the Commonwealth. But currently this is not the case and this mod attempts to fix this problem.",
@@ -2365,7 +2386,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "We Are The Minutemen - Militarized Minutemen - Uniform Patches and Insignia Addon - Compatibility Patch",
         "Author": "creodron",
-        "Version": "2.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44596/44596-1590551122-192767803.jpeg",
         "IsNSFW": false,
         "Description": "A custom compatibility patch between We Are The Minutemen, Militarized Minutemen, and Militarized Minutemen Uniform Patches and Insignia Addon.",
@@ -2437,6 +2458,26 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "NZFRph648xk=",
+      "Meta": null,
+      "Name": "Wetness Shader Fix-23389-3-5-1649076678.zip",
+      "Size": 148844432,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Wetness Shader Fix",
+        "Author": "Ablaze666",
+        "Version": "0.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23389-0-1492422847.jpg",
+        "IsNSFW": false,
+        "Description": "This small mod fixes the exaggerated shine of specific objects while it's raining.",
+        "GameName": "Fallout4",
+        "ModID": 23389,
+        "FileID": 233872,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|23389|233872"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "nOdQ2RKycRQ=",
       "Meta": null,
       "Name": "Wetness Shader Fix-23389-3-41-1619684941.7z",
@@ -2477,6 +2518,26 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "bKwgAfMaYmg=",
+      "Meta": null,
+      "Name": "Whisper's Institute Build Pieces-55563-5-1647920153.7z",
+      "Size": 4178275,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Whisper's Institute Build Kit",
+        "Author": "Whisper",
+        "Version": "0.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55563/55563-1636270173-346457118.jpeg",
+        "IsNSFW": false,
+        "Description": "For those who think the Institute is missing out on sampling and experimenting on the surface. Here are several snapping Institute build pieces, workbenches, furniture, generators, connectors, decor - the whole shebang of what I could figure a group of Institute researchers would want.",
+        "GameName": "Fallout4",
+        "ModID": 55563,
+        "FileID": 232632,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|55563|232632"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "cFPyNHgFw3o=",
       "Meta": null,
       "Name": "Whisper's Institute Build Pieces-55563-2-1637467462.7z",
@@ -2485,7 +2546,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Whisper's Institute Build Kit",
         "Author": "Whisper",
-        "Version": "2.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55563/55563-1636270173-346457118.jpeg",
         "IsNSFW": false,
         "Description": "For those who think the Institute is missing out on sampling and experimenting on the surface. Here are several snapping Institute build pieces, workbenches, furniture, generators, connectors, decor - the whole shebang of what I could figure a group of Institute researchers would want.",
@@ -2505,7 +2566,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Wireless Workshop Items",
         "Author": "Whisper",
-        "Version": "2.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36589/36589-1545716044-376575068.jpeg",
         "IsNSFW": false,
         "Description": "Hate wires? Here are a few of the basic and DLC workshop items converted to use wireless power.",
@@ -2517,42 +2578,42 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "wp3ZzIgK/kw=",
+      "Hash": "/HN2SQIhbHM=",
       "Meta": null,
-      "Name": "Workshop Framework-35004-2-0-18-1640064318.7z",
-      "Size": 903303,
+      "Name": "Workshop Framework-35004-2-2-0-1651243975.7z",
+      "Size": 1080043,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Workshop Framework",
         "Author": "kinggath",
-        "Version": "2.0.18.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35004/35004-1538179488-326730582.png",
         "IsNSFW": false,
         "Description": "Framework to open up the settlement system to editing by the community.\n\n\n\nFor Players: New controls and faster, more stable workshop scripts.\n\n\n\nFor Modders: Add new resource types, override settings, and generally change the way settlements work dynamically.",
         "GameName": "Fallout4",
         "ModID": 35004,
-        "FileID": 224422,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35004|224422"
+        "FileID": 236234,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35004|236234"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "wj84oSRNt7o=",
+      "Hash": "IknIs1sG9u8=",
       "Meta": null,
-      "Name": "Workshop Plus-35005-1-1-10b-1622216535.7z",
-      "Size": 317081,
+      "Name": "Workshop Plus-35005-1-0-11-1644630712.7z",
+      "Size": 314860,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Workshop Plus",
         "Author": "kinggath",
-        "Version": "1.1.10.0b",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35005/35005-1538179519-1847896109.png",
         "IsNSFW": false,
         "Description": "Transforms Workshop mode into a God simulator - giving you all of the tools you need to create amazing settlements. \n\n\n\nFlight, Undo Buttons, Layers, Cloning Tools, Free Build Mode, and more!",
         "GameName": "Fallout4",
         "ModID": 35005,
-        "FileID": 208927,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35005|208927"
+        "FileID": 229284,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35005|229284"
       }
     },
     {
@@ -2665,7 +2726,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "DEF_UI Iconlibs Rescaled and Fixed",
         "Author": "Phlunder",
-        "Version": "1.6.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31088/31088-1540041078-2134724658.jpeg",
         "IsNSFW": false,
         "Description": "Aims to bring consistency in design and coloring to the icon library. Also fixes various issues with icon sizes, bounding boxes, and scaling.",
@@ -2907,42 +2968,42 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "XUwq0/QNE94=",
+      "Hash": "t0UfJHm+088=",
       "Meta": null,
-      "Name": "4estGimp - W.A.T.M_ComplexSorter_ini-51757-1-2-1638535337.7z",
-      "Size": 597,
+      "Name": "4estGimp - W.A.T.M_ComplexSorter_ini-51757-1-3-1648059113.7z",
+      "Size": 601,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "4estGimp - Far West Minutemen - No AWKCR _No CROSS Cybernetics",
         "Author": "4estGimp - BlasterMasterCaster",
-        "Version": "1.2.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51757/51757-1619735693-1909126650.jpeg",
         "IsNSFW": false,
         "Description": "This is a complete download of the Far West Minutemen mod.  BlasterMasterCaster Fixed some .nif files and crash issues.  I removed AWKCR and CROSS Cybernetics.",
         "GameName": "Fallout4",
         "ModID": 51757,
-        "FileID": 222928,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|51757|222928"
+        "FileID": 232766,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|51757|232766"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "+FnNqy2kHxg=",
+      "Hash": "xAWu5HnPLh4=",
       "Meta": null,
-      "Name": "4estGimp_MilitarisedMinutemen_PatchesAddons_CS-54041--9-1629882834.7z",
-      "Size": 664,
+      "Name": "4estGimp_MilitarisedMinutemen_PatchesAddons_CS-54041--91-1648158454.7z",
+      "Size": 668,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "4estGimp_MilitarisedMinutemen_PatchesAddons_CS1.9",
         "Author": "4estGimp",
-        "Version": ".9",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/54041/54041-1629881937-1341462614.jpeg",
         "IsNSFW": false,
         "Description": "This mod is an .ini file to tag Militarized Minutemen - Uniforms Patches and Insignia Addon using M8r98a4f2's Complex Item Sorter rules and my CIS Enhancements files.",
         "GameName": "Fallout4",
         "ModID": 54041,
-        "FileID": 215464,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|54041|215464"
+        "FileID": 232890,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|54041|232890"
       }
     },
     {
@@ -3115,7 +3176,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
@@ -3215,7 +3276,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Visible Galaxy 4k and Framework",
         "Author": "Texture by Apinanaivot - Framework by Spacegoats",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19127-1-1476046523.jpg",
         "IsNSFW": false,
         "Description": "Allows you to see the Milky Way Galaxy in all of its glory.",
@@ -3295,7 +3356,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Fallout 4 HD Overhaul",
         "Author": "luxor8071",
-        "Version": "1.0.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52423/52423-1622880088-1015016982.png",
         "IsNSFW": false,
         "Description": "Fallout 4 HD Overhaul is providing new and improved HD Textures, ranging from 1K Resolution up to 4K. It replaces thousands of Textures all over the World of Fallout 4 and its DLCs.",
@@ -3407,6 +3468,26 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "UGeV250ZK7Y=",
+      "Meta": null,
+      "Name": "Sim Settlements 2-47976-2-0-0m-1643775166.7z",
+      "Size": 981229196,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sim Settlements 2",
+        "Author": "Sim Settlements Team",
+        "Version": "0.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47976/47976-1603507384-1823802441.png",
+        "IsNSFW": false,
+        "Description": "Sequel to the Fallout 4 city-building simulator.",
+        "GameName": "Fallout4",
+        "ModID": 47976,
+        "FileID": 228426,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47976|228426"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "r3JfS9nFqfc=",
       "Meta": null,
       "Name": "NeverNude Female-22110-1-2.7z",
@@ -3415,7 +3496,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Enhanced Vanilla Bodies",
         "Author": "Leito86",
-        "Version": "1.2.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/22110-5-1487377355.png",
         "IsNSFW": true,
         "Description": "High resolution body replacers based off the vanilla bodies.",
@@ -3435,7 +3516,7 @@
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Enhanced Vanilla Bodies",
         "Author": "Leito86",
-        "Version": "1.2.0.0",
+        "Version": "0.0.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/22110-5-1487377355.png",
         "IsNSFW": true,
         "Description": "High resolution body replacers based off the vanilla bodies.",
@@ -3489,1610 +3570,1589 @@
   "InlinedFiles": [
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8418f224-b1ac-4d3c-8c35-6beaeab7f6b7",
+      "SourceDataID": "5d6a6b34-c174-4d2c-8651-099436a8f382",
       "Hash": "hGwfMvkWrkI=",
       "Size": 49,
       "To": "dump_running_process.bat"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "ed4959b3-0537-49d8-a874-325ac5b10758",
-      "Hash": "tiI0E1FFzkw=",
-      "Size": 15277,
+      "SourceDataID": "79414ec8-5d1d-4af3-8d42-fd75509bd131",
+      "Hash": "24nMkOVOMGc=",
+      "Size": 15923,
       "To": "ModOrganizer.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8fea3d44-c90b-4133-8fa3-af80023ffb1d",
+      "SourceDataID": "2fbf3d83-a43b-44ec-97d4-41243ec8533e",
       "Hash": "v1nlpQu4GP4=",
       "Size": 55711,
       "To": "splash.png"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cb98be2e-e472-406e-b0bd-5e45ff4d9fe8",
+      "SourceDataID": "25f819a2-815c-457d-ad3a-eb5fb4f539a9",
       "Hash": "qFy2gp+3cfE=",
       "Size": 1152,
       "To": "Game Folder Files\\F4WE.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d2f56c20-34f0-4658-bfc4-d5686bca2f4b",
-      "Hash": "jpVLxP4iPBM=",
+      "SourceDataID": "03d98410-f297-4463-ab60-2d161fdd5b10",
+      "Hash": "GTI50BEKFAc=",
       "Size": 133271,
       "To": "mods\\4estGimp - M8r98a4fmod2's Complex Item Sorter Enhancements\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5e31e9d7-ce02-4275-9f31-0d7c6a888bcb",
-      "Hash": "VyYMFge5d7Q=",
-      "Size": 27994,
+      "SourceDataID": "90c2727a-8edd-458c-877a-a1aacafb474c",
+      "Hash": "qGO1tgjGzq0=",
+      "Size": 27978,
       "To": "mods\\4estGimp - W.A.T.M_ComplexSorter_ini\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d37626d8-eb4c-4ace-9783-6690638eebc5",
-      "Hash": "P+m5s1RYgPM=",
-      "Size": 1419,
+      "SourceDataID": "f96e6cc6-c7a8-453f-9c9b-3e3e0b6d3e11",
+      "Hash": "Rlj9mDULq6A=",
+      "Size": 1422,
       "To": "mods\\4estGimp_MilitarisedMinutemen_PatchesAddons_CS1.9\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9b74cd99-fa10-4d95-a080-9aecebcfb110",
-      "Hash": "FlkxB3WDtKI=",
+      "SourceDataID": "c3f030fe-d521-4766-90b9-2f6984b62c5d",
+      "Hash": "mnQNjykigv4=",
       "Size": 703,
       "To": "mods\\Address Library for F4SE Plugins\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "80243370-face-48df-abf9-c47ac4fa5109",
-      "Hash": "pE5J/UKTGPU=",
+      "SourceDataID": "42aa25e2-9c70-43dd-96ca-0a725b720a2f",
+      "Hash": "0v6UZaTaSBs=",
       "Size": 533,
       "To": "mods\\Automatically Lowered Weapons\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9ae573ab-0908-4c1e-976a-2d25dd83cb34",
-      "Hash": "id+PP55XB2g=",
+      "SourceDataID": "55266069-75a3-455b-9b27-17bfbb886ff7",
+      "Hash": "633irLryMCs=",
       "Size": 2232,
       "To": "mods\\Automatron Load Screen Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f0e6a6af-480f-46d1-aa85-356b281af422",
-      "Hash": "hys9viCFmzg=",
+      "SourceDataID": "793bab9b-7266-41d7-a3d6-cba66d936b03",
+      "Hash": "MnJ1Y+Me/PU=",
       "Size": 540,
       "To": "mods\\BCR- Lever Action Rifle\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a329fde8-0cdf-43db-9e2f-7934f50374e9",
-      "Hash": "7omqCPGK8b4=",
+      "SourceDataID": "fc8ad594-d8d8-4a3a-809f-debb53503bb8",
+      "Hash": "bsTQwxBawXQ=",
       "Size": 554,
       "To": "mods\\Better Companions - No Conflicts\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8fe6e668-2ce7-4e8b-a441-e43fc37fb1f4",
-      "Hash": "Uc7G/3BThs8=",
+      "SourceDataID": "6a5389db-61d2-4202-9315-18120606cd5a",
+      "Hash": "S3W07/MiCGY=",
       "Size": 2990,
       "To": "mods\\Better Console - F4SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3ddeab07-6a04-41c8-8427-71b26ccfff39",
-      "Hash": "GF9ly3L8qgc=",
+      "SourceDataID": "584fd623-0631-461c-8ef9-611a43d75661",
+      "Hash": "kfC1PEnf20Q=",
       "Size": 3070,
       "To": "mods\\Better Vertibird - A Vertibird Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4703ef5e-1618-46b2-baf4-663ca23d9a2a",
-      "Hash": "hk96bHNESh4=",
+      "SourceDataID": "5c9a9b11-f6ee-4e4d-b074-5b79fbaaf04e",
+      "Hash": "n9oIq8UoUK0=",
       "Size": 541,
       "To": "mods\\BS Defence - This Settlement Does Not Need Your Help\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d75b1dd1-d766-4009-8400-0646ffa6c22b",
-      "Hash": "qVAWPghRFLU=",
+      "SourceDataID": "874cba19-8ffc-473a-8220-5675571a1d12",
+      "Hash": "NTJdJLCq3Ro=",
       "Size": 529,
       "To": "mods\\Buffout 4\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3d04076c-7759-409a-acce-98d7fc5c9c2b",
-      "Hash": "MDCi0pa3Rvk=",
+      "SourceDataID": "310736ad-3788-4cac-90ea-ca4f20f3d806",
+      "Hash": "5Kcm0Pxv0wQ=",
       "Size": 541,
       "To": "mods\\Bullet Counted Reload System (BCR)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "414c8ac6-2038-41ad-bc0d-1fb22f4ffe4c",
-      "Hash": "CAXZa3N5k8E=",
+      "SourceDataID": "bde7463e-f18e-44ac-8331-71bcfe29716a",
+      "Hash": "0ctTDKtK3hE=",
       "Size": 5512,
       "To": "mods\\Canary Save File Monitor\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a14929c8-619b-4760-87a7-26c472032bb5",
-      "Hash": "1XfwCU9aAvY=",
+      "SourceDataID": "e8cbd97a-0c75-46a4-a410-cea4de4eca64",
+      "Hash": "Rl8owgBvGAQ=",
       "Size": 553,
       "To": "mods\\Capital Wasteland Workshop Pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a2331c7c-73e1-4e73-9867-ef37df06f87a",
-      "Hash": "XIqCpQwitlQ=",
+      "SourceDataID": "85ad22ca-7185-4f4d-b8e5-6f8cd1f5e6c8",
+      "Hash": "Nixve6v3Fus=",
       "Size": 5220,
       "To": "mods\\Capital Wasteland Workshop Pack II\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b37f6081-684f-446f-ac38-8f6f41a599f2",
-      "Hash": "gFuzDgTHYZI=",
+      "SourceDataID": "dfbdccfd-f244-42e3-9893-3a11bc7e64f1",
+      "Hash": "frZ+cA4uvH0=",
       "Size": 548,
       "To": "mods\\CCCleaner\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "51ba0059-583c-4f90-ba6e-1ab8e3c83b24",
-      "Hash": "B0Ltb3OsTzk=",
+      "SourceDataID": "84488542-3c34-4096-ac75-28fae2f3705a",
+      "Hash": "KHQL11G/6kk=",
       "Size": 6571,
       "To": "mods\\Choochoo1's Workshop Framework displays\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0ced250f-3d11-4579-90fb-e921a62c39bd",
-      "Hash": "JD91a1RE1+U=",
+      "SourceDataID": "150b1d41-86b8-42cd-b440-508f3dcb438d",
+      "Hash": "/psjKOB68kc=",
       "Size": 9552,
       "To": "mods\\Clarity - A Visual Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8994fb4c-5f8d-4b71-96cb-b5d3dc53a7d6",
-      "Hash": "Cggv8pAmwkM=",
+      "SourceDataID": "3220a274-a0da-48eb-a424-43996fc0cc68",
+      "Hash": "epsTFWF9W20=",
       "Size": 548,
       "To": "mods\\Classic Holstered Weapons System (CHW)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9f234365-4190-4c51-bbe4-66cd37a07e38",
-      "Hash": "3w1rIDfTZUc=",
+      "SourceDataID": "46dd4388-3cc8-46c5-b19a-c867531657e7",
+      "Hash": "Vl1k9A9y5cM=",
       "Size": 542,
       "To": "mods\\Clean Black Pip-Boy Screen\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6ea829c4-eb40-4cbd-96ea-69526b9473d2",
-      "Hash": "AYopw28HAWI=",
+      "SourceDataID": "40749c27-4725-48a4-8979-addb98e55b11",
+      "Hash": "ABSd5Ts5Odk=",
       "Size": 2127,
       "To": "mods\\Clock Widget - Show Real Time While Loading\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "712b88ca-f3a9-49a2-adf7-0e47f3ede16d",
-      "Hash": "eUujYuK1fz4=",
+      "SourceDataID": "3b9aeefa-bccf-40df-a568-921b7f3de12e",
+      "Hash": "QvV+qiSLjoY=",
       "Size": 546,
       "To": "mods\\Commonwealth Climate - A Vanilla Plus Weather Mod\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8b5075e4-0006-42f2-b7e5-cab9b1533e2b",
-      "Hash": "y8+i7b6VBHc=",
+      "SourceDataID": "a8dbd376-b830-4ccf-9d4b-c5265c7d6cea",
+      "Hash": "IGmb42k5xdE=",
       "Size": 571,
       "To": "mods\\Companion Stealth Distance Fix (No Free Hugs) - Now with No Dogmeat in Crosshairs\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6bc734a5-5290-4781-902b-3f9cf808674a",
+      "SourceDataID": "cba94415-7329-426d-88f4-f0fe006d7ef1",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Companions_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4f16e339-d337-4ef8-8fb7-c5e295dac401",
-      "Hash": "4FuykRjKx4g=",
+      "SourceDataID": "9d42369f-f3c1-46e0-8cf4-cfed667f66e6",
+      "Hash": "9r6hJgzo0ZM=",
       "Size": 544,
       "To": "mods\\Configurable Hotkeys\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2137dbf0-65e5-4438-8839-90457fda72ac",
-      "Hash": "6UmfJoULyS0=",
+      "SourceDataID": "036bd2a0-0923-4738-953f-2baed28973b2",
+      "Hash": "gWIEEaPrcbA=",
       "Size": 542,
       "To": "mods\\Console Commands Extender\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3017cb0f-4be4-49fe-b639-a272afbf8c66",
-      "Hash": "2Enm40M44K4=",
+      "SourceDataID": "c3b1d319-c6cb-48c6-a8e5-52399b417b4d",
+      "Hash": "9U4AAazMi1k=",
       "Size": 2070,
       "To": "mods\\Creation Club - Better Military Backpack Distribution\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dcf19af5-6175-4cad-8719-4892731f2408",
+      "SourceDataID": "3c0630ba-daeb-45c0-b638-e4eedb21880c",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Creation Club_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "463cc179-d243-4e06-806e-df4f7fc14b3a",
-      "Hash": "0hTBAn5JKiU=",
-      "Size": 4741,
+      "SourceDataID": "10892dbb-3952-4cff-8d0d-bd43641fd3e7",
+      "Hash": "vRzXEl27eOU=",
+      "Size": 4471,
       "To": "mods\\Cubemaps Fix loose Files Version\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1c5a625d-9763-49a7-8277-0882211ba520",
+      "SourceDataID": "e8b5b6d5-785d-4894-863a-1e10bf71476a",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Custom_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "67a22a23-fff2-470b-a73d-6c8ff73b0bdc",
-      "Hash": "9pcQMV76xaQ=",
+      "SourceDataID": "0c9e377b-44d9-461c-99fd-8e8f9f34e1d4",
+      "Hash": "ZjFIPeR7lNk=",
       "Size": 4990,
       "To": "mods\\cVc Dead Wasteland\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2ca2686e-d0c4-4fed-bba4-023d97f7bc4d",
-      "Hash": "/9Mn8Tmss7A=",
+      "SourceDataID": "c9ae8a43-28dc-4957-9cde-a0dbc37f7735",
+      "Hash": "dUSD3KrPUz0=",
       "Size": 4980,
       "To": "mods\\cVc Dead Wasteland 6 - DLC1\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "68028e30-36af-4997-aa5f-77d09b49d986",
-      "Hash": "i0+sf651iuo=",
+      "SourceDataID": "1a7d9291-ec3d-4175-b91f-6c140d2de855",
+      "Hash": "Dsfi2HLy49M=",
       "Size": 4980,
       "To": "mods\\cVc Dead Wasteland 6 - DLC2\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8af4b36d-4f60-4fcc-8c53-7a16c3e1e371",
-      "Hash": "QN0sPmxs0cM=",
+      "SourceDataID": "459fea85-7f93-43e8-ab17-14b3e19cd264",
+      "Hash": "59hZ6GmJ8qw=",
       "Size": 4980,
       "To": "mods\\cVc Dead Wasteland 6 - DLC3\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8bbf2dea-d783-4210-86b3-115bb577a71c",
-      "Hash": "T1kaeeFnvwo=",
+      "SourceDataID": "ceb9c9e4-2c1e-4690-90d7-93ea56aa2a14",
+      "Hash": "9XFhcKkyWQE=",
       "Size": 1590,
       "To": "mods\\Decayed Army Fatigues Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fdf85d86-0793-4009-9b9b-1a700d70f1a5",
-      "Hash": "7+aBEPz57DE=",
+      "SourceDataID": "1ef13eb0-d5d8-4978-b527-62335fa1c577",
+      "Hash": "e/1mUpub/X4=",
       "Size": 5954,
       "To": "mods\\DEF_UI Iconlibs Rescaled and Fixed\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "83c22a2a-be2f-4f21-a636-c5ef11debb13",
-      "Hash": "5VVGhOaPRbM=",
-      "Size": 4735,
+      "SourceDataID": "768055b3-65f5-429c-a504-4eaed0e4e230",
+      "Hash": "8RO0+YzjyzY=",
+      "Size": 4462,
       "To": "mods\\DLCCoast - Textures\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "507c7097-dab7-4ceb-8838-aa7095c7a0fa",
-      "Hash": "5hDvsp8a4d4=",
-      "Size": 4739,
+      "SourceDataID": "e69edeb4-dc71-4e51-8570-006296f64887",
+      "Hash": "KrZOG9GfSII=",
+      "Size": 4466,
       "To": "mods\\DLCNukaWorld - Textures\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6d64d316-9156-4cff-a898-977f9a325ab6",
-      "Hash": "s4rt3e40jPM=",
-      "Size": 4735,
+      "SourceDataID": "8479c8b9-7f0d-4163-b71c-1865cca1f7dc",
+      "Hash": "2iUkSIkyyEM=",
+      "Size": 4462,
       "To": "mods\\DLCRobot - Textures\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f9c66b8a-4233-4753-a164-92f41939a822",
-      "Hash": "FozLACIZsCw=",
-      "Size": 4740,
+      "SourceDataID": "cef66ac4-c0a6-4310-afe7-948b9ee4aca5",
+      "Hash": "ebiBXCDoJIo=",
+      "Size": 4467,
       "To": "mods\\DLCworkshop01 - Textures\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ee328803-b1ab-415e-bfee-41b929300314",
-      "Hash": "6fcy6ksbjYo=",
-      "Size": 4740,
+      "SourceDataID": "2a542f5b-a119-497c-9ad4-0a76c1dc6617",
+      "Hash": "2rmH5WwgBZ8=",
+      "Size": 4467,
       "To": "mods\\DLCworkshop02 - Textures\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cebb0cd9-f0de-4a5f-b350-edc8f7b5b43b",
-      "Hash": "VFW6yNOP8qw=",
-      "Size": 4740,
+      "SourceDataID": "5d3af2d6-8bff-45fb-a144-59499226f7fa",
+      "Hash": "jyCiAhn48z8=",
+      "Size": 4467,
       "To": "mods\\DLCworkshop03 - Textures\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d5987e6a-c514-4d11-9326-282d68709087",
-      "Hash": "D2LiTx/U8VI=",
+      "SourceDataID": "184c4427-5170-4286-85e5-de5fc707b0be",
+      "Hash": "a/Nb7pSj5tc=",
       "Size": 5423,
       "To": "mods\\EBF UFO4P compatibility fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6e9d6987-847c-4034-81af-370809ffc5fb",
-      "Hash": "8ytozr3thGs=",
+      "SourceDataID": "6407a1a8-e91c-4901-b4cd-54e293ddac94",
+      "Hash": "9q1fS0n6/Bg=",
       "Size": 4409,
       "To": "mods\\Encounter Zone Recalculation (Continuous Level Scaling)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "93c5d162-9fec-4791-bf2d-85f4cbcbee95",
-      "Hash": "2145fMYhkM8=",
+      "SourceDataID": "2f602f72-2a02-46f8-bc27-1c05f6b8b695",
+      "Hash": "NsjeKI1ectw=",
       "Size": 1669,
       "To": "mods\\Enhanced Vanilla Bodies\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b5be4fd4-0603-445b-b7c4-a48fdc3ca99e",
-      "Hash": "9UPWCgcgocQ=",
+      "SourceDataID": "86385b80-342e-487b-8c24-b5d02859be65",
+      "Hash": "YOEAFlwUKuw=",
       "Size": 6162,
       "To": "mods\\Everyone's Best Friend (Dogmeat and Companion At Same Time - No Console - No Hack)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2ccc418f-74fd-4db0-b3ba-059d58d47107",
-      "Hash": "9FGj62zUY4c=",
+      "SourceDataID": "751e6da3-15ab-437b-90b0-2435706cd007",
+      "Hash": "7qiUto+GWO4=",
       "Size": 2536,
       "To": "mods\\Eye Normal Map Fix Fallout 4 Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0ea9644d-2628-4643-9945-230c07e52531",
+      "SourceDataID": "a2f7abed-b19b-4b33-82e2-fa05b3dedb13",
       "Hash": "BEQT8XwHsgY=",
       "Size": 961,
       "To": "mods\\F4SE - Garbage Collector Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "84f12806-8e5e-4b65-9bd5-52e99dd87c8f",
+      "SourceDataID": "3e0428bb-f01e-46ba-84f6-d39bf12041a3",
       "Hash": "0/Z3JpdWCEI=",
       "Size": 911,
       "To": "mods\\F4SE Scripts\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "08352687-4eac-4626-a79c-3a25097d4f6b",
+      "SourceDataID": "adaf9fc0-6467-4a35-88be-3279da4093f8",
       "Hash": "Qga9LxwtQk4=",
       "Size": 921,
       "To": "mods\\F4WE - Assorted Patches\\F4WE - Assorted Sorting Patch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c7f33b29-3ebb-4078-951e-3a0f86959e0b",
+      "SourceDataID": "5ee83a85-db84-41f1-8316-85f7c55c7a23",
       "Hash": "aLUKio9Mr34=",
       "Size": 31872,
       "To": "mods\\F4WE - Assorted Patches\\F4WE - LODPatch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a563580f-df8d-4c92-bc38-e88189cf7882",
+      "SourceDataID": "9a630183-a6a6-481f-b030-65f3d015d448",
       "Hash": "+APN3JpyhCM=",
       "Size": 77580,
       "To": "mods\\F4WE - Assorted Patches\\F4WE - Radiant Patch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "61ac812b-53ac-4038-993e-de5bb9070de6",
-      "Hash": "AZQkwqh/130=",
-      "Size": 10202424,
+      "SourceDataID": "e4b61b83-6bc5-43a1-a23a-0debdfa216ba",
+      "Hash": "9CO4vyfel14=",
+      "Size": 10659727,
       "To": "mods\\F4WE - Assorted Patches\\M8r Complex Sorter.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6275e150-ff3c-4586-b5a9-e6a9227a36ae",
+      "SourceDataID": "7b09c4d1-3783-4f32-b9c1-f5320c989633",
       "Hash": "gbcIBzsmpGI=",
       "Size": 962,
       "To": "mods\\F4WE - Assorted Patches\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6fe941a4-de9c-44d9-bb79-c64c0f4efbb9",
+      "SourceDataID": "0c2f6163-37ad-47be-824c-8c9cec8c497b",
       "Hash": "dLdFIP9r4YA=",
       "Size": 13182,
       "To": "mods\\F4WE - CC - Modular Military Backpack\\F4WE - CC - Modular Military Backpack.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "500e0169-35e3-4165-8ed7-059cc982e0ae",
+      "SourceDataID": "f47b34bf-6b37-45bc-bb2b-aac27c2e30f9",
       "Hash": "rspK+fVfYxY=",
       "Size": 962,
       "To": "mods\\F4WE - CC - Modular Military Backpack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "779427af-974a-4adb-bd95-3afef920ad01",
+      "SourceDataID": "74a4f119-dd51-4a92-90ce-1de94043ce6f",
       "Hash": "5+mrqm+3B4U=",
       "Size": 1259,
       "To": "mods\\F4WE - CC - TransDOGrifier\\F4WE - CC - TransDOGrifier.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f9602389-8b4e-4991-8cc6-c337d1fe0af8",
+      "SourceDataID": "1a04f3ed-1306-4beb-a95b-9293fba2b857",
       "Hash": "rspK+fVfYxY=",
       "Size": 962,
       "To": "mods\\F4WE - CC - TransDOGrifier\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b2720749-ef4b-4551-9649-943576d67ac4",
+      "SourceDataID": "eca547f6-cc70-48d7-be1b-afdb0f0803a1",
       "Hash": "Hk2P+dal01A=",
       "Size": 910,
       "To": "mods\\F4WE - Config\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e780b143-e81a-47c5-b5c5-61a395bb66da",
+      "SourceDataID": "b04ba638-78c9-4342-b3ec-5a5200d00d56",
       "Hash": "9+69jLUDXVM=",
       "Size": 198,
       "To": "mods\\F4WE - Globals\\F4WE - Globals.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "08ea88af-ac47-48f9-99d4-5aa4983dfcbf",
+      "SourceDataID": "c96dc9ee-cc05-4297-87be-728477580874",
       "Hash": "stR6XqeAU5s=",
       "Size": 910,
       "To": "mods\\F4WE - Globals\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b3c02a3d-4c7e-4607-9758-9e22b9ea113d",
+      "SourceDataID": "f43c9d6f-f1b5-46ab-8dd6-f6d772626d35",
       "Hash": "Ee4Gme7QwH8=",
       "Size": 910,
       "To": "mods\\F4WE - LODGen\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "abd61b5b-160a-48f8-81bd-6491764d247a",
+      "SourceDataID": "5f83331b-d5dd-4aba-9374-d9a95d780682",
       "Hash": "ya9oMwZALFg=",
       "Size": 222289,
       "To": "mods\\F4WE - Minutemen\\F4WE - WATM-MM-MMUPAIA - Assorted.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "00061827-db87-4e84-b8c9-bbb1ae7abb48",
+      "SourceDataID": "c4195f1e-ab7a-45e8-8f70-ee18d9b80a29",
       "Hash": "jaHx+U+TnGQ=",
       "Size": 12795,
       "To": "mods\\F4WE - Minutemen\\F4WE - WATM-MM-MMUPAIA.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "df5174c3-0773-4a40-9cef-84a6dbe0a3c9",
+      "SourceDataID": "579d815f-28ca-46ab-9d8a-0f1ebd7b2fc1",
       "Hash": "SIxj+oBKZ4w=",
       "Size": 910,
       "To": "mods\\F4WE - Minutemen\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0af411d7-08cc-49a7-a0b8-a77586bd4051",
+      "SourceDataID": "10e0b446-aef1-45ea-b94c-295d4825de80",
       "Hash": "w0DjHdL+TuY=",
       "Size": 3274,
       "To": "mods\\F4WE - No Scrap\\F4WE - NoScrap.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "93282d57-f216-495f-b044-11c08596b451",
+      "SourceDataID": "44a5e0eb-89fa-4ee5-a5b5-9daa9571deba",
       "Hash": "RG1+YMDzYcQ=",
       "Size": 910,
       "To": "mods\\F4WE - No Scrap\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "59ee4247-268f-4355-bdd9-c746e16949a2",
+      "SourceDataID": "01c0bdc6-c3d9-4f94-84cb-a50459e63535",
       "Hash": "1p4gsMtByHE=",
       "Size": 60678,
       "To": "mods\\F4WE - NPC Protection\\F4WE - NPC Protection.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6cd97b74-9ef4-4535-a47e-5221e2e8c22f",
+      "SourceDataID": "5037dbb4-9075-484c-a417-7135ebf8587c",
       "Hash": "xnyWYfjUboo=",
       "Size": 911,
       "To": "mods\\F4WE - NPC Protection\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "63460ea7-bd52-4838-861b-5347843b8b43",
+      "SourceDataID": "642064ba-aee1-47fb-a5e3-3a03875c85a4",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Factions_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0c4b81cd-e13b-4fd1-a4c7-14614767bd7a",
+      "SourceDataID": "e6a6dce6-3bf7-4bfd-adee-01f6deebacd0",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Fallout 4 Workshop Extended_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a1c2071c-2600-4495-a57f-9289bee2c56c",
-      "Hash": "pxdCa35A7iU=",
+      "SourceDataID": "5c4bef45-79e4-4177-b4c7-e97cf96df948",
+      "Hash": "cLBUOgQke+4=",
       "Size": 539,
       "To": "mods\\Fallout Priority - f4se plugin\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c289ba6e-df61-4b36-9270-aa61df059f41",
-      "Hash": "IQmqkWSaVfU=",
-      "Size": 4733,
+      "SourceDataID": "47fce7a6-6dbc-454e-9058-3b3fcd21cc36",
+      "Hash": "hINVLvZeG6w=",
+      "Size": 4463,
       "To": "mods\\Fallout4 - Textures1\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5e791621-4449-4ab4-bb2b-649ea739e4c8",
-      "Hash": "QjHAqrbyXdk=",
-      "Size": 4733,
+      "SourceDataID": "82dcbcf7-2d43-48cb-b79e-2c48223a7823",
+      "Hash": "A2APjSbKgzI=",
+      "Size": 4463,
       "To": "mods\\Fallout4 - Textures2\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8a289155-110c-48ba-a3e6-d003b78f0265",
-      "Hash": "fElfEdWCHUo=",
-      "Size": 4733,
+      "SourceDataID": "bdfd435e-8046-431a-ae59-404778403c6f",
+      "Hash": "ui98Ur8ZQQw=",
+      "Size": 4463,
       "To": "mods\\Fallout4 - Textures3\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f9e04643-84cf-495a-955b-0945d039ca65",
-      "Hash": "ARurr/zQSg0=",
-      "Size": 4736,
+      "SourceDataID": "0f78188d-b6bf-41a1-877a-3cd5809d01f0",
+      "Hash": "dAAZ9h5z0OU=",
+      "Size": 4463,
       "To": "mods\\Fallout4 - Textures4\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "74b360cb-7381-418f-b287-d137f7607962",
-      "Hash": "CaEJ5r0PKJY=",
-      "Size": 4736,
+      "SourceDataID": "a87275ec-3410-4c19-bff5-ff13cd626ed2",
+      "Hash": "/UDV6iOOxMo=",
+      "Size": 4463,
       "To": "mods\\Fallout4 - Textures5\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9c90323d-93d6-4122-be40-22b8a0e885c0",
-      "Hash": "b0ZRcHtHop0=",
-      "Size": 4736,
+      "SourceDataID": "d8a3705c-6fb3-4af0-b997-1c10f5bc379d",
+      "Hash": "a8ZIFgfI1UQ=",
+      "Size": 4463,
       "To": "mods\\Fallout4 - Textures6\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "40f4466e-41e5-446c-a15b-c526b034ff0b",
-      "Hash": "QO3Syy9ArPI=",
-      "Size": 4736,
+      "SourceDataID": "8fe8c096-ae09-4e76-bff0-05d337b580b8",
+      "Hash": "Z3+gAhlUxWg=",
+      "Size": 4463,
       "To": "mods\\Fallout4 - Textures7\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4704cb30-0ca0-409f-9b06-31f89df75776",
-      "Hash": "fizIhWgauvk=",
-      "Size": 4736,
+      "SourceDataID": "1a5dbf33-7665-4e3c-aa1d-3afd660c8e8a",
+      "Hash": "jZF8C2LCzpE=",
+      "Size": 4463,
       "To": "mods\\Fallout4 - Textures8\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3e9497ad-f832-4bab-bf75-777ce7b65d2a",
-      "Hash": "NCDichAHAH4=",
-      "Size": 4736,
+      "SourceDataID": "3fff4b57-5a71-43f7-8780-ca8515014420",
+      "Hash": "OXEJ44To8OU=",
+      "Size": 4463,
       "To": "mods\\Fallout4 - Textures9\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a7aa90fd-a8c2-441c-a000-97617c8df552",
-      "Hash": "vP1VNQzcQW4=",
+      "SourceDataID": "e6cc21fc-0439-4d97-bd71-8591396ebd7e",
+      "Hash": "jpQSGT2Ja7w=",
       "Size": 22709,
       "To": "mods\\FallUI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9c7a46e9-8956-4b79-b771-819dfe0ca3c0",
-      "Hash": "X9a9jI5Wjlw=",
+      "SourceDataID": "080ad0b9-f57a-49b4-afba-3fd62fc8f22c",
+      "Hash": "ieuu+aEIuqM=",
       "Size": 594,
       "To": "mods\\FallUI - Confirm Boxes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "51c5db56-7f39-4607-ba11-6379622c1b14",
-      "Hash": "Erzu+P4XfJE=",
+      "SourceDataID": "f0641b5e-7331-41c5-8a17-7779e988e823",
+      "Hash": "7Dzoxokyzr8=",
       "Size": 584,
       "To": "mods\\FallUI - HUD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6aab2d0e-c33c-42ef-95a1-59954d5de51f",
-      "Hash": "D8Nq1Qj4IQ8=",
+      "SourceDataID": "7cd5b7c0-47de-4c54-aeed-6486cc08f845",
+      "Hash": "/DhXUuxCyD0=",
       "Size": 541,
       "To": "mods\\FallUI - Map\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "adfa4da8-35dc-41c6-8968-a5b5fff7308a",
-      "Hash": "QrokmU3ciEU=",
+      "SourceDataID": "47802df2-5930-4e10-9cb4-7d7d30bcb01a",
+      "Hash": "dbqX/HoPYnY=",
       "Size": 550,
       "To": "mods\\FallUI - Sleep and Wait\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "784507d8-5e34-471f-9987-aca8dc37818c",
-      "Hash": "NrjPGke/zaY=",
+      "SourceDataID": "362bcee1-cf50-4483-9cb4-608e8fdc04b8",
+      "Hash": "uvjI0G+0aUw=",
       "Size": 545,
       "To": "mods\\FallUI - Workbench\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "670071d2-4f45-4454-a013-12b433c86b1b",
-      "Hash": "3eRRGpxOeyg=",
+      "SourceDataID": "9bced789-2b1f-4d01-b597-1728ec8534f1",
+      "Hash": "AD6PNoBNEzA=",
       "Size": 550,
       "To": "mods\\FAR - Faraway Area Reform\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "09513012-e89b-449d-8186-0100b0831813",
-      "Hash": "4+RjlruHAxs=",
+      "SourceDataID": "f44ce93f-f3cd-4449-b054-022d0d768460",
+      "Hash": "Qj50a7UGA0E=",
       "Size": 534,
       "To": "mods\\Faster Workshop (Workshop Lag Fix)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4600f028-73ca-4ded-bd50-034cd593c61f",
-      "Hash": "NquDEAw/7YQ=",
+      "SourceDataID": "a9f168e6-b5c4-4d1d-8edf-9b8d464ebebc",
+      "Hash": "8KUtLx/fa94=",
       "Size": 531,
       "To": "mods\\Fixed Alpha Maps\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1cd59f3a-8d70-4eeb-aa50-3657da81d6c0",
-      "Hash": "OZaKPvZ2i0g=",
+      "SourceDataID": "668d3d8a-c1bc-4518-8284-24f7d29e3d28",
+      "Hash": "TXrmve+dp/M=",
       "Size": 1929,
       "To": "mods\\Fixed Creature Death Drops\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8fb8f657-e1d7-4667-9ccc-5f6b958abac3",
-      "Hash": "TI8m/Rahc5U=",
+      "SourceDataID": "9dd686a8-2312-40f1-b4c1-6ea31acd407b",
+      "Hash": "CHpxCSmwtQc=",
       "Size": 534,
       "To": "mods\\Fixed Gobo Effects\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "da6ee56f-3eb5-48ae-9503-3fa445f3eece",
+      "SourceDataID": "2a53fe6e-0cd8-4216-aa6b-3a3c17cd74a1",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Fixes_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e83c9df2-68b7-4557-a1da-4e951da941f7",
-      "Hash": "qFCuUjmnUoQ=",
+      "SourceDataID": "f6e0af0b-9556-4829-a72c-4d64f0baf7bb",
+      "Hash": "tTMQpPWk6OM=",
       "Size": 4612,
       "To": "mods\\Flicker Fixer ESL v5.6\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e9904fde-9c7e-43e3-89d4-85d8ad6f4a81",
+      "SourceDataID": "a0d7488b-d3a1-45e7-9867-3e5959e91eb9",
       "Hash": "GWaytvc/fdg=",
       "Size": 521,
       "To": "mods\\FO4LODGen-Resources-1.1\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5ab72e1b-055c-480a-b40f-1d9a85b0be62",
-      "Hash": "ESBWuGl0K7w=",
+      "SourceDataID": "29b939f5-844c-4b3c-a1ad-5b64c0cfd02d",
+      "Hash": "gTD9WbjQXm8=",
       "Size": 4346,
       "To": "mods\\Fortune Finder 4 Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "52947c97-e025-4843-93ee-6dfdc174b4a5",
-      "Hash": "YwJifkhrgRk=",
+      "SourceDataID": "f71415cb-95ae-45e4-80c3-48af5c06a315",
+      "Hash": "GWAmFNPshK4=",
       "Size": 609,
       "To": "mods\\Full Dialogue Interface\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "adc5bb62-ea33-4a8a-b850-238b40e4be32",
+      "SourceDataID": "473e8a67-e86f-418f-92d5-a7dc4b0b5f6c",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Gameplay_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "04d01bb0-2c1f-4d1f-8bac-94e36f446f97",
-      "Hash": "czCy3Hmdrss=",
+      "SourceDataID": "82031105-f5fa-495a-bcc8-4490b1800ba2",
+      "Hash": "TzFs6ijQkPw=",
       "Size": 593,
       "To": "mods\\Glowing Glass Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "75442aab-4e5f-4eb9-93d8-2234721f894a",
-      "Hash": "Yw+gSvoO+bU=",
+      "SourceDataID": "7247049d-2f58-4c7d-b993-af5f214440e2",
+      "Hash": "ZZXIHGbZv/Y=",
       "Size": 582,
       "To": "mods\\Graf's Security Fences\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "73156ffc-e419-4889-ad8c-966b1dddd251",
-      "Hash": "Q0sF60THVkI=",
+      "SourceDataID": "a52bf51a-92ff-4b7b-98ed-75f64849c0ef",
+      "Hash": "3eu4m7307yM=",
       "Size": 543,
       "To": "mods\\High FPS Physics Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5103d577-7bf2-4e60-b2c9-3e6ec59ad8c9",
-      "Hash": "/dO7CxyEKPA=",
+      "SourceDataID": "7bcf0861-36cd-4541-941c-842a5286d51e",
+      "Hash": "uaBJ//OrUZo=",
       "Size": 523,
       "To": "mods\\HUDFramework\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d4bbd249-5803-41af-a541-0cda66387445",
+      "SourceDataID": "f3d02221-3ca5-4874-8131-ee8ace2f19c8",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Immersion_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a533fbab-c5a0-4092-bfd5-ec2a155267d4",
-      "Hash": "5jDsWD/L1oA=",
+      "SourceDataID": "ab2bcc56-aa07-47c1-89e3-bd2e50cb83ab",
+      "Hash": "KPj38aFv46Y=",
       "Size": 536,
       "To": "mods\\Immersive HUD - iHUD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ce300c1d-a218-4500-97a4-17affcc9682e",
-      "Hash": "/8WzLxJXnYU=",
+      "SourceDataID": "aa24212f-af4e-4c6c-bc1d-4f22d1615e7c",
+      "Hash": "w1oMZsvEz6E=",
       "Size": 534,
       "To": "mods\\Institute Floor Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7685b131-1a3e-4584-8846-e35e1dc55582",
-      "Hash": "nk+48gAdOGc=",
+      "SourceDataID": "1ed8b871-00d7-4685-ba24-7ac5cc8fd67a",
+      "Hash": "FtoQTsIqaPo=",
       "Size": 2083,
       "To": "mods\\Jamaica Plain Navmesh Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "56a9a819-9f87-48bb-8013-3b27685c889c",
-      "Hash": "kj26uto1smI=",
+      "SourceDataID": "ccf602c3-ab89-4acb-b88f-38f49f83f83f",
+      "Hash": "5QkPzc+aeXQ=",
       "Size": 529,
       "To": "mods\\Junk to Components\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e117ca60-993e-4451-9648-41db2d150405",
-      "Hash": "kOPzI7Uj0p0=",
+      "SourceDataID": "230bc1a0-beac-463b-b560-8fdf040067d6",
+      "Hash": "jQIww704raQ=",
       "Size": 3279,
       "To": "mods\\Keep Radiants in Commonwealth - UF4P Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fe225071-aa50-4a18-859a-63882bcca2de",
-      "Hash": "eLMTG9E3DEA=",
+      "SourceDataID": "a6d80d19-0e99-47ba-a0f1-00f45bdd83d3",
+      "Hash": "y0c8B8n+tes=",
       "Size": 536,
       "To": "mods\\Keep Radiants in the Commonwealth\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8ba93311-8641-4b53-af94-f04013c91dbb",
-      "Hash": "rRLbag5a2C0=",
-      "Size": 542,
+      "SourceDataID": "dace5afe-3cd1-4340-8ab8-6098f50062b1",
+      "Hash": "j4UrRp2UBsM=",
+      "Size": 544,
       "To": "mods\\Laser weapons 1st person reposition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "96aadd65-bfd9-444d-a544-882eadb1a0a0",
-      "Hash": "ClLXMnDIht0=",
+      "SourceDataID": "9d393b34-e7c9-4deb-a8b6-daa166e36911",
+      "Hash": "sKU1aGGk718=",
       "Size": 2102,
       "To": "mods\\Less Ugly Intercom\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c5b51c7e-df2a-4810-8018-c9cace133bd3",
-      "Hash": "dcbY34Tz4Ao=",
-      "Size": 4735,
+      "SourceDataID": "979796fb-8618-49cb-ba00-edfe9794c009",
+      "Hash": "2N2Lm2Xquck=",
+      "Size": 4465,
       "To": "mods\\LOD Textures for FO4LODGen\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5591a408-2c70-462e-a193-e242c477e6d0",
+      "SourceDataID": "02396ca2-a7aa-479b-8aef-114d1c82be52",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\LOD_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c40c382a-d515-4680-94eb-4806a63c532e",
-      "Hash": "3WnEQ4iQ/pU=",
+      "SourceDataID": "0e2fd16e-ebcb-4c28-8cfd-9d50e3446451",
+      "Hash": "gssip21mpNg=",
       "Size": 536,
       "To": "mods\\Magazine Rack Extended\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7b287e08-b751-4458-80da-c6a026ade9e9",
-      "Hash": "9UfcOM7U0hA=",
-      "Size": 2303,
+      "SourceDataID": "983e59f3-ca56-4c0a-b8ed-d6351121d5cc",
+      "Hash": "YlbvO8j03XI=",
+      "Size": 2798,
       "To": "mods\\MCM Booster\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0257c50d-6bb0-4910-a23d-024a3fb5921d",
-      "Hash": "+NDTgwxeLe8=",
+      "SourceDataID": "a9d96441-67c8-48e8-9e24-8edbb9adc935",
+      "Hash": "60g0VTf2rwU=",
       "Size": 537,
       "To": "mods\\MCM Settings Manager\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bb0e557f-ecaa-47bd-ad55-52a6d35abc25",
-      "Hash": "92kBq8NHVtQ=",
+      "SourceDataID": "b75ca7c3-e448-434e-8cf9-5f294ab46136",
+      "Hash": "wtZU4YNzieI=",
       "Size": 610,
       "To": "mods\\Militarized Minutemen\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e2b8fd67-68c2-45a0-a089-13f78b654e75",
-      "Hash": "HfwlgV90cYs=",
+      "SourceDataID": "9a459186-dcd6-4eff-bb1b-ec7bdfa11299",
+      "Hash": "2WGScb2GM8o=",
       "Size": 614,
       "To": "mods\\Militarized Minutemen - Uniforms Patches and Insignia Addon\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bf33db03-d745-4232-85b4-269e9ad64670",
-      "Hash": "5Z9/U3v6Pv4=",
+      "SourceDataID": "1a471e7d-621f-4358-9300-c3d38106132c",
+      "Hash": "1ystZJJS06s=",
       "Size": 545,
       "To": "mods\\Mod Configuration Menu\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1a05edad-3b48-417a-b1c2-5d02a3ad3b4c",
-      "Hash": "5P8j6BA3y1o=",
+      "SourceDataID": "893a38c2-7629-4b7d-97ba-5928ae198817",
+      "Hash": "FPLijkGEfK4=",
       "Size": 8164,
       "To": "mods\\MTM - Garden Terrace Ceiling Fixed By Monorail - ESL\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0e71cfe5-6f3a-4d5d-a235-42fcde279175",
-      "Hash": "ArFrC2qL2pY=",
+      "SourceDataID": "00f9a59e-b2e3-4811-bfa1-5478cb99b341",
+      "Hash": "xX8v0Ypnlv0=",
       "Size": 540,
       "To": "mods\\NeuraLOD Resource file\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fd605879-65cd-46c7-9dd2-4c9e4e8e5f9b",
-      "Hash": "vHWXPDGJWzk=",
+      "SourceDataID": "c4de83fa-0780-45cc-abbe-bb5f7b91a879",
+      "Hash": "bV1xMeZl56A=",
       "Size": 3310,
       "To": "mods\\No Aggro Impact Landing (Power Armor)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "94bccf21-b3c9-47e8-9605-890ea8da1608",
-      "Hash": "1A7kgW0o7ow=",
+      "SourceDataID": "15b8942e-39d7-4dcd-a18e-06e7863b9095",
+      "Hash": "IZ68KWEjYbQ=",
       "Size": 1077,
       "To": "mods\\No Holotape Tease - Texture Replacement\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c084865b-a3dc-41d9-b0cc-6966211c1e23",
-      "Hash": "1Iidx416hJw=",
+      "SourceDataID": "ce4ce380-a717-4b5f-a9b7-affe0a86a8c4",
+      "Hash": "iqkUIhQ20D4=",
       "Size": 521,
       "To": "mods\\No more gaps under junk fences\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "07ab4628-484a-45a0-9937-bb97e63e8e52",
-      "Hash": "ok4tpybO3no=",
+      "SourceDataID": "339d0dda-f220-4ca9-8ed0-1bea16910d94",
+      "Hash": "ax3JBA/buws=",
       "Size": 571,
       "To": "mods\\No Negative Affinity and No Affinity Cooldown\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "132d896c-a821-4a75-9b98-c89fb42c4d4d",
-      "Hash": "PBsWOLGmv0g=",
+      "SourceDataID": "ff512b13-c38d-4e49-93cb-617961834bea",
+      "Hash": "ZGyztBXkS6g=",
       "Size": 4336,
       "To": "mods\\No Negative Affinity DLC patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3af73113-f7ee-4699-986c-3958dda76605",
-      "Hash": "RhAFUMmky74=",
+      "SourceDataID": "3860cfab-f2d0-44ef-b4fd-05ad4823d2ca",
+      "Hash": "QtHTZi+MCJw=",
       "Size": 8157,
       "To": "mods\\Nuka-World - Fixes the East Entrance to Nuka-Town USA near Fizztop Mountain\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c0bd7f53-9e63-47f8-9597-e298262ba629",
-      "Hash": "B8UDWxg4gso=",
+      "SourceDataID": "a3b68717-ef2a-4e7f-a52a-65a50a998113",
+      "Hash": "rJOOgEIB+ps=",
       "Size": 542,
       "To": "mods\\Nuka-World Bottle Scenery Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "862d1130-735e-4369-9d7d-71743aabfbf8",
-      "Hash": "bnzddAgbMiQ=",
+      "SourceDataID": "fb1a559b-07ca-4788-8c4a-d974dc116ea6",
+      "Hash": "9XP3QMA26Ps=",
       "Size": 3166,
       "To": "mods\\NukaWorld Transit Center LOD Fix with ESL\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4fd401b7-9fea-47b3-9f0a-3fa5c3f74ca9",
-      "Hash": "nhI4e6bOV8c=",
+      "SourceDataID": "88bff9e2-2a33-4e97-97f8-201d7aeff8fe",
+      "Hash": "jLUisqgaOFQ=",
+      "Size": 536,
+      "To": "mods\\Overboss Colter Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "9ae3f512-8ba2-40a3-a458-2b5cb560839c",
+      "Hash": "08+t3kKC5gc=",
       "Size": 547,
       "To": "mods\\PCDug's Pretty Triangles and Pretty Circles\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "91e342ff-3e6a-485b-9fe8-d2e15cdb1c15",
-      "Hash": "3XVQ9W/cGHI=",
+      "SourceDataID": "746fcdde-70c8-49dc-9253-909c0187afbf",
+      "Hash": "29dOG+aeaQA=",
       "Size": 1652,
       "To": "mods\\Perception Bug Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0cdf4f17-97f7-4efe-b4a6-033775b7426f",
-      "Hash": "lKreBnTw30I=",
+      "SourceDataID": "7de88233-380c-4434-a3bb-0400f3cddc58",
+      "Hash": "g8kavnzNmUk=",
       "Size": 569,
       "To": "mods\\Place Everywhere\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9259c6e3-72b7-4d9f-80a5-de9582b33e96",
-      "Hash": "0aq+NIrkHt0=",
+      "SourceDataID": "5bd958ee-39ad-421e-a303-480f9a3abb4c",
+      "Hash": "l9Aq+onT5GU=",
       "Size": 1008,
       "To": "mods\\Pool Rack Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "212685ea-67be-4fd9-9943-847d56d06c4b",
-      "Hash": "WP/WFeGrqNo=",
+      "SourceDataID": "9430292e-0246-4342-a272-585e70bb4245",
+      "Hash": "nwIPVWXBs8Y=",
       "Size": 535,
       "To": "mods\\Power Armor HoloHUD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6129e6dd-5f4f-4ef7-bcb9-8034b38e27fb",
-      "Hash": "sRHPxfXk94I=",
+      "SourceDataID": "54661f71-8b2a-4406-a146-6b676d37f553",
+      "Hash": "y9YhLryTmVw=",
       "Size": 3994,
       "To": "mods\\Power Armor map fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a8d00aaf-f44f-4ebe-afed-1469e607b17a",
-      "Hash": "NaZruJnkPWs=",
+      "SourceDataID": "37379767-47ca-44c4-b811-c251178ee0f2",
+      "Hash": "K1Bj6PxTr9I=",
       "Size": 554,
       "To": "mods\\Power Armor Materials AND Paints (PAMAP)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "74b5398e-3659-4c71-b40b-8aa7094797e3",
-      "Hash": "8bkfn5Tr2oA=",
+      "SourceDataID": "187ed931-5bf5-480d-9f11-ef3a4bd13ad9",
+      "Hash": "54bEXAWwxrc=",
       "Size": 2677,
       "To": "mods\\Preston Garvey No Radiant Settlement Quests\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c25dc3d8-1801-4ae0-bcab-c4a941809958",
-      "Hash": "o5TdLWJJdKs=",
-      "Size": 14729,
-      "To": "mods\\Previsibines Repair Pack\\meta.ini"
+      "SourceDataID": "d346bd7e-0c72-4ce1-a728-1ab17522196e",
+      "Hash": "6sJ3qIOisiI=",
+      "Size": 1504,
+      "To": "mods\\Previsibines Repair Pack (PRP) - Sim Settlements 2 Upgrade Kit - English\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "45d35de9-0c4b-43bf-921c-3965bf9f6667",
-      "Hash": "dsYV006yOtY=",
-      "Size": 14749,
-      "To": "mods\\Previsibines Repair Pack - Clarity Patch\\meta.ini"
+      "SourceDataID": "7835df9e-1c63-4684-a21e-a06c022c2d62",
+      "Hash": "BMDCsZXJqfk=",
+      "Size": 17681,
+      "To": "mods\\PRP Full Stable\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "42d4f04d-d2a9-4d50-9caa-b84a24d451a6",
-      "Hash": "g9bZoI1TxNQ=",
-      "Size": 14727,
-      "To": "mods\\Previsibines Repair Pack - Overboss Fix\\meta.ini"
-    },
-    {
-      "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c2085fa7-5ce4-40af-8236-7dc191c567da",
-      "Hash": "L5bPVHH71+Q=",
-      "Size": 14742,
-      "To": "mods\\PRP Compat for Sim Settlements 2\\meta.ini"
-    },
-    {
-      "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "227a6f7e-3f37-42fc-9d15-272854ca2e2b",
-      "Hash": "JIFTbJfKJjo=",
+      "SourceDataID": "39b7bd90-62be-4200-9317-989860d9b8e5",
+      "Hash": "p0GjRiTcqiQ=",
       "Size": 12064,
       "To": "mods\\R2K's Gameplay Mods - Fast PipBoy\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "110f80ac-53b0-4955-b8a4-5343eb3583c7",
-      "Hash": "0Y7us0VI+lI=",
+      "SourceDataID": "ae945e1b-e3bd-45cf-85e2-deddd54ede10",
+      "Hash": "M8DzBQIII/s=",
       "Size": 584,
       "To": "mods\\RAW INPUT - The Ultimate Mouse Sensitivity Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "42ddd53f-0fba-417f-ae1c-c1f347ef5023",
-      "Hash": "xMfJhRzA7Xs=",
-      "Size": 544,
+      "SourceDataID": "bb8c0027-0756-456c-b6c5-d63d2c03652f",
+      "Hash": "PEfODgMAJqA=",
+      "Size": 8471,
       "To": "mods\\Raze My Settlement\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f4202c81-76c0-4250-9584-9932205f57d3",
-      "Hash": "g/jBeO6G+ng=",
+      "SourceDataID": "888922bb-f447-432b-9538-d51c7234a3ad",
+      "Hash": "VNqjMFuZqcQ=",
       "Size": 6411,
       "To": "mods\\Recruitable Settlers\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ddc09d47-4cac-489e-a07b-0164db29293a",
-      "Hash": "J0x9O9046/Y=",
+      "SourceDataID": "986e3fe7-a97e-4998-a90d-d00adf236197",
+      "Hash": "TQ1/G9h3Rlc=",
       "Size": 6417,
       "To": "mods\\Recruitable Settlers FH\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dc9c3a87-1b02-4e16-b188-dbb0953079db",
-      "Hash": "RwvoP0lfn8c=",
+      "SourceDataID": "575d0af4-c433-4e6c-83f4-3401d89f5425",
+      "Hash": "+AgVr4gqbm0=",
       "Size": 551,
       "To": "mods\\Rise of the Commonwealth for Sim Settlements 2\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dd4142d1-7aa2-4343-99d9-37c78a1b3b6b",
-      "Hash": "X1r/JzQVODI=",
+      "SourceDataID": "5d654f3c-beb9-45b3-ae19-8d0be745c8d3",
+      "Hash": "M6k/9goyuR8=",
       "Size": 20949,
       "To": "mods\\Ruddy88's Simple Sorter\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2f9182ab-b3e6-41f6-b378-1e9bd913854c",
-      "Hash": "af/9CZDKEQc=",
+      "SourceDataID": "de8d39f9-15a8-42f6-993f-7f9af38cdbca",
+      "Hash": "AyWDfZKP0LM=",
       "Size": 577,
       "To": "mods\\Rusty Face Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "34ef2ba9-2fd3-4f3b-b82f-14206547291a",
-      "Hash": "ZeCfeRIB7Us=",
+      "SourceDataID": "46edc043-2ef3-482f-8931-158e6b2e7273",
+      "Hash": "YbyeUh3VEgE=",
       "Size": 4884,
       "To": "mods\\Sandbag Fortifications\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3a4fe20e-cc70-4859-a877-ceab30efab0c",
-      "Hash": "G9pIRWOL7D4=",
+      "SourceDataID": "e9174ad9-7048-4827-8c2e-1e365019cd66",
+      "Hash": "OtbTXGhCKag=",
       "Size": 2175,
       "To": "mods\\Sandbox Radius Overhaul 2x\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9e994240-d036-455d-85f3-71a3115a95fc",
-      "Hash": "8UbRwiQy3aM=",
+      "SourceDataID": "09808032-5606-43c6-b472-e8166bc8bbdd",
+      "Hash": "4wlJAA9BO1Y=",
       "Size": 581,
       "To": "mods\\Screen Flicker Killer\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a9f0dc04-b4db-4c44-8401-8cc8ae29f136",
-      "Hash": "AK4D1W/VZSc=",
+      "SourceDataID": "f2c8d9b7-681d-438c-aecc-aff341995a26",
+      "Hash": "bbn4GVJFFPk=",
       "Size": 545,
       "To": "mods\\Settlement Menu Manager\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d088d020-b3dd-4d6f-a466-7183e4587550",
-      "Hash": "R36YOZqdVb0=",
+      "SourceDataID": "2e99f4e3-849b-4a77-a058-19b65ddca16a",
+      "Hash": "LpyZzweYbCI=",
       "Size": 553,
       "To": "mods\\Silent UI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1649b94d-6a0f-49e7-9dc0-baf52babce70",
-      "Hash": "igmlFYFxg1M=",
-      "Size": 5150,
+      "SourceDataID": "ade624e4-7017-4ac9-933c-bb851fc68189",
+      "Hash": "lFedUpG9SS8=",
+      "Size": 5147,
       "To": "mods\\Sim Settlements 2\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5641c396-c6e9-4ab3-b440-ffcae8319474",
-      "Hash": "6A/o0JtP1lE=",
-      "Size": 5410,
+      "SourceDataID": "094a503f-7b17-48ac-8921-2868f9bd8b1a",
+      "Hash": "C9GJNTVkt68=",
+      "Size": 5407,
       "To": "mods\\Sim Settlements 2 - Chapter 2\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fbebbf01-cb1a-4792-93e8-b0339090cb80",
-      "Hash": "hYUwZEGfcyg=",
-      "Size": 575,
+      "SourceDataID": "08c1c53b-2eae-48c6-8233-26826bbae37f",
+      "Hash": "nHCyOWB/kCM=",
+      "Size": 578,
       "To": "mods\\Sim Settlements 2 - Pra's Random Addon 2\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "be8c91db-d66c-44ac-94a6-b28a4a3b6a3c",
-      "Hash": "dztAmqiDFNY=",
+      "SourceDataID": "e128f2b4-33cb-4a47-b3ec-5f753b968dbb",
+      "Hash": "XwpVX6R6PRI=",
       "Size": 1460,
       "To": "mods\\Sim Settlements 2 - Recruitable Settlers Leaders Pack 2\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9c1cfee4-7588-442a-9892-d94621325340",
-      "Hash": "RkfTXMxxYng=",
+      "SourceDataID": "4fb1048c-53eb-4ae9-9e39-c9e4f93b461e",
+      "Hash": "faDdik4ZpDY=",
       "Size": 562,
       "To": "mods\\Sim Settlements 2 - Ruined Homes and Gardens 2.0\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "274c4330-bb80-490e-b42d-9d082781bdc0",
-      "Hash": "iwnabMnvwns=",
+      "SourceDataID": "c62b9973-ad9d-48ca-9e35-9dcfd5e7f4c0",
+      "Hash": "du3f+TLmWVk=",
       "Size": 550,
       "To": "mods\\Sim Settlements 2 - Tiny Living\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0f4a3662-c134-4f20-8505-af7113f087a4",
+      "SourceDataID": "a77b90bf-0eb5-42f8-9e9a-af616c5a4132",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Sim Settlements 2 Addons_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cea0e513-344e-4f77-979b-a903b021cb3a",
-      "Hash": "8Q4R19ShpZ4=",
+      "SourceDataID": "ffe2db48-bdbe-4426-a179-9397dc7aa899",
+      "Hash": "QgGys1Osqwo=",
       "Size": 2301,
       "To": "mods\\Sim Settlements 2 Automatron Mod\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9772c025-338e-4226-9361-6d4c2b8d878b",
-      "Hash": "g0bAKAhcieQ=",
+      "SourceDataID": "2baeb34d-6e3c-410d-ac2a-1e7c16282358",
+      "Hash": "x+7TpouuPLM=",
       "Size": 552,
       "To": "mods\\Sim Settlements 2 Scrappers\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "73d667a5-c65a-44de-a2f6-9017ec1c099c",
-      "Hash": "9Rl8UHe3UBI=",
+      "SourceDataID": "59107fac-5073-41c8-997e-fe89fe2fa97e",
+      "Hash": "JYHj2iPuG0M=",
       "Size": 7835,
       "To": "mods\\Sim Settlements 2 Wasteland Reconstruction Kit\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "98b89b0d-06ef-4564-a09e-565ff9564e7a",
+      "SourceDataID": "5f93affc-013b-487d-8dff-55d6fe88183f",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Sim Settlements 2_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a647508a-9a70-4261-b82a-e6b541c1256d",
-      "Hash": "0eiJz4B/GCQ=",
+      "SourceDataID": "ea4b705e-1ad0-4457-8165-e91366b5c49e",
+      "Hash": "Bc2NiVQ5YdQ=",
       "Size": 530,
       "To": "mods\\Snappable Junk Fences\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "021447ae-c521-4dee-ae48-965fcec75af8",
-      "Hash": "iNMbGZbkjhs=",
+      "SourceDataID": "46b821c5-52d4-48ae-81db-864643600e9c",
+      "Hash": "jwLt+zVOrg8=",
       "Size": 548,
       "To": "mods\\Sprint Stuttering Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "71484807-0197-4ca5-a21b-3bd397f7f063",
-      "Hash": "fTrqhGZQ1dE=",
-      "Size": 554,
+      "SourceDataID": "6d9dd59a-aba4-4acf-9010-c490c800ed39",
+      "Hash": "TGeNr2ej12I=",
+      "Size": 574,
       "To": "mods\\SS2 Addon Pack - Walled Gardens and More\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ab61c17e-fb26-48d8-90cc-ba9d9dadfb6f",
-      "Hash": "5fw5Y5e4oEA=",
-      "Size": 5142,
-      "To": "mods\\SS2 Extended\\meta.ini"
-    },
-    {
-      "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "598d5927-9ce5-4f1a-8d5d-f4563cdfdb33",
-      "Hash": "wj2V0YcitL0=",
-      "Size": 3369,
+      "SourceDataID": "8c19a1e1-2be0-45cb-ad2d-7f4cc6bc6ea7",
+      "Hash": "ZFOxwq/qTgQ=",
+      "Size": 3393,
       "To": "mods\\SS2 Nobody's Leaders 2\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8f5d5c07-0821-40ef-b192-46a927f6b376",
-      "Hash": "i4ticlUh4AY=",
-      "Size": 570,
-      "To": "mods\\SS2 Superstructures - A Sim Settlements 2 Addon Pack\\meta.ini"
-    },
-    {
-      "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "607fbd9e-a653-408c-9650-e2f8f38cfcf1",
-      "Hash": "ylqh2EHE69w=",
+      "SourceDataID": "7bd3e726-01ca-475d-a1d1-73a415894086",
+      "Hash": "NnVLvrvYwf0=",
       "Size": 2726,
       "To": "mods\\Starlight Drive In LOD Fix with ESL\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "10bef6ff-a848-4a1a-b1f0-ac4ebc1599dd",
+      "SourceDataID": "b4c9b065-b82c-4290-8c7a-5ec5fabe1040",
       "Hash": "vYBaCWvoMmw=",
       "Size": 1166,
       "To": "mods\\String Patches for Full Dialogue Interface\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1ccac878-5050-4bfe-a79b-28ed6f50e3f9",
+      "SourceDataID": "9f997160-4e30-416f-885f-e2d4a72d17d9",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Textures_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ae549de7-05e1-4932-83b5-2294108e080c",
-      "Hash": "AZETVwHIZ3g=",
+      "SourceDataID": "f8fcda54-cc36-4dc9-83b4-de1000fa5d36",
+      "Hash": "puzSZZeZZV0=",
       "Size": 610,
       "To": "mods\\The Eyes of Beauty Fallout Kaleidoscope Edition - All-in-One\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5fe1957f-baa8-4362-87d2-fa501c116ff7",
-      "Hash": "l7V+FYMLcro=",
-      "Size": 6787,
+      "SourceDataID": "ced7a3b2-5280-4b33-a830-3729584a0ce9",
+      "Hash": "qf5GUnDSWE0=",
+      "Size": 7012,
       "To": "mods\\There It Is - Satellite Maps For Collectors\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b4ce02a2-93ee-4138-8d71-d27b84944ab4",
-      "Hash": "xGGYC75Fj9I=",
+      "SourceDataID": "4c8ab855-3edc-47fb-a26a-737aa93faa83",
+      "Hash": "edbnI5LTZIo=",
       "Size": 539,
       "To": "mods\\Unofficial Fallout 4 Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "21509c84-9ba8-4043-a8d0-04df82478053",
+      "SourceDataID": "a6b3c1db-84f1-411a-a67a-bb5473446eae",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\User Interface_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "817425da-cdbf-475f-b42a-882e54cf9abe",
+      "SourceDataID": "32267f54-9307-42bd-aa7b-605d068272a5",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Utility_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7772c6c0-1332-4e2f-8eb6-7e987bb8d3a8",
-      "Hash": "4wuptgolCa8=",
+      "SourceDataID": "4beb078c-efd7-4947-a3f5-44c8f967e978",
+      "Hash": "AZywCukon5w=",
       "Size": 13731,
       "To": "mods\\Vault 88 Essentials\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8ba5afcf-9f60-4204-91da-cfffbb442d73",
-      "Hash": "Z1eqQccJf60=",
+      "SourceDataID": "fb98cca9-e54a-495f-b171-d8c0ced17736",
+      "Hash": "eb+KqPJTIR8=",
       "Size": 535,
       "To": "mods\\Vault 88 Template - Optimised\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4347cb44-f068-43c4-8def-f87d681aee60",
-      "Hash": "nYQOf+6RXc0=",
-      "Size": 8898,
+      "SourceDataID": "2b822f94-79e9-4f65-b305-676cbc438025",
+      "Hash": "tYNqeTn/ZO0=",
+      "Size": 8901,
       "To": "mods\\Vault-Tec Tools - Sim Settlements 2 Addon Pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9c1b3cc3-2825-4c32-8b77-c0b0a8b61e26",
-      "Hash": "UQttV7KrxUw=",
+      "SourceDataID": "750dafd7-bc19-4238-843f-c9e0ba157bd9",
+      "Hash": "pC3MaF9GO/w=",
       "Size": 549,
       "To": "mods\\Vault-Tec Workshop Overhaul Redux (VTWOR)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5af04d48-7812-4514-b681-246fcad4ba80",
-      "Hash": "rs/GKLQ/GTM=",
+      "SourceDataID": "ff34d76e-bbf3-44a1-bff4-194db2806105",
+      "Hash": "NLAJuRLjVjY=",
       "Size": 536,
       "To": "mods\\Vertibird Jump\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e7dcfd20-f2eb-4587-983c-368616ffd458",
-      "Hash": "7hXPO+If+zg=",
+      "SourceDataID": "831a35e5-ff76-482b-b179-5b3011918c9c",
+      "Hash": "k0TTrnE7FME=",
       "Size": 5931,
       "To": "mods\\Visible Galaxy - Stars Sold Seperately\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6237f3cf-75f6-46c5-b49a-753b8b20a986",
-      "Hash": "R18wAf+JXTg=",
+      "SourceDataID": "5e12621f-78cd-47af-8f1b-627b0b8c194a",
+      "Hash": "/SMPDV0ru80=",
       "Size": 535,
       "To": "mods\\Visible Idle Markers\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d65c79ee-48ce-44c0-8460-24bea9244927",
+      "SourceDataID": "6588225e-b3e3-4fae-ba6e-90885ebaed13",
       "Hash": "FSRizpvwlts=",
       "Size": 420,
       "To": "mods\\Visual_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "def9a877-b3e7-443e-a707-3052fb631684",
-      "Hash": "82ppizsvSxk=",
+      "SourceDataID": "6c80dcf3-2f93-4348-94c0-7a84957613b2",
+      "Hash": "nsSre4k79M8=",
       "Size": 538,
       "To": "mods\\Wallmageddon\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "75d4014f-412a-405b-a158-4115dfa0e034",
-      "Hash": "G+q7TaR72yA=",
+      "SourceDataID": "465d3772-9334-4d8e-afb7-29bfdb1d0201",
+      "Hash": "huSDpOEC4qU=",
       "Size": 554,
       "To": "mods\\Wasteland Venturers Sim Settlements 2 Addon Pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6f04d98e-96e3-4135-aee7-c67e27e8e954",
-      "Hash": "pb+7/7hMzWk=",
+      "SourceDataID": "47b3b1c1-89e3-4068-a2fa-3cc68fe99aad",
+      "Hash": "CCnf8SYytgU=",
       "Size": 530,
       "To": "mods\\WAVE - Wave Animation Vanilla Enhanced\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1f0b3ec5-42ec-42c4-9fd1-fb00fb5fbe70",
-      "Hash": "u70CYcMKq10=",
+      "SourceDataID": "aec1be9f-6f0a-455c-9475-5b2b3a5dcc9d",
+      "Hash": "9rdI9JF5hwM=",
       "Size": 531,
       "To": "mods\\We Are The Minutemen\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "59b107a2-4bf5-4756-9920-60d1d22db9ee",
-      "Hash": "RBUzAlKXTIQ=",
+      "SourceDataID": "3550f075-7502-4b66-9019-969ac8b52403",
+      "Hash": "sluLWp9+Jy0=",
       "Size": 560,
       "To": "mods\\We Are The Minutemen - Militarized Minutemen - Uniform Patches and Insignia Addon - Compatibility Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2e680bf3-99a6-4747-9e4d-640a786d2edf",
-      "Hash": "XzUXhDyoUeg=",
+      "SourceDataID": "b6cd05d7-1e4e-4221-9105-2d2550f55423",
+      "Hash": "oDNEkdarZOE=",
       "Size": 538,
       "To": "mods\\Weapon Debris Crash Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d68be80a-27bb-418a-95a4-08dc463ebf13",
-      "Hash": "E49UZiH+ApE=",
+      "SourceDataID": "8aa4f7cd-0511-40e2-88c4-5036f9c798fd",
+      "Hash": "Vcn7qxrXAOQ=",
       "Size": 535,
       "To": "mods\\Weapon Wall Racks (WWR)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "28ba5bf3-5776-4c90-8bdf-af4ac2fb5641",
-      "Hash": "y4+hJ52QKI4=",
+      "SourceDataID": "53e2b3d3-0ead-4d9f-9c58-b703d1d06f3b",
+      "Hash": "3yEDtFDsHkE=",
       "Size": 543,
       "To": "mods\\Weston Water LOD Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4326c651-e664-4074-8cd3-875ccba5dba0",
-      "Hash": "bbNod0s3X94=",
+      "SourceDataID": "be7d1fdf-86c4-4a5f-94aa-34fbd0a18928",
+      "Hash": "Ti7RXC7EKVM=",
       "Size": 604,
       "To": "mods\\WET\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3f17849f-f7bd-4b3c-a112-ec4247d245f1",
-      "Hash": "xzTvn3zx/gY=",
-      "Size": 547,
+      "SourceDataID": "02ae8b10-3e02-4634-9c26-dccdfd4406a9",
+      "Hash": "ttKmzEZQ0Ts=",
+      "Size": 4084,
       "To": "mods\\Wetness Shader Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "06e02656-6a93-4827-94dd-4bff99f3c1d2",
-      "Hash": "J5mR6DdhUvw=",
+      "SourceDataID": "3e128fae-b624-4adb-9c4d-b192d3f43522",
+      "Hash": "vdfhHUn12fo=",
       "Size": 547,
       "To": "mods\\Whisper's Extra Pieces and Snaps\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1b7f4e92-0e2b-49b9-9712-f1b6679d99ba",
-      "Hash": "hBwgMqTSQKU=",
+      "SourceDataID": "e86a38f4-1ad6-4af2-9aff-eec2844f3847",
+      "Hash": "X9XFC6yWI2U=",
       "Size": 544,
       "To": "mods\\Whisper's Institute Build Kit\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "210a9b8c-20e9-450b-b67f-90258c490ea3",
-      "Hash": "gPxXgH8spJM=",
+      "SourceDataID": "b8984e1b-9262-46fe-88d7-86d6876feb9b",
+      "Hash": "J3uoxDIfCz8=",
       "Size": 684,
       "To": "mods\\Whose Quest Is It Anyway\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "01027cbc-b753-416f-8c07-228b56cf75ff",
-      "Hash": "7NN32KNQ0jU=",
+      "SourceDataID": "10f39f50-8495-4c39-877f-42cef7b50410",
+      "Hash": "gWrcAF0aPxo=",
       "Size": 535,
       "To": "mods\\Wireless Workshop Items\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "54165775-d668-488c-9634-2d06de1e5855",
-      "Hash": "rSwtzwnOIG4=",
-      "Size": 9932,
+      "SourceDataID": "c80e3b9e-68a1-4cfe-9ab4-a2e5ad3ce2b8",
+      "Hash": "Os9iF2E8/nE=",
+      "Size": 9926,
       "To": "mods\\Workshop Framework\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ad8439f7-33eb-4612-8d68-a04b16af52ed",
-      "Hash": "jf2wgllDTNg=",
-      "Size": 547,
+      "SourceDataID": "27f1a5ec-d408-49be-bdf4-a4e876fc9fc9",
+      "Hash": "vwDqJ52Sg8A=",
+      "Size": 7973,
       "To": "mods\\Workshop Plus\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "75c607d8-a4ff-4714-a460-71cc4d76503b",
+      "SourceDataID": "eb1bf743-d9b5-4778-b4c3-1b6629ce699c",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Workshop_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1cad163f-e30a-4d23-a17a-8794a7dd538b",
+      "SourceDataID": "d6c15b5e-35ec-44c8-b13a-fe27c51b64dd",
       "Hash": "+HvffoDC09o=",
       "Size": 956,
       "To": "mods\\[NoDelete] Creation Club Content\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cb3ecfef-ba87-430a-a8ab-c071b1c0ef96",
-      "Hash": "wjJnZB3C694=",
-      "Size": 5149,
+      "SourceDataID": "781f48b3-8cbb-43b5-adfb-b1eb2787e9d6",
+      "Hash": "xuSI1rxrHII=",
+      "Size": 5051,
       "To": "profiles\\F4WE\\archives.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9e386f07-7a7a-4c70-8715-5fa25f23272d",
+      "SourceDataID": "8507ce50-078c-4742-8f21-5cb7a7ef1829",
       "Hash": "fcjOV+WlfVY=",
       "Size": 2991,
       "To": "profiles\\F4WE\\Fallout4.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "656822af-b51d-4378-b2b6-dcf7e2e6c73a",
+      "SourceDataID": "9b3c9b85-e5ff-4ec1-9fed-80201250b8df",
       "Hash": "9UB6RsV7RFc=",
       "Size": 1008,
       "To": "profiles\\F4WE\\Fallout4Custom.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b041857f-6012-4f3b-b7cb-125fda5542ed",
+      "SourceDataID": "05a3a84e-8910-4081-b1b8-3944534a0aed",
       "Hash": "4rDksh/6ZDs=",
       "Size": 4726,
       "To": "profiles\\F4WE\\Fallout4Prefs.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d7356c0a-fd3f-4752-8259-d39b2dce9ef3",
+      "SourceDataID": "1e01feb3-8fb0-4a93-9492-efff5fd918c8",
       "Hash": "zH3GSffbvsA=",
       "Size": 36,
       "To": "profiles\\F4WE\\initweaks.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6f927a35-c9fc-485e-9901-df73d3c2349c",
-      "Hash": "YdLtlocmAIk=",
-      "Size": 3836,
+      "SourceDataID": "fb04a50d-a649-457b-830c-19c1e843da6c",
+      "Hash": "eQrK/mswo+0=",
+      "Size": 3816,
       "To": "profiles\\F4WE\\loadorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8fdd81c6-1dcb-4c90-9b1d-024a7b0d32f9",
-      "Hash": "s+v05BqDJm0=",
+      "SourceDataID": "82dea731-f912-403b-ac49-fbaf99b899e7",
+      "Hash": "eGA8OaingAk=",
       "Size": 726,
       "To": "profiles\\F4WE\\lockedorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9eb11e16-635a-4b47-bf59-22abbfa9e98f",
-      "Hash": "AUiZDhNohn4=",
-      "Size": 6390,
+      "SourceDataID": "16f0e6bd-9d77-4318-992f-ebc1ad06172c",
+      "Hash": "4rCYCgF6W9E=",
+      "Size": 6288,
       "To": "profiles\\F4WE\\modlist.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "02cef4bb-ce23-4521-9589-ac8e6b828d0e",
-      "Hash": "0JAUlTn7NuE=",
-      "Size": 3463,
+      "SourceDataID": "b72ce161-10cc-491d-98dc-1f3188a35065",
+      "Hash": "eDDhWbZICLQ=",
+      "Size": 3444,
       "To": "profiles\\F4WE\\plugins.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6cabf025-d0bf-46bf-bd4c-e5072aabcb7b",
+      "SourceDataID": "723b3010-24f1-493a-bbe8-1262ceca74b1",
       "Hash": "uWyxDtI63+U=",
       "Size": 84,
       "To": "profiles\\F4WE\\settings.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "854cb2ae-fb9d-4443-b99f-20ec0d1299b0",
+      "SourceDataID": "08aed34c-a9a2-4808-a26c-942a302a74b0",
       "Hash": "rq5ytUK64Y4=",
       "Size": 246741,
       "To": "mods\\String Patches for Full Dialogue Interface\\Strings\\DLCCoast_en.STRINGS"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ed794f07-277c-4dd0-8267-e1b3ecf092e8",
+      "SourceDataID": "5473113f-1147-4240-af36-0e1f15b8e497",
       "Hash": "8jf7m984qvw=",
       "Size": 339562,
       "To": "mods\\String Patches for Full Dialogue Interface\\Strings\\DLCNukaWorld_en.STRINGS"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "66cc999e-5c42-4c0e-9b0f-dcfd5f6cbe87",
+      "SourceDataID": "5181ea79-4dc5-4913-9dc4-2a41af44fae8",
       "Hash": "u6+2pOr01aY=",
       "Size": 147138,
       "To": "mods\\String Patches for Full Dialogue Interface\\Strings\\DLCRobot_en.STRINGS"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5a06572b-0744-473a-8013-985a2ae3dfeb",
+      "SourceDataID": "c22f2f04-e7f0-40fc-bba2-6fd6e176b624",
       "Hash": "ehnH0RFFOyo=",
       "Size": 43097,
       "To": "mods\\String Patches for Full Dialogue Interface\\Strings\\DLCworkshop03_en.STRINGS"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "58d2cdf4-d429-4ed8-9895-4b86affe5919",
+      "SourceDataID": "b5bdde2a-44b7-4d63-ae15-9e08c58c5a54",
       "Hash": "5EZ1OFVgYKo=",
       "Size": 1833243,
       "To": "mods\\String Patches for Full Dialogue Interface\\Strings\\Fallout4_en.STRINGS"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b460400b-279a-42b4-87c3-1a12fa53b061",
+      "SourceDataID": "a006562c-320c-47f8-818c-20b8771d2d19",
       "Hash": "Idj9+rdeKSU=",
       "Size": 314880,
       "To": "mods\\F4SE - Garbage Collector Fix\\F4SE\\Plugins\\GCBugFix.dll"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ce834dcd-cf70-4b03-8bda-b3afc6d4085a",
+      "SourceDataID": "ed17bf6b-614d-4b31-bffc-2d7c9f66466b",
       "Hash": "9diEk7NUp5Y=",
       "Size": 495,
       "To": "mods\\F4SE - Garbage Collector Fix\\F4SE\\Plugins\\GCBugFix.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ed727c69-83e3-4da4-8ec6-f987eda9d887",
+      "SourceDataID": "982a03db-0b19-4272-8075-5f5a15e76785",
       "Hash": "f5Z50hyY/6g=",
       "Size": 12543,
       "To": "mods\\F4WE - Config\\F4SE\\Plugins\\HighFPSPhysicsFix.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1cccc12d-9d5d-4ce1-9fda-322ac218cedd",
+      "SourceDataID": "fb4df3b2-7429-4e6e-8399-755594d782b1",
       "Hash": "9ZowiSo6I54=",
       "Size": 9863,
       "To": "mods\\F4WE - Config\\MCM\\Settings\\Presets\\Defaults.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a491f087-7df4-4ffd-a552-5eb35b38066d",
+      "SourceDataID": "6184968c-cf23-445c-9b02-4df21ba7a5fd",
       "Hash": "FHtCUERkQI8=",
       "Size": 9870,
       "To": "mods\\F4WE - Config\\MCM\\Settings\\Presets\\F4WE.ini"
